@@ -1,5 +1,5 @@
 # 📊 Text Mining & Sentiments : L'Enquêteur du Niger
-> **Une analyse empirique de la ligne éditoriale et de l'engagement citoyen durant la transition de l'AES.**
+> **Une analyse empirique de la ligne éditoriale et de l'engagement citoyen durant la transition depuis l'investiture de Tiani en mars 2025.**
 
 ---
 
@@ -45,30 +45,26 @@ Le projet est structuré de manière modulaire pour garantir sa reproductibilit�
 
 ### I. Analyse Textuelle & Mots-Clés
 
-#### Figure 1 : Nuage de mots global (avant filtrage de mots parasites(mais, pas , ect...) évidemment négatifs)
+#### Figure 1 : Nuage de mots global (avant filtrage de mots parasites(mais, pas , ect.) évidemment négatifs)
 ![Nuage de mots global](outputs/figures/fig1_nuage_mots_global.png)
 > 📝 **Interprétation :**
-> *Remplacer ce texte par votre analyse. Décrivez ici les termes les plus volumineux (ex: Souveraineté, AES, Transition...) et ce qu'ils révèlent sur les priorités éditoriales du média.*
+> *Nous observons sur ce nuages de mots une importance des mots qui indique la négaion ou le réfus . Ceci peut-être interprété comme une caracteristique propore de ce journal à vouloir dénoncer les mauvaises pratiques et les maux dont souffre notre société et la sphere politique de notre pays. La conjonction "mais" très presente dans ces textes renvoie à la critique et le regard que le journal porte sur le quotidien des nigeriens.*
 ---
 
 #### Figure 1 : Nuage de mots global (filtré)
 ![Nuage de mots global](outputs/figures/fig1_nuage_mots_global2.png)
 > 📝 **Interprétation :**
-> *Remplacer ce texte par votre analyse. Décrivez ici les termes les plus volumineux (ex: Souveraineté, AES, Transition...) et ce qu'ils révèlent sur les priorités éditoriales du média.*
+> *Pour comprendre en profondeur autour de quoi tournent les écrits des éditeurs, nous avons juger utiles de mettre les mots les mots négatifs évidents en STOP-WORDS c'est à dire mots vides. Cela nous a permis de voir les mots les plus signifiants autour desquels tournent les discours. Cette figure montre montre des mots en grands(fréquents) parmi lesquels Principalement 3 attire notre attention:*
+> *POLITIQUE: Ce qui se traduit par un discours qui vise beaucoup plus la tendance politique;*
+> *ETAT: Ceci est la cible principale du journal;*
+> *SOUVERENAITE: Ce le thème central autour duquel le journal écrit et c'est parceque en grande partie la quête de souverenaité était le dessein principal du COUP D'ETAT de 26 Juillet 2023.*
 
 ---
 
 #### Figure 2 : Top 20 des mots les plus fréquents
 ![Top 20 mots](outputs/figures/fig2_top_20_mots.png)
 > 📝 **Interprétation :**
-> *Remplacer ce texte par votre analyse. Notez la cohérence avec le nuage de mots et commentez l'absence des mots vides (grâce à notre filtre stop-words personnalisé).*
-
----
-
-#### Figure 3 : Top 15 des Slogans & Hashtags de ralliement
-![Top 15 Hashtags](outputs/figures/fig3_top_hashtags.png)
-> 📝 **Interprétation :**
-> *Remplacer ce texte par votre analyse. Identifiez ici les hashtags les plus fédérateurs et leur portée militante ou informative sur les réseaux.*
+> *Cette figure nous donne précisemment les mots les plus fréquents Nous avons le mot état qui est classé en tête confirmant bien évidemment la cible de l'éditeur. Des mots tels "Souverenaité" et "réfondation" , sont frequemment cités. Ceci est une confirmation de la cible de ce journal sachant bien évidemment que les mots précédemment évoqués constituent le champs lexical dominant des discours du gouvernement de la transition.*
 
 ---
 
@@ -77,7 +73,7 @@ Le projet est structuré de manière modulaire pour garantir sa reproductibilit�
 #### Figure 4 : Distribution de la Polarité (Le ton général)
 ![Distribution Polarité](outputs/figures/fig4_distribution_polarite.png)
 > 📝 **Interprétation :**
-> *Remplacer ce texte par votre analyse. Le ton du journal est-il globalement neutre, ultra-positif (soutien) ou négatif (dénonciation des menaces/impérialisme) ? Que dit la valeur moyenne ?*
+> *Le ton global du journal comme nous pouvons l'observer reste en moyenne positif(0.06) bien que ça soit plus proche de la neutralité. Nous pouvons observer également un côté négatif alimenté par peu d'articles par rapport au côté positif. On peut noter que parmi les artciles positifs la majorité reste en dessous de la moyenne et donc presque neutre alors que ceux qui sont très positif sont peu. Ces résultats ne sont en aucun en contradiction avec notre prémière interprétation des nuages de mots contenant les mots évidemment négatifs, par contre elle vient clarifier ou compléter la tonalité des articles. Ce traitement de ton dépasse le cadre de nuages de mots où les mots sont répresentés de manière isolés: les mots sont évalués dans leurs contexte et sont donc bien évalués en polarité*
 
 ---
 
