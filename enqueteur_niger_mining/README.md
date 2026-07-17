@@ -1,4 +1,4 @@
-# 📊 Text Mining & Sentiments : L'Enquêteur du Niger
+# 📊 Text Mining & Sentiments : Le Journal L'Enquêteur, Niger
 > **Une analyse empirique de la ligne éditoriale et de l'engagement citoyen durant la transition depuis l'investiture de Tiani en mars 2025.**
 
 ---
@@ -80,7 +80,7 @@ Le projet est structuré de manière modulaire pour garantir sa reproductibilit�
 #### Figure 5 : Positionnement sémantique (Polarité vs Subjectivité)
 ![Polarité vs Subjectivité](outputs/figures/fig5_polarite_vs_subjectivite.png)
 > 📝 **Interprétation :**
-> *Remplacer ce texte par votre analyse. Comment se répartissent les articles par thématique ? Voit-on des thèmes très factuels (basse subjectivité) contrastant avec des thèmes d'opinion pure ?*
+> *Cette figure de croisement Subjectivité vs Polarité met en évidence un fait très intéressant: beaucoup d'articles(majorité) sont écrits de manière subjective et positive( c'est à dire ils rélatent que des faits et loin d'opinions avec les bons termes et de manière constructive) sur la politique interne actuelle du pays conduite par le gouvernement de la transition*
 
 ---
 
@@ -89,7 +89,7 @@ Le projet est structuré de manière modulaire pour garantir sa reproductibilit�
 #### Figure 6 : Évolution de l'indice de sentiment au cours du temps
 ![Évolution temporelle](outputs/figures/fig6_evolution_sentiment_temps.png)
 > 📝 **Interprétation :**
-> *Remplacer ce texte par votre analyse. Reliez les pics et les creux de la courbe de polarité glissante avec des événements réels de l'actualité nigérienne sur la période 2025-2026.*
+> *Les pics et les creux de la courbe de polarité glissante doivent être réliés avec des événements réels de l'actualité nigérienne sur la période 2025-2026, afin de garantir une bonne interpretabilité. Il n'est pas à ignorer que nous restons toujours dans du positif en moyenne*
 
 ---
 
