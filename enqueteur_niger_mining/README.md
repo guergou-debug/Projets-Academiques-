@@ -98,14 +98,14 @@ Le projet est structuré de manière modulaire pour garantir sa reproductibilit�
 #### Figure 7 : Virulence du post vs Taux de partage
 ![Polarité vs Partages](outputs/figures/fig7_polarite_vs_partages.png)
 > 📝 **Interprétation :**
-> *Remplacer ce texte par votre analyse. Est-ce que la régression montre que les articles les plus négatifs (virulents) ou les plus positifs génèrent davantage de partages de la part de l'audience ?*
+> *Il semble que les posts à polarité sont les moins partager(n'atteignant pas 100 partages par article). Cceci peut donner une idée comme quoi les gens ont peur de paratger le discours du journal lorsqu'il est moins positif en régime non démocratique(peur de l'interpélation) ou bien simple envie de ne pas aider à véhiculer les vérités amères sur le Niger aux yeux du monde entier. Plusieurs autres hypothèses peuvent être émises à ce point.*
 
 ---
 
 #### Figure 8 : Profil des réactions sur Facebook
 ![Distribution Réactions](outputs/figures/fig8_distribution_reactions.png)
 > 📝 **Interprétation :**
-> *Remplacer ce texte par votre analyse. Commentez la prédominance de certaines réactions émotionnelles (Wow, J'adore, Grrr, Solidaire) par rapport au volume global de J'aime.*
+> *Les likes sont logiquement le plus de réactions le plus fréquent et c'est de loin plus important aux autres types des réactions. Cela traduit le soutien de l'audience du journal et de paratage de pensées ou de confirmation de faits qu'il expose et critique. La réaction de tristesse est la plus faible, cela confirme une fois de plus la positivité de la majeure partie des articles. Il y'a plus de plaisir et d'espoir à prendre en lisant l'enquêteur que de tristesse et du dégoût. Les gens voient en cet éditorial un moyen de faire savoir au gouvernement ce qu'ils pensent , dénoncer ce qui se passent de mauavais au Niger indirectement.*
 
 ---
 
@@ -114,19 +114,25 @@ Le projet est structuré de manière modulaire pour garantir sa reproductibilit�
 #### Figure 9 : Volume de publications et polarité par Thématique
 ![Volume et polarité par Thème](outputs/figures/fig9_theme_volume_polarite.png)
 > 📝 **Interprétation :**
-> *Remplacer ce texte par votre analyse. Quel est le thème le plus abordé en volume ? Quel est le thème qui affiche la polarité la plus négative ou positive ?*
+> *Les articles du journal concernent la politique interne et le gouvernement de transition avec des sentiments positifs, l'AES reste beaucoup moins mentionnée et lorsqu'elle apparait c'est avec un ton de neutralité?*
 
 ---
 
 #### Figure 10 : Niveau d'engagement moyen des lecteurs par Thématique
 ![Engagement par Thème](outputs/figures/fig10_engagement_moyen_par_theme.png)
 > 📝 **Interprétation :**
-> *Remplacer ce texte par votre analyse. Sur quel sujet l'audience de L'Enquêteur réagit-elle le plus activement (commentaires, likes, partages cumulés) ?*
+> *Il va de soi  que le thème le plus dominant démeure le plus engageant, sinon le journal pourrait arrêter de produire des textes sur celui-ci et cherchez ou tester une alternative.*
 
 ---
 
-## ⚖️ Droits d'auteur & Propriété Intellectuelle
+#### Annexe 1 : Corrélation entre types d'engagement
+![Engagement par Thème](outputs/figures/correlation_engagement.png)
 
+#### Annexe 2 : Rythme de publication du Journal
+![Engagement par Thème](outputs/figures/rythme_publications.png)
+
+---
+## ⚖️ Droits d'auteur & Propriété Intellectuelle
 Toutes les analyses, méthodologies de nettoyage NLP, architectures de code et représentations graphiques présentées dans ce dépôt sont l'œuvre originale de son auteur.
 
 **© 2026 - GUERGOU GAGARA Abdoul-Samah**  
