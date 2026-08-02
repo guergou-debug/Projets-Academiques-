@@ -1,5 +1,5 @@
-# 📊 Text Mining & Sentiments : L'Enquêteur du Niger
-> **Une analyse empirique de la ligne éditoriale et de l'engagement citoyen durant la transition de l'AES.**
+# 📊 Text Mining & Sentiments : Le Journal L'Enquêteur, Niger
+> **Une analyse empirique de la ligne éditoriale et de l'engagement citoyen durant la transition depuis l'investiture de Tiani en mars 2025.**
 
 ---
 
@@ -41,34 +41,28 @@ Le projet est structuré de manière modulaire pour garantir sa reproductibilit�
 
 ## 🖼️ Galerie des Figures & Analyses
 
-*Note : Les figures ci-dessous sont générées automatiquement par le script de visualisation et enregistrées dans le dossier `outputs/figures/`.*
-
 ### I. Analyse Textuelle & Mots-Clés
 
-#### Figure 1 : Nuage de mots global (avant filtrage de mots parasites(mais, pas , ect...) évidemment négatifs)
+#### Figure 1 : Nuage de mots global (avant filtrage de mots parasites(mais, pas , ect.) évidemment négatifs)
 ![Nuage de mots global](outputs/figures/fig1_nuage_mots_global.png)
 > 📝 **Interprétation :**
-> *Remplacer ce texte par votre analyse. Décrivez ici les termes les plus volumineux (ex: Souveraineté, AES, Transition...) et ce qu'ils révèlent sur les priorités éditoriales du média.*
+> *Nous observons sur ce nuage de mots l'importance des mots qui indiquent la négaion ou le rejet. Ceci peut-être interprété comme une caracteristique propore de ce journal à vouloir dénoncer les mauvaises pratiques et les maux dont souffre notre société et la sphere politique de notre pays. La conjonction "mais" très présente dans ces textes renvoie à l'esprit critique qu'incarnent les éditeurs.*
 ---
 
 #### Figure 1 : Nuage de mots global (filtré)
 ![Nuage de mots global](outputs/figures/fig1_nuage_mots_global2.png)
 > 📝 **Interprétation :**
-> *Remplacer ce texte par votre analyse. Décrivez ici les termes les plus volumineux (ex: Souveraineté, AES, Transition...) et ce qu'ils révèlent sur les priorités éditoriales du média.*
+> *Pour comprendre en profondeur autour de quoi oscillent les écrits des éditeurs, nous avons jugé utile de mettre les conjonctions négatives en STOP-WORDS c'est à dire mots vides. Cela nous a permis de voir les mots les plus signifiants autour desquels tournent les discours. Cette figure montre montre des mots en grand(fréquents) parmi lesquels Principalement 3 attirent notre attention:*
+> *POLITIQUE: Ce qui se traduit par un discours qui vise beaucoup plus la tendance politique;*
+> *ETAT: Ceci est la cible principale du journal;*
+> *SOUVERENAITE: C'est l'un des thèmes centraux des articles. Nous rappelons que la quête de souverenaité était le dessein principal du COUP D'ETAT de 26 Juillet 2023.*
 
 ---
 
 #### Figure 2 : Top 20 des mots les plus fréquents
 ![Top 20 mots](outputs/figures/fig2_top_20_mots.png)
 > 📝 **Interprétation :**
-> *Remplacer ce texte par votre analyse. Notez la cohérence avec le nuage de mots et commentez l'absence des mots vides (grâce à notre filtre stop-words personnalisé).*
-
----
-
-#### Figure 3 : Top 15 des Slogans & Hashtags de ralliement
-![Top 15 Hashtags](outputs/figures/fig3_top_hashtags.png)
-> 📝 **Interprétation :**
-> *Remplacer ce texte par votre analyse. Identifiez ici les hashtags les plus fédérateurs et leur portée militante ou informative sur les réseaux.*
+> *Cette figure nous donne précisemment les mots les plus fréquents Nous avons le mot état qui est classé en tête confirmant bien évidemment la cible de l'éditeur. Des mots tels que "Souverenaité" et "réfondation" , sont aussi frequemment cités. Ceci est une confirmation de la cible de ce journal sachant bien évidemment que ces mots précédemment évoqués constituent le champs lexical dominant des discours du gouvernement de la transition.*
 
 ---
 
@@ -77,14 +71,14 @@ Le projet est structuré de manière modulaire pour garantir sa reproductibilit�
 #### Figure 4 : Distribution de la Polarité (Le ton général)
 ![Distribution Polarité](outputs/figures/fig4_distribution_polarite.png)
 > 📝 **Interprétation :**
-> *Remplacer ce texte par votre analyse. Le ton du journal est-il globalement neutre, ultra-positif (soutien) ou négatif (dénonciation des menaces/impérialisme) ? Que dit la valeur moyenne ?*
+> *Le ton global du journal comme nous pouvons l'observer reste en moyenne positif(0.06) bien que ça soit plus proche de la neutralité. Nous pouvons observer également un côté négatif alimenté par peu d'articles par rapport au côté positif. On peut noter que parmi les artciles positifs la majorité reste au dessus de la moyenne et sont donc très positifs alors que ceux qui sont neutre restent peu. Ces résultats ne sont en aucun cas en contradiction avec notre prémière interprétation de nuages de mots contenant les conjonctions et mots évidemment négatifs, par contre ils viennent clarifier et compléter la tonalité des articles. Ce traitement de ton dépasse le cadre des nuages où les mots sont répresentés de manière isolés: les mots sont pris dans leurs contextes et sont donc bien évalués en polarité*
 
 ---
 
 #### Figure 5 : Positionnement sémantique (Polarité vs Subjectivité)
 ![Polarité vs Subjectivité](outputs/figures/fig5_polarite_vs_subjectivite.png)
 > 📝 **Interprétation :**
-> *Remplacer ce texte par votre analyse. Comment se répartissent les articles par thématique ? Voit-on des thèmes très factuels (basse subjectivité) contrastant avec des thèmes d'opinion pure ?*
+> *Cette figure de croisement Subjectivité vs Polarité met en évidence un fait très intéressant: beaucoup d'articles(majorité) sont écrits de manière subjective et positive( c'est à dire ils rélatent que des faits avec les bons termes et de manière constructive) sur la politique interne actuelle du pays conduite par le gouvernement de la transition*
 
 ---
 
@@ -93,7 +87,7 @@ Le projet est structuré de manière modulaire pour garantir sa reproductibilit�
 #### Figure 6 : Évolution de l'indice de sentiment au cours du temps
 ![Évolution temporelle](outputs/figures/fig6_evolution_sentiment_temps.png)
 > 📝 **Interprétation :**
-> *Remplacer ce texte par votre analyse. Reliez les pics et les creux de la courbe de polarité glissante avec des événements réels de l'actualité nigérienne sur la période 2025-2026.*
+> *Les pics et les creux de la courbe de polarité glissante doivent être réliés avec des événements réels de l'actualité nigérienne sur la période 2025-2026, afin de garantir une bonne interpretabilité. Il n'est pas à ignorer que nous restons toujours dans du positif en moyenne*
 
 ---
 
@@ -102,14 +96,14 @@ Le projet est structuré de manière modulaire pour garantir sa reproductibilit�
 #### Figure 7 : Virulence du post vs Taux de partage
 ![Polarité vs Partages](outputs/figures/fig7_polarite_vs_partages.png)
 > 📝 **Interprétation :**
-> *Remplacer ce texte par votre analyse. Est-ce que la régression montre que les articles les plus négatifs (virulents) ou les plus positifs génèrent davantage de partages de la part de l'audience ?*
+> *Il semble que les articles négatifs sont les moins partagés(n'atteignant pas les 100 partages par article). Ceci peut donner une idée comme quoi les gens ont peur de paratger le discours du journal lorsqu'il est moins positif en régime non démocratique(peur de l'interpélation) ou bien simple envie de ne pas aider à véhiculer les vérités amères sur le Niger aux yeux du monde entier. Plusieurs autres hypothèses peuvent être émises à ce point.*
 
 ---
 
 #### Figure 8 : Profil des réactions sur Facebook
 ![Distribution Réactions](outputs/figures/fig8_distribution_reactions.png)
 > 📝 **Interprétation :**
-> *Remplacer ce texte par votre analyse. Commentez la prédominance de certaines réactions émotionnelles (Wow, J'adore, Grrr, Solidaire) par rapport au volume global de J'aime.*
+> *Les likes sont logiquement la réaction la plus fréquente et c'est de loin plus important que tous les autres types des réactions. Cela traduit le soutien de l'audience d et le paratage de pensées sur les faits qu'expose et critique l'ênquêteur. La réaction de colère est faiblement représentée, cela confirme une fois de plus la positivité de la majeure partie des articles. Il y'a plus de plaisir et d'espoir à prendre en lisant l'enquêteur que de tristesse, de colère et du dégoût. Les gens voient en cet éditorial un moyen de faire entendre leurs pensées et voix indirectement.*
 
 ---
 
@@ -118,19 +112,28 @@ Le projet est structuré de manière modulaire pour garantir sa reproductibilit�
 #### Figure 9 : Volume de publications et polarité par Thématique
 ![Volume et polarité par Thème](outputs/figures/fig9_theme_volume_polarite.png)
 > 📝 **Interprétation :**
-> *Remplacer ce texte par votre analyse. Quel est le thème le plus abordé en volume ? Quel est le thème qui affiche la polarité la plus négative ou positive ?*
+> *Les articles du journal concernent la politique interne et le gouvernement de transition avec un sentiment positif, l'AES reste beaucoup moins mentionnée.*
 
 ---
 
 #### Figure 10 : Niveau d'engagement moyen des lecteurs par Thématique
 ![Engagement par Thème](outputs/figures/fig10_engagement_moyen_par_theme.png)
 > 📝 **Interprétation :**
-> *Remplacer ce texte par votre analyse. Sur quel sujet l'audience de L'Enquêteur réagit-elle le plus activement (commentaires, likes, partages cumulés) ?*
+> *Il va de soi  que le thème le plus dominant démeure le plus engageant, sinon le journal allait peut-être arrêter de produire des textes qui concerne la politique interne.*
 
 ---
 
-## ⚖️ Droits d'auteur & Propriété Intellectuelle
+#### Annexe 1 : Corrélation entre types d'engagement
+![Engagement par Thème](outputs/figures/correlation_engagement.png)
 
+#### Annexe 2 : Rythme de publication du Journal
+![Engagement par Thème](outputs/figures/rythme_publications.png)
+
+---
+#### Conclusion:
+Les résultats de cette étude confirment la perception de l'audience nigérienne qui pense que l'enquêteur dénonce les maux qui règnent au sein de la politique du pays. Ce qui est surprenant c'est de voir à quel point cet éditorial est en global très positif et constructif dans son discours. S'il y'a bien un journal auquel attention et soutien dévraient être accordés , c'est bien ce journal unique et distingué au Niger, pendant cette période où personne n'ose se prononcer publiquement pour hisser le drapeau de la vérité. Pourquoi l'éditeur en chef de ce journal s'est-il fait interpellé en ce mois de juillet 2026 alors que ses articles sont positifs , objectifs et validés par l'opinion publique ? 
+
+## ⚖️ Droits d'auteur & Propriété Intellectuelle
 Toutes les analyses, méthodologies de nettoyage NLP, architectures de code et représentations graphiques présentées dans ce dépôt sont l'œuvre originale de son auteur.
 
 **© 2026 - GUERGOU GAGARA Abdoul-Samah**  
