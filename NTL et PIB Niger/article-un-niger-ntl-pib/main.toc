@@ -1,0 +1,16 @@
+\babel@toc {french}{}\relax 
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Problématique \& Littérature}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Questions de Recherche \& Spécifications}{2}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Données et Traitement Satellitaire}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Harmonisation des Capteurs et Artefact de 2017}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Statistiques Descriptives Globales et par Capteur}{3}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Tests de Stationnarité}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Procédure et Résultats du Test ADF}{3}{subsection.3.1}%
+\contentsline {section}{\numberline {4}Résultats Économétriques}{4}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Modèles OLS de Base : Niveaux vs Taux de Croissance}{5}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Modèles Dynamiques et Autorégressifs (ARDL)}{5}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Tests de Robustesse et Diagnostics}{6}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Conclusion et Recommandations}{6}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Recommandations pour les Politiques Publiques}{6}{subsection.5.1}%
+\contentsline {section}{\numberline {A}Figures et Diagnostics Complémentaires}{9}{appendix.A}%

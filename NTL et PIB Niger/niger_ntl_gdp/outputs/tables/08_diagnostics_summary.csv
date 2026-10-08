@@ -1,0 +1,4 @@
+Modèle,Durbin-Watson,Autocorrélation,Breusch-Pagan (p-val),Hétéroscédasticité,Jarque-Bera (p-val),Normalité Résidus,Ramsey RESET (p-val)
+Modèle 1 (Log-Log Niveau),1.2659734140413679,Présente,0.3048943252224512,Absente,0.8433204530955398,Normaux,0.9976172257043662
+Modèle 3 (Croissance Contrôlée),2.8008828595737407,Présente,0.6788713601993689,Absente,0.9220874546541912,Normaux,0.9551177854336242
+"Modèle 7 (ARDL 1,1)",1.9722017272628047,Absente,0.3947143520641019,Absente,0.3791527901272727,Normaux,0.2789799643794205

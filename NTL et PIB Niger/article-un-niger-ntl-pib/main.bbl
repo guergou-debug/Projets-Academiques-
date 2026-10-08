@@ -1,0 +1,20 @@
+\begin{thebibliography}{2}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Henderson et~al.(2012)Henderson, Storeygard, and
+  Weil]{henderson2012measuring}
+J.~Vernon Henderson, Adam Storeygard, and David~N. Weil.
+\newblock Measuring economic growth from outer space.
+\newblock \emph{American Economic Review}, 102\penalty0 (2):\penalty0
+  994--1028, 2012.
+
+\bibitem[P{\'e}rez et~al.(2021)]{perez2021night}
+E.~P{\'e}rez et~al.
+\newblock Nighttime lights as a proxy for economic activity.
+\newblock \emph{Working Paper}, 2021.
+
+\end{thebibliography}
