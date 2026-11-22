@@ -32,13 +32,16 @@
 % 2. CHARGEMENT DE NATBIB, BABEL ET ARRAY
 \usepackage[authoryear,round]{natbib}
 \usepackage{babel}
-\usepackage[margin=2.5cm]{geometry}
+\usepackage[margin=2.5cm,footskip=1.1cm]{geometry}
 \usepackage{graphicx}
 \usepackage{xcolor}
-\usepackage{tikz}
 \usepackage{booktabs}
 \usepackage{array}
 \usepackage{amsmath,amssymb}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage{caption}
+\usepackage[section]{placeins}
 
 % 3. MICROTYPE
 \usepackage{microtype}
@@ -50,6 +53,41 @@
 \definecolor{accentblue}{RGB}{41, 128, 185}
 \definecolor{darkgray}{RGB}{50, 50, 50}
 \definecolor{lightgraybg}{RGB}{245, 247, 250}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.45em}
+\setlength{\emergencystretch}{3em}
+\renewcommand{\arraystretch}{1.12}
+
+\titleformat{\section}
+  {\normalfont\Large\bfseries\color{navyblue}}
+  {\thesection}{0.8em}{}
+  [\vspace{0.25ex}{\color{accentblue}\titlerule}]
+\titleformat{\subsection}
+  {\normalfont\large\bfseries\color{accentblue}}
+  {\thesubsection}{0.8em}{}
+\titlespacing*{\section}{0pt}{2.2ex plus 0.5ex minus 0.2ex}{1.2ex}
+\titlespacing*{\subsection}{0pt}{1.8ex plus 0.4ex minus 0.2ex}{0.7ex}
+
+\captionsetup{
+    font=small,
+    labelfont={bf,color=navyblue},
+    labelsep=period
+}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot[C]{\small\color{darkgray}\thepage}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0.4pt}
+\renewcommand{\footrule}{\hbox to\headwidth{\color{accentblue}\leaders\hrule height \footrulewidth\hfill}}
+\fancypagestyle{plain}{
+    \fancyhf{}
+    \fancyfoot[C]{\small\color{darkgray}\thepage}
+    \renewcommand{\headrulewidth}{0pt}
+    \renewcommand{\footrulewidth}{0.4pt}
+    \renewcommand{\footrule}{\hbox to\headwidth{\color{accentblue}\leaders\hrule height \footrulewidth\hfill}}
+}
 
 \usepackage{hyperref}
 \usepackage{bookmark}
@@ -67,36 +105,24 @@
 % ==============================================================================
 \begin{titlepage}
     \centering
-    
-    % Arrière-plan : Carte du Niger NTL (Filigrane élégant)
-    \begin{tikzpicture}[remember picture, overlay]
-        \node[opacity=0.18, inner sep=0pt] at (current page.center) {
-            \IfFileExists{Niger-NTL-PIB.png}{%
-                \includegraphics[width=\paperwidth, height=\paperheight, keepaspectratio]{Niger-NTL-PIB.png}%
-            }{%
-                \rule{10cm}{10cm}%
-            }
-        };
-    \end{tikzpicture}
+    \thispagestyle{empty}
+    \vspace*{0.35cm}
 
-    \vspace*{0.5cm}
-
-    % En-tête Institutionnel
-    {\small\bfseries\color{accentblue} Working Paper $\cdot$ Économétrie \& Données Satellitaires}\\[0.4cm]
-    {\color{navyblue}\rule{\textwidth}{1.5pt}}
-    \vspace{0.6cm}
+    {\color{accentblue}\rule{\textwidth}{2pt}}\par
+    \vspace{0.65cm}
+    {\small\bfseries\color{accentblue} PROJET}\\[0.65cm]
 
     % Titre Principal
-    {\huge \bfseries \color{navyblue} Les données de luminosité nocturne comme indicateur de l’activité économique au Niger : une analyse économétrique, 2000–2025 \par}
+    {\fontsize{24}{29}\selectfont\bfseries\color{navyblue} Les données de luminosité nocturne comme indicateur de l’activité économique au Niger : une analyse économétrique, 2000–2025 \par}
     
-    \vspace{0.4cm}
+    \vspace{0.45cm}
     
     % Sous-titre Économétrique
-    {\large \itshape \color{darkgray} Une Évaluation Économétrique Rigoureuse à partir des Données Nighttime Lights (DMSP/OLS \& VIIRS/DNB) \par}
+    {\large\itshape\color{darkgray} Une Évaluation Économétrique Rigoureuse à partir des Données Nighttime Lights (DMSP/OLS \& VIIRS/DNB) \par}
 
-    \vspace{0.6cm}
-    {\color{accentblue}\rule{0.6\textwidth}{0.5pt}}
-    \vspace{0.8cm}
+    \vspace{0.65cm}
+    {\color{accentblue}\rule{0.45\textwidth}{0.6pt}}
+    \vspace{0.7cm}
 
     % Auteur & Affiliation
     {\large \bfseries GUERGOU GAGARA Abdoul-Samah}\\[0.2cm]
@@ -107,7 +133,7 @@
     % Résumé / Executive Abstract
     \begin{mdframed}[
         linecolor=accentblue,
-        linewidth=0.8pt,
+        linewidth=1.2pt,
         topline=false,
         bottomline=false,
         rightline=false,
@@ -124,7 +150,9 @@
     \vfill
 
     % Date et Version
-    {\small \color{darkgray} Septembre 2026 $\cdot$ Version finale révisée}
+    {\color{accentblue}\rule{\textwidth}{0.6pt}}\par
+    \vspace{0.35cm}
+    {\small\color{darkgray} Septembre 2026 $\cdot$ Version finale révisée}
     
 \end{titlepage}
 
@@ -342,7 +370,7 @@ Le Tableau~\ref{tab:ols-summary} résume les Modèles M1 à M4. Le \textbf{Modè
 \end{figure}
 
 \subsection{Modèles Dynamiques et Autorégressifs (ARDL)}
-Pour tester la transmission temporelle différée ($\text{RQ}_5$), le Tableau~\ref{tab:dyn_summary} présente les estimations dynamiques. Le modèle \textbf{ARDL(1,1) (Modèle 7)} démontre que la croissance économique dépend principalement de l'inertie du PIB passé ($\rho = -0{,}4566, p = 0{,}0167$), élevant le $R^2$ à $0{,}2142$. La Figure~\ref{fig:ardl_fit} illustre la qualité d'ajustement du modèle ARDL.
+Pour tester la transmission temporelle différée ($\text{RQ}_5$), le Tableau~\ref{tab:dyn_summary} présente les estimations dynamiques. Le modèle \textbf{ARDL(1,1) (Modèle 7)} démontre que la croissance économique dépend principalement de l'inertie du PIB passé ($\rho = -0{,}4566, p = 0{,}0167$), élevant le $R^2$ à $0{,}2142$.
 
 \begin{table}[htbp]
   \centering
@@ -361,17 +389,6 @@ Pour tester la transmission temporelle différée ($\text{RQ}_5$), le Tableau~\r
   \end{tabular}%
   }
 \end{table}
-
-\begin{figure}[htbp]
-  \centering
-  \IfFileExists{outputs/figures/06_dynamic_model_fit.png}{%
-    \includegraphics[width=0.88\textwidth]{outputs/figures/06_dynamic_model_fit.png}%
-  }{%
-    \fbox{\parbox[c][0.15\textheight][c]{0.88\textwidth}{\centering Figure indisponible :\par\texttt{outputs/figures/06\_dynamic\_model\_fit.png}}}%
-  }%
-  \caption{Ajustement des taux de croissance du PIB réel observés vs prédictions du modèle ARDL(1,1)}
-  \label{fig:ardl_fit}
-\end{figure}
 
 \subsection{Tests de Robustesse et Diagnostics}
 L'insignificativité en taux de croissance est confirmée par les sous-échantillons DMSP et VIIRS (Tableau~\ref{tab:robustness}). De plus, les diagnostics stochastiques (Tableau~\ref{tab:diagnostics}) confirment que le modèle ARDL élimine toute autocorrélation ($DW = 1{,}9722$).
