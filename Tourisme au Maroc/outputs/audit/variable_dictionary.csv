@@ -1,0 +1,67 @@
+﻿source,filename,sheet,variable,dtype,rows,non_null,missing,missing_pct,unique_values,examples
+tourism,activites-sectorielles-tourisme_Tourisme_2014_2c6e8d63-2c1d-45a6-a0a4-68a5645fdf17.xls,Feuil1,Indicateurs sectoriels - Tourisme,str,27,23,4,14.81,23,Capacité hôtelière (En lits) | Taux d'occupation (En %) | Arrivées (hors MRE) (En milliers) | Taux de croissance (En %) | Structure selon les principaux pays (En %)
+tourism,activites-sectorielles-tourisme_Tourisme_2014_2c6e8d63-2c1d-45a6-a0a4-68a5645fdf17.xls,Feuil1,Unnamed: 1,object,27,19,8,29.63,19,Moyenne | 2002-08 | 126372.57142857143 | 44.714285714285715 | 3146.2841428571423
+tourism,activites-sectorielles-tourisme_Tourisme_2014_2c6e8d63-2c1d-45a6-a0a4-68a5645fdf17.xls,Feuil1,Unnamed: 2,float64,27,18,9,33.33,18,2008.0 | 152927.0 | 45.0 | 4211.855 | 4.489247805327756
+tourism,activites-sectorielles-tourisme_Tourisme_2014_2c6e8d63-2c1d-45a6-a0a4-68a5645fdf17.xls,Feuil1,Unnamed: 3,float64,27,18,9,33.33,18,2009.0 | 164612.0 | 41.0 | 4292.958 | 1.925588606445383
+tourism,activites-sectorielles-tourisme_Tourisme_2014_2c6e8d63-2c1d-45a6-a0a4-68a5645fdf17.xls,Feuil1,Unnamed: 4,float64,27,18,9,33.33,18,2010.0 | 173133.0 | 43.0 | 4910.435 | 14.383485699137989
+tourism,activites-sectorielles-tourisme_Tourisme_2014_2c6e8d63-2c1d-45a6-a0a4-68a5645fdf17.xls,Feuil1,Unnamed: 5,object,27,19,8,29.63,19,2011 | 184125 | 40 | 4933.883 | 0.47751370296114093
+tourism,activites-sectorielles-tourisme_Tourisme_2014_2c6e8d63-2c1d-45a6-a0a4-68a5645fdf17.xls,Feuil1,Unnamed: 6,float64,27,18,9,33.33,18,2012.0 | 198211.0 | 40.0 | 5011.729 | 1.577783664509269
+tourism,activites-sectorielles-tourisme_Tourisme_2014_2c6e8d63-2c1d-45a6-a0a4-68a5645fdf17.xls,Feuil1,Unnamed: 7,float64,27,18,9,33.33,18,2013.0 | 207572.0 | 43.0 | 5323.333 | 6.217495000228457
+tourism,indicateurs-tourisme-2011_Indicateurs_du_tourisme_2011_337535fc-ddfb-47ee-b788-1735f1d92c4e.xls,Feuil1,Tourisme,str,26,24,2,7.69,24,Capacité hôtelière (En lits) | Taux d'occupation (En %) | Arrivées (hors MRE) (En milliers) | Taux de croissance (En %) | Structure selon les principales zones (En %)
+tourism,indicateurs-tourisme-2011_Indicateurs_du_tourisme_2011_337535fc-ddfb-47ee-b788-1735f1d92c4e.xls,Feuil1,Unnamed: 1,float64,26,18,8,30.77,18,2005.0 | 124270.0 | 47.0 | 3055.552 | 11.866057366119964
+tourism,indicateurs-tourisme-2011_Indicateurs_du_tourisme_2011_337535fc-ddfb-47ee-b788-1735f1d92c4e.xls,Feuil1,Unnamed: 2,float64,26,18,8,30.77,18,2006.0 | 133230.0 | 49.0 | 3571.961 | 16.900677848061484
+tourism,indicateurs-tourisme-2011_Indicateurs_du_tourisme_2011_337535fc-ddfb-47ee-b788-1735f1d92c4e.xls,Feuil1,Unnamed: 3,float64,26,18,8,30.77,18,2007.0 | 143221.0 | 48.0 | 4030.898 | 12.848320572369065
+tourism,indicateurs-tourisme-2011_Indicateurs_du_tourisme_2011_337535fc-ddfb-47ee-b788-1735f1d92c4e.xls,Feuil1,Unnamed: 4,float64,26,18,8,30.77,18,2008.0 | 152927.0 | 45.0 | 4211.855 | 4.489247805327756
+tourism,indicateurs-tourisme-2011_Indicateurs_du_tourisme_2011_337535fc-ddfb-47ee-b788-1735f1d92c4e.xls,Feuil1,Unnamed: 5,float64,26,16,10,38.46,16,2009.0 | 164612.0 | 41.0 | 4292.958 | 1.925588606445383
+tourism,indicateurs-tourisme-2011_Indicateurs_du_tourisme_2011_337535fc-ddfb-47ee-b788-1735f1d92c4e.xls,Feuil1,Unnamed: 6,float64,26,16,10,38.46,16,2010.0 | 174180.0 | 44.0 | 4910.435 | 14.383485699137989
+tourism,recettes-en-devises-2010-2020_Recettes_en_devises.xlsx_3a928f92-4eaf-4707-866e-213ef46378bb.xlsx,recette,recettes,str,1,1,0,0.0,1,Montant en MDHs
+tourism,recettes-en-devises-2010-2020_Recettes_en_devises.xlsx_3a928f92-4eaf-4707-866e-213ef46378bb.xlsx,recette,2010,float64,1,1,0,0.0,1,56421.5
+tourism,recettes-en-devises-2010-2020_Recettes_en_devises.xlsx_3a928f92-4eaf-4707-866e-213ef46378bb.xlsx,recette,2011,int64,1,1,0,0.0,1,58904
+tourism,recettes-en-devises-2010-2020_Recettes_en_devises.xlsx_3a928f92-4eaf-4707-866e-213ef46378bb.xlsx,recette,2012,int64,1,1,0,0.0,1,57835
+tourism,recettes-en-devises-2010-2020_Recettes_en_devises.xlsx_3a928f92-4eaf-4707-866e-213ef46378bb.xlsx,recette,2013,int64,1,1,0,0.0,1,57614
+tourism,recettes-en-devises-2010-2020_Recettes_en_devises.xlsx_3a928f92-4eaf-4707-866e-213ef46378bb.xlsx,recette,2014,int64,1,1,0,0.0,1,62034
+tourism,recettes-en-devises-2010-2020_Recettes_en_devises.xlsx_3a928f92-4eaf-4707-866e-213ef46378bb.xlsx,recette,2015,int64,1,1,0,0.0,1,61150
+tourism,recettes-en-devises-2010-2020_Recettes_en_devises.xlsx_3a928f92-4eaf-4707-866e-213ef46378bb.xlsx,recette,2016,int64,1,1,0,0.0,1,64226
+tourism,recettes-en-devises-2010-2020_Recettes_en_devises.xlsx_3a928f92-4eaf-4707-866e-213ef46378bb.xlsx,recette,2017,int64,1,1,0,0.0,1,72127
+tourism,recettes-en-devises-2010-2020_Recettes_en_devises.xlsx_3a928f92-4eaf-4707-866e-213ef46378bb.xlsx,recette,2018,int64,1,1,0,0.0,1,73039
+tourism,recettes-en-devises-2010-2020_Recettes_en_devises.xlsx_3a928f92-4eaf-4707-866e-213ef46378bb.xlsx,recette,2019,int64,1,1,0,0.0,1,78654
+tourism,recettes-en-devises-2010-2020_Recettes_en_devises.xlsx_3a928f92-4eaf-4707-866e-213ef46378bb.xlsx,recette,2020,int64,1,1,0,0.0,1,36364
+osm_raw,collection_report.csv,TABLE,city,str,4,4,0,0.0,4,Marrakech | Casablanca | Agadir | Tanger
+osm_raw,collection_report.csv,TABLE,status,str,4,4,0,0.0,1,SUCCESS | SUCCESS | SUCCESS | SUCCESS
+osm_raw,collection_report.csv,TABLE,records_retrieved,int64,4,4,0,0.0,4,1068 | 201 | 244 | 133
+osm_raw,collection_report.csv,TABLE,error,float64,4,0,4,100.0,0,
+osm_raw,collection_report.csv,TABLE,retrieved_at,str,4,4,0,0.0,4,2026-11-26T10:42:30.348799+00:00 | 2026-11-26T10:44:03.722762+00:00 | 2026-11-26T10:45:06.655315+00:00 | 2026-11-26T10:46:11.363162+00:00
+processed,hotels_osm.csv,TABLE,osm_id,int64,1646,1646,0,0.0,1646,286235179 | 309969121 | 321590739 | 370405026 | 509529744
+processed,hotels_osm.csv,TABLE,osm_type,str,1646,1646,0,0.0,3,node | node | node | node | node
+processed,hotels_osm.csv,TABLE,city,str,1646,1646,0,0.0,4,Marrakech | Marrakech | Marrakech | Marrakech | Marrakech
+processed,hotels_osm.csv,TABLE,name,str,1646,1346,300,18.23,1304,Club Marmara | Dar Nimbus | Ibis Moussafir Marrakech | La Maison Arabe | Riad de Vinci
+processed,hotels_osm.csv,TABLE,tourism_type,str,1646,1646,0,0.0,5,hotel | guest_house | hotel | hotel | guest_house
+processed,hotels_osm.csv,TABLE,stars,float64,1646,90,1556,94.53,7,3.0 | 4.0 | 4.0 | 0.0 | 5.0
+processed,hotels_osm.csv,TABLE,rooms,float64,1646,112,1534,93.2,40,4.0 | 5.0 | 30.0 | 9.0 | 350.0
+processed,hotels_osm.csv,TABLE,beds,float64,1646,0,1646,100.0,0,
+processed,hotels_osm.csv,TABLE,latitude,float64,1646,1646,0,0.0,1638,31.6627056 | 31.6392739 | 31.6299203 | 31.630574 | 31.6352981
+processed,hotels_osm.csv,TABLE,longitude,float64,1646,1646,0,0.0,1635,-7.8925612 | -7.992286 | -8.0181373 | -7.9961264 | -7.9925295
+processed,hotels_osm.csv,TABLE,postcode,str,1646,368,1278,77.64,40,40000 | 40000 | 40030 | 40030 | 40000
+processed,hotels_osm.csv,TABLE,street,str,1646,702,944,57.35,503,Derb Bouelilou | Rue El Moustachfa | Rue Bab Agnaou | Derb Lalla Chacha | Zaouhia Sidi Bellabes
+processed,hotels_osm.csv,TABLE,website,str,1646,371,1275,77.46,353,https://www.darzaman.com | https://www.zwinzwincafe.net/ | https://le-grand-tazi.marrakeshhotelsmorocco.com/ | https://www.dar-najat.com/ | https://www.marrakech-riad.co.uk/marrakech-riad-papillon/
+processed,hotels_osm.csv,TABLE,brand,str,1646,75,1571,95.44,49,Ibis | Le Méridien | RIU | Bed & Breakfast | Riad
+processed,hotels_osm.csv,TABLE,operator,str,1646,103,1543,93.74,77,Nathalie | D House | Carole et Robert | Hapimag | RIU Hotels & Resorts
+processed,hotels_osm.csv,TABLE,source,str,1646,1646,0,0.0,1,OpenStreetMap | OpenStreetMap | OpenStreetMap | OpenStreetMap | OpenStreetMap
+processed,hotels_osm.csv,TABLE,retrieved_at,str,1646,1646,0,0.0,4,2026-11-26T10:42:30.294911+00:00 | 2026-11-26T10:42:30.294911+00:00 | 2026-11-26T10:42:30.294911+00:00 | 2026-11-26T10:42:30.294911+00:00 | 2026-11-26T10:42:30.294911+00:00
+processed,hotels_osm.parquet,TABLE,osm_id,int64,1646,1646,0,0.0,1646,286235179 | 309969121 | 321590739 | 370405026 | 509529744
+processed,hotels_osm.parquet,TABLE,osm_type,str,1646,1646,0,0.0,3,node | node | node | node | node
+processed,hotels_osm.parquet,TABLE,city,str,1646,1646,0,0.0,4,Marrakech | Marrakech | Marrakech | Marrakech | Marrakech
+processed,hotels_osm.parquet,TABLE,name,str,1646,1346,300,18.23,1304,Club Marmara | Dar Nimbus | Ibis Moussafir Marrakech | La Maison Arabe | Riad de Vinci
+processed,hotels_osm.parquet,TABLE,tourism_type,str,1646,1646,0,0.0,5,hotel | guest_house | hotel | hotel | guest_house
+processed,hotels_osm.parquet,TABLE,stars,str,1646,90,1556,94.53,7,3 | 4 | 4 | 0 | 5
+processed,hotels_osm.parquet,TABLE,rooms,str,1646,112,1534,93.2,40,4 | 5 | 30 | 9 | 350
+processed,hotels_osm.parquet,TABLE,beds,object,1646,0,1646,100.0,0,
+processed,hotels_osm.parquet,TABLE,latitude,float64,1646,1646,0,0.0,1638,31.6627056 | 31.6392739 | 31.6299203 | 31.630574 | 31.6352981
+processed,hotels_osm.parquet,TABLE,longitude,float64,1646,1646,0,0.0,1635,-7.8925612 | -7.992286 | -8.0181373 | -7.9961264 | -7.9925295
+processed,hotels_osm.parquet,TABLE,postcode,str,1646,368,1278,77.64,40,40000 | 40000 | 40030 | 40030 | 40000
+processed,hotels_osm.parquet,TABLE,street,str,1646,702,944,57.35,503,Derb Bouelilou | Rue El Moustachfa | Rue Bab Agnaou | Derb Lalla Chacha | Zaouhia Sidi Bellabes
+processed,hotels_osm.parquet,TABLE,website,str,1646,371,1275,77.46,353,https://www.darzaman.com | https://www.zwinzwincafe.net/ | https://le-grand-tazi.marrakeshhotelsmorocco.com/ | https://www.dar-najat.com/ | https://www.marrakech-riad.co.uk/marrakech-riad-papillon/
+processed,hotels_osm.parquet,TABLE,brand,str,1646,75,1571,95.44,49,Ibis | Le Méridien | RIU | Bed & Breakfast | Riad
+processed,hotels_osm.parquet,TABLE,operator,str,1646,103,1543,93.74,77,Nathalie | D House | Carole et Robert | Hapimag | RIU Hotels & Resorts
+processed,hotels_osm.parquet,TABLE,source,str,1646,1646,0,0.0,1,OpenStreetMap | OpenStreetMap | OpenStreetMap | OpenStreetMap | OpenStreetMap
+processed,hotels_osm.parquet,TABLE,retrieved_at,str,1646,1646,0,0.0,4,2026-11-26T10:42:30.294911+00:00 | 2026-11-26T10:42:30.294911+00:00 | 2026-11-26T10:42:30.294911+00:00 | 2026-11-26T10:42:30.294911+00:00 | 2026-11-26T10:42:30.294911+00:00

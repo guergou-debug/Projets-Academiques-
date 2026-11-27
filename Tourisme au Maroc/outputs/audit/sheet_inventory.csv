@@ -1,0 +1,11 @@
+﻿source,filename,sheet,rows,columns,column_names,status
+tourism,activites-sectorielles-tourisme_Tourisme_2014_2c6e8d63-2c1d-45a6-a0a4-68a5645fdf17.xls,Feuil1,27,8,Indicateurs sectoriels - Tourisme | Unnamed: 1 | Unnamed: 2 | Unnamed: 3 | Unnamed: 4 | Unnamed: 5 | Unnamed: 6 | Unnamed: 7,SUCCESS
+tourism,activites-sectorielles-tourisme_Tourisme_2014_2c6e8d63-2c1d-45a6-a0a4-68a5645fdf17.xls,Feuil2,0,0,,SUCCESS
+tourism,activites-sectorielles-tourisme_Tourisme_2014_2c6e8d63-2c1d-45a6-a0a4-68a5645fdf17.xls,Feuil3,0,0,,SUCCESS
+tourism,indicateurs-tourisme-2011_Indicateurs_du_tourisme_2011_337535fc-ddfb-47ee-b788-1735f1d92c4e.xls,Feuil1,26,7,Tourisme | Unnamed: 1 | Unnamed: 2 | Unnamed: 3 | Unnamed: 4 | Unnamed: 5 | Unnamed: 6,SUCCESS
+tourism,indicateurs-tourisme-2011_Indicateurs_du_tourisme_2011_337535fc-ddfb-47ee-b788-1735f1d92c4e.xls,Feuil2,0,0,,SUCCESS
+tourism,indicateurs-tourisme-2011_Indicateurs_du_tourisme_2011_337535fc-ddfb-47ee-b788-1735f1d92c4e.xls,Feuil3,0,0,,SUCCESS
+tourism,recettes-en-devises-2010-2020_Recettes_en_devises.xlsx_3a928f92-4eaf-4707-866e-213ef46378bb.xlsx,recette,1,12,recettes | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020,SUCCESS
+osm_raw,collection_report.csv,TABLE,4,5,city | status | records_retrieved | error | retrieved_at,SUCCESS
+processed,hotels_osm.csv,TABLE,1646,17,osm_id | osm_type | city | name | tourism_type | stars | rooms | beds | latitude | longitude | postcode | street | website | brand | operator | source | retrieved_at,SUCCESS
+processed,hotels_osm.parquet,TABLE,1646,17,osm_id | osm_type | city | name | tourism_type | stars | rooms | beds | latitude | longitude | postcode | street | website | brand | operator | source | retrieved_at,SUCCESS

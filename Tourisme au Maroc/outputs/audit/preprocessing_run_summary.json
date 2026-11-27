@@ -1,0 +1,12 @@
+{
+  "project": "MOROCCO-STAY",
+  "run_at": "2026-11-26T12:35:16+00:00",
+  "raw_directory": "C:\\Futur To B or D\\Projet 1 Air bnb\\MOROCCO-STAY\\data\\raw\\tourism",
+  "successful_priority_datasets": 6,
+  "expected_priority_datasets": 6,
+  "failures": [],
+  "osm_rows": 1646,
+  "osm_output": "data\\processed\\osm_accommodation.csv",
+  "complex_sources_inventoried": 9,
+  "note": "Les sources sectorielles complexes sont inventoriées mais non fusionnées automatiquement."
+}

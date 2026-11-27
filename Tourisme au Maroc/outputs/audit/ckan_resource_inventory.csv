@@ -1,0 +1,370 @@
+﻿dataset_id,dataset_name,dataset_title,dataset_notes,organization,license_id,license_title,resource_id,resource_name,description,format,url,last_modified,created,retrieved_at
+5f6b4fb7-d0f2-4379-88a2-464de7a3ec4d,activites-sectorielles-tourisme,Activités sectorielles -Tourisme,Données ouvertes relatives aux indicateurs sectoriels du tourisme,MEF,odc-odbl,Open Data Commons Open Database License (ODbL),2c6e8d63-2c1d-45a6-a0a4-68a5645fdf17,Tourisme 2014,indicateurs tourisme 2014,XLS,https://data.gov.ma/data/dataset/5f6b4fb7-d0f2-4379-88a2-464de7a3ec4d/resource/2c6e8d63-2c1d-45a6-a0a4-68a5645fdf17/download/sectoriel-toursime-mef-2014.xls,2017-12-17T11:12:25.517848,2017-12-17T11:12:25.532619,2026-11-26T10:51:47.926250+00:00
+b357ebff-18bc-443e-b3de-a41fb5dbfcc5,indicateurs-sectoriels-tourisme-2010-2020,Indicateurs sectoriels - Tourisme 2010-2020,Ce fichier présente des indicateurs du secteur du tourisme pour la période 2010-2020,MEF,odc-odbl,Open Data Commons Open Database License (ODbL),efee8ad8-1817-4c57-a7c6-21b2b3b394ab,Indicateurs sectoriels-Tourisme.xlsx,,XLSX,https://data.gov.ma/data/fr/dataset/b357ebff-18bc-443e-b3de-a41fb5dbfcc5/resource/efee8ad8-1817-4c57-a7c6-21b2b3b394ab/download/indicateurs-sectoriels-tourisme.xlsx,2022-02-18T16:06:52.316508,2022-02-18T16:06:52.338498,2026-11-26T10:51:54.780320+00:00
+b793ceba-6084-4421-8663-3c35865eaf34,indicateurs-tourisme-2011,Indicateurs tourisme 2011,"Indicateurs du tourisme au Maroc: Capacité hôtelière, Taux d'occupation , Nuitées touristiques dans les hôtels classés , Recettes touristiques Ministère de l'Economie et des Finances ",Ministère de l'Economie et des Finances,odc-odbl,Open Data Commons Open Database License (ODbL),337535fc-ddfb-47ee-b788-1735f1d92c4e,Indicateurs du tourisme 2011,"Indicateurs du tourisme au Maroc: Capacité hôtelière, Taux d'occupation , Nuitées touristiques dans les hôtels classés , Recettes touristiques.",XLS,https://data.gov.ma/data/fr/dataset/b793ceba-6084-4421-8663-3c35865eaf34/resource/337535fc-ddfb-47ee-b788-1735f1d92c4e/download/indicateurs-tourisme-mef-2011.xls,2017-12-17T12:27:45.848440,2017-12-17T12:27:45.863155,2026-11-26T10:52:01.349543+00:00
+61345231-479d-4c61-8921-d6e4efc252e3,recettes-en-devises-2010-2020,Recettes en devises du secteur du tourisme 2010-2020,Ce fichier présente les recettes en devises du secteur du tourisme pour la période 2010-2020,MTAESS,odc-odbl,Open Data Commons Open Database License (ODbL),3a928f92-4eaf-4707-866e-213ef46378bb,Recettes en devises.xlsx,,XLSX,https://data.gov.ma/data/fr/dataset/61345231-479d-4c61-8921-d6e4efc252e3/resource/3a928f92-4eaf-4707-866e-213ef46378bb/download/recettes-en-devises.xlsx,2022-04-14T14:09:35.799967,2022-04-14T14:09:35.824218,2026-11-26T10:52:08.808304+00:00
+21992f21-b6e7-432c-9a90-4f7a84cee8c1,annuaire-des-guides-touristiques,Annuaire des guides touristiques,Annuaire des Guides Touristiques - Ministère du Tourisme,MTAESS,odc-odbl,Open Data Commons Open Database License (ODbL),e587b319-7436-4190-b685-e61ebe5d3de1,Annuaire des guides touristiques,"Annuaire des guides touristiques catégorisé par : Nom, Prénom, Ville, Catégorie, Langue de travail",CSV,https://data.gov.ma/data/dataset/21992f21-b6e7-432c-9a90-4f7a84cee8c1/resource/e587b319-7436-4190-b685-e61ebe5d3de1/download/annuaire-des-guides-touristiques-ministere-du-tourisme.csv,2017-12-18T21:04:41.106799,2017-12-18T21:04:41.127549,2026-11-26T10:52:14.775027+00:00
+f412263c-f855-40b1-8458-7b2e56beb2bf,annuaire-des-agences-de-voyages,Annuaire des agences de voyages,Annuaire des agences de voyages - Ministère du Tourisme,MTAESS,odc-odbl,Open Data Commons Open Database License (ODbL),b5d3960b-1a2e-4f85-8082-80a6374439aa,Annuaire des Agences de voyages,"Annuaire des agences de voyages catégorisé par : Raison Sociale , Adresse, Ville Coordonnées, Agréments, Année",CSV,https://data.gov.ma/data/dataset/f412263c-f855-40b1-8458-7b2e56beb2bf/resource/b5d3960b-1a2e-4f85-8082-80a6374439aa/download/annuaire-des-agences-de-voyages-ministere-du-tourisme.csv,2017-12-18T21:05:38.174057,2017-12-18T21:05:38.196416,2026-11-26T10:52:20.570956+00:00
+4081e159-650f-4b56-85b6-6fb110537e93,liste-des-agences-de-voyages-au-maroc,Liste des agences de voyages au Maroc,Ce fichier présente la liste des agences de voyages au Maroc,MTAESS,odc-odbl,Open Data Commons Open Database License (ODbL),7d67e000-8ee8-49ae-8790-519f230786bd,Liste agences de voyages.xls,,XLS,https://data.gov.ma/data/fr/dataset/4081e159-650f-4b56-85b6-6fb110537e93/resource/7d67e000-8ee8-49ae-8790-519f230786bd/download/liste-agences-de-voyages.xls,2022-04-14T14:21:20.357878,2022-04-14T14:21:20.386036,2026-11-26T10:52:26.193401+00:00
+ab52f94b-629d-4d71-bdb7-4fec22d8ef5d,evolution-par-point-d-entree-des-arrivees-des-touristes-aux-postes-frontieres-2012-2020,Evolution par point d'entrée des arrivées des touristes aux postes frontières 2012-2020,Ce fichier présente l’évolution par point d'entrée des arrivées des touristes aux postes frontières pour la période 2012-2020,MTAESS,odc-odbl,Open Data Commons Open Database License (ODbL),ade9f432-18e2-46a1-9455-3862e8af6343,Evolution par point d'entrée des arrivées des touristes aux postes frontières.xlsx,,XLSX,https://data.gov.ma/data/fr/dataset/ab52f94b-629d-4d71-bdb7-4fec22d8ef5d/resource/ade9f432-18e2-46a1-9455-3862e8af6343/download/evolution-par-point-dentree-des-arrivees-des-touristes-aux-postes-frontieres.xlsx,2022-04-14T14:20:24.294208,2022-04-14T14:20:24.320247,2026-11-26T10:52:31.804557+00:00
+7bc67303-7f28-4515-a087-91464edb6510,evolution-par-nationalite-des-arrivees-des-touristes-aux-postes-frontieres-2012-2020,Evolution par nationalité des arrivées des touristes aux postes frontières 2012-2020,Ce fichier présente l’évolution par nationalité des arrivées des touristes aux postes frontières pour la période 2012-2020,MTAESS,odc-odbl,Open Data Commons Open Database License (ODbL),9b63ec1b-e72e-418b-a4f2-b7a2f854d316,Evolution par nationalité des arrivées des touristes aux postes frontières.xlsx,,XLSX,https://data.gov.ma/data/fr/dataset/7bc67303-7f28-4515-a087-91464edb6510/resource/9b63ec1b-e72e-418b-a4f2-b7a2f854d316/download/evolution-par-nationalite-des-arrivees-des-touristes-aux-postes-frontieres.xlsx,2022-04-14T14:19:08.096825,2022-04-14T14:19:08.118762,2026-11-26T10:52:37.131720+00:00
+e683644d-149e-4fa5-b0ca-37ad20761d88,evolution-par-marche-des-nuitees-realisees-etablissements-d-hebergement-touristique-2012-2020,Evolution par marché des nuitées réalisées-établissements d'hébergement touristique 2012-2020,Ce fichier présente l’évolution par marché des nuitées réalisées dans les établissements d'hébergement touristique pour la période 2012-2020,MTAESS,odc-odbl,Open Data Commons Open Database License (ODbL),a249f19c-d068-479c-911c-ac4829db06b3,Evolution par marché nuitées réalisées établissements hébergement touristique.xlsx,,XLSX,https://data.gov.ma/data/fr/dataset/e683644d-149e-4fa5-b0ca-37ad20761d88/resource/a249f19c-d068-479c-911c-ac4829db06b3/download/evolution-par-marche-nuitees-realisees-etablissements-hebergement-touristique.xlsx,2022-04-14T14:18:02.746363,2022-04-14T14:18:02.774267,2026-11-26T10:52:41.760141+00:00
+4ffbba37-c1d6-4f4e-9892-6bc829c04e1a,evolution-par-categorie-de-la-capacite-hoteliere-classee-en-lits-2012-2020,Évolution par catégorie de la capacité hôtelière classée en lits 2012-2020,Ce fichier présente l’évolution par catégorie de la capacité hôtelière classée en lits pour la période 2012-2020,MTAESS,odc-odbl,Open Data Commons Open Database License (ODbL),aa1ea7ba-e17a-4028-9a3c-afe168ff3074,Évolution par catégorie de la capacité hôtelière classée en lits.xlsx,,XLSX,https://data.gov.ma/data/fr/dataset/4ffbba37-c1d6-4f4e-9892-6bc829c04e1a/resource/aa1ea7ba-e17a-4028-9a3c-afe168ff3074/download/evolution-par-categorie-de-la-capacite-hoteliere-classee-en-lits.xlsx,2022-04-14T14:15:00.538134,2022-04-14T14:15:00.561815,2026-11-26T10:52:45.872554+00:00
+d9ed90a8-96d3-44fe-b2e0-b78fe92344b5,evolution-nuitees-realisees-etablissements-d-hebergement-touristique-par-destination-2012-2020,Evolution nuitées réalisées- établissements d'hébergement touristique par destination 2012-2020,Ce fichier présente l’évolution des nuitées réalisées dans les établissements d'hébergement touristique par destination pour la période 2012-2020,MTAESS,odc-odbl,Open Data Commons Open Database License (ODbL),82b24c1a-df0c-49b2-9ce9-34e03833e3f9,Evolution nuitées réalisées établissements hébergement touristique par destination.xlsx,,XLSX,https://data.gov.ma/data/fr/dataset/d9ed90a8-96d3-44fe-b2e0-b78fe92344b5/resource/82b24c1a-df0c-49b2-9ce9-34e03833e3f9/download/evolution-nuitees-realisees-etablissements-hebergement-touristique-par-destination.xlsx,2022-04-14T14:05:30.175054,2022-04-14T14:05:30.202580,2026-11-26T10:52:50.942352+00:00
+165bad3e-1f4a-4ef8-872e-645efc204330,panorama-de-la-region-marrakech-safii,Panorama de la Région Marrakech Safi,"Ce fichier présente un portrait économique de la région Marrakech-Safi (richesse des paysages, capital humain, infrastructures) ainsi que les secteurs phares de la région, à savoir: le commerce, l'industrie, le tourisme, l'évenementiel, l'agriculture, l'artisanat, et la pêche maritime","Chambre de Commerce, d’Industrie et de Services de la Région Marrakech – Safi (CCISRMS)",odc-odbl,Open Data Commons Open Database License (ODbL),a072485a-45bf-4e77-b891-afe6707af1f3,Panorama Région Marrakech Safi.pdf,,PDF,https://data.gov.ma/data/fr/dataset/165bad3e-1f4a-4ef8-872e-645efc204330/resource/a072485a-45bf-4e77-b891-afe6707af1f3/download/panorama-region-marrakech-safi.pdf,2024-01-10T08:24:49.911996,2024-01-10T08:24:49.951081,2026-11-26T10:52:54.352924+00:00
+c9cda5a7-ba5f-4533-a485-3b4f7dcfda9a,liste-des-etablissements-d-hebergement-touristique,Liste des établissements d'hébergement touristique,"Liste des établissements d'hébergement touristique (Nom, classe, adresse, mail, numéro de téléphone, numéro de fax) Ministère du Tourisme",MTAESS,odc-odbl,Open Data Commons Open Database License (ODbL),93d15f0b-671a-4007-9054-0bab4cde32c9,Etablissements d'hébergement touristique 2010,"Liste des établissements d'hébergement touristique (Nom, classe, adresse, mail, numéro de téléphone, numéro de fax)",XLS,https://data.gov.ma/data/dataset/c9cda5a7-ba5f-4533-a485-3b4f7dcfda9a/resource/93d15f0b-671a-4007-9054-0bab4cde32c9/download/liste-des-etablissements-hebergement-touristique-mt-2010.xls,2017-12-18T21:06:31.949982,2017-12-18T21:06:31.966339,2026-11-26T10:52:58.747848+00:00
+7e936358-4257-4caa-bf0d-e93964b552b3,evolution-par-destination-de-la-capacite-hoteliere-classee-en-lits-2012-2020,Évolution par destination de la capacité hôtelière classée en lits 2012-2020,Ce fichier présente l’évolution par destination de la capacité hôtelière classée en lits pour la période 2012-2020,MTAESS,odc-odbl,Open Data Commons Open Database License (ODbL),3bdf7ec3-61de-41e1-877b-d23f658054c5,Évolution par destination de la capacité hôtelière classée en lits.xlsx,,XLSX,https://data.gov.ma/data/fr/dataset/7e936358-4257-4caa-bf0d-e93964b552b3/resource/3bdf7ec3-61de-41e1-877b-d23f658054c5/download/evolution-par-destination-de-la-capacite-hoteliere-classee-en-lits.xlsx,2022-04-14T14:16:11.459759,2022-04-14T14:16:11.486517,2026-11-26T10:53:02.121768+00:00
+79d59880-4d92-45f1-92b5-760c079fe0ce,guide-du-ressortissant,Guide du ressortissant,"Ce fichier concerne un guide détaillant les principales missions et services assurés par la Chambre de Commerce, d’Industrie et de Services de la Région Marrakech-Safi (CCISRMS)","Chambre de Commerce, d’Industrie et de Services de la Région Marrakech – Safi (CCISRMS)",odc-odbl,Open Data Commons Open Database License (ODbL),7f2433ae-36d7-4abf-8d02-e0fcb69de3cf,GUIDE DU RESSORTISSANT.pdf,,PDF,https://data.gov.ma/data/dataset/79d59880-4d92-45f1-92b5-760c079fe0ce/resource/7f2433ae-36d7-4abf-8d02-e0fcb69de3cf/download/guide-du-ressortissant.pdf,2024-01-10T08:27:23.137434,2024-01-10T08:27:23.161487,2026-11-26T10:53:06.929549+00:00
+4515412f-5724-4f91-8bbb-ce976bcbdba0,monographie-socio-economique-de-marrakech-safi,Monographie socio-économique de la région Marrakech Safi,"Ce fichier présente la monographie socio-économique de la région Marrakech-Safi (présentation générale, atouts stratégiques, infrastructures de base, secteurs sociaux, performances économiques et culturelles de la région), accompagnée de chiffres et de statistiques.","Chambre de Commerce, d’Industrie et de Services de la Région Marrakech – Safi (CCISRMS)",odc-odbl,Open Data Commons Open Database License (ODbL),89f90dde-6484-4b19-a7ca-b0b03b11cea5,Monographie _Région_Marrakech_Safi.pdf,,PDF,https://data.gov.ma/data/ar/dataset/4515412f-5724-4f91-8bbb-ce976bcbdba0/resource/89f90dde-6484-4b19-a7ca-b0b03b11cea5/download/monographie-_region_marrakech_safi.pdf,2024-10-08T10:47:25.057726,2024-10-08T10:47:25.091447,2026-11-26T10:53:10.102195+00:00
+2e75db6d-6a56-4652-8541-fe43ff32e854,indicateurs-sectoriels-2012-2022,Indicateurs sectoriels,"Ce fichier présente les indicateurs sectoriels (Agriculture et pêche maritime, Mines, Énergie, Eau, etc.).
+- Moyenne des précipitations nationales (En mm)
+
+-Superficie cultivée selon les principales cultures agricoles (En milliers ha)
+
+-Production des principales cultures (En milliers de qx)
+
+-Rendement des principales cultures (En qx/ha)
+
+-Effectif du cheptel (passage mars-avril) (En milliers de têtes)
+
+-Poids de la viande des abattages contrôlés (En milliers de tonnes)
+
+-Etat de la flotte de la pêche nationale 
+
+-Production halieutique nationale 
+
+-Production et utilisation des phosphates (En milliers de tonnes)
+
+-Production et exportation de l'acide phosphorique (Chiffre d'affaires à l'exportation du groupe OCP (En millions de dh))
+
+-Taux de croissance de l'indice de la production minière (%)
+
+-Bilan du secteur énergétique (En milliers de TEP)
+
+-Exploitation de l'eau potable en milieu urbain
+
+-Industries de transformation
+
+-Production effective totale des Industries de transformation (En millions de dh)
+
+-Valeur ajoutée des industries de transformation  (En millions de dh)
+
+-Exportation des industries de transformation (En millions de dh)
+
+-FBCF des industries de transformation : (En millions de dh)
+
+-Activité de l'industrie sucrière (En Milliers de tonnes)
+
+-Activité des minoteries industrielles (En milliers de qx)
+
+-Activité de l'industrie oléicole (En milliers de tonnes)
+
+-Activité de l'industrie laitière
+
+-Activité des cimenteries 
+
+-Réseau routier revêtu (En milliers de Km)
+
+-Longueur des autoroutes (En Km)
+
+-Parc des véhicules (En milliers)
+
+-Trafic routier en millions de véhicules.Km/jour
+
+-Trafic de voyageurs  (En milliers)
+
+-Trafic de marchandises (En milliers de tonnes)
+
+-Accidents de la circulation (En nombre)
+
+-Part des accidents mortels (En %)
+
+-Nombre de victimes
+
+-Capacité hôtelière (En lits)
+
+-Taux d'occupation (En %)
+
+-Arrivées (hors MRE) (En milliers)
+
+-Structure selon les principaux pays (En %)
+
+-Entrées de voyageurs contrôlés aux frontières (En milliers)
+
+-Nuitées touristiques dans les hôtels classés (En milliers)
+
+-Recettes touristiques (En millions de dh)
+
+-Nombre d'abonnés (fixe + mobile) (En milliers)
+
+-Densité du téléphone (fixe + mobile) (En %)
+
+-Nombre d'abonnés Intenet (En milliers)
+
+-Chiffre d'affaires des sociétés d'assurances (En millions dh)
+
+",MEF,odc-odbl,Open Data Commons Open Database License (ODbL),febeb4b2-c45b-4143-8e00-c9573996aaa4,Indicateurs sectoriels_FR.xlsx,,XLSX,https://data.gov.ma/data/fr/dataset/2e75db6d-6a56-4652-8541-fe43ff32e854/resource/febeb4b2-c45b-4143-8e00-c9573996aaa4/download/indicateurs-sectoriels_fr.xlsx,2023-10-27T15:09:33.545823,2023-10-27T15:09:33.568701,2026-11-26T10:53:14.490153+00:00
+2e75db6d-6a56-4652-8541-fe43ff32e854,indicateurs-sectoriels-2012-2022,Indicateurs sectoriels,"Ce fichier présente les indicateurs sectoriels (Agriculture et pêche maritime, Mines, Énergie, Eau, etc.).
+- Moyenne des précipitations nationales (En mm)
+
+-Superficie cultivée selon les principales cultures agricoles (En milliers ha)
+
+-Production des principales cultures (En milliers de qx)
+
+-Rendement des principales cultures (En qx/ha)
+
+-Effectif du cheptel (passage mars-avril) (En milliers de têtes)
+
+-Poids de la viande des abattages contrôlés (En milliers de tonnes)
+
+-Etat de la flotte de la pêche nationale 
+
+-Production halieutique nationale 
+
+-Production et utilisation des phosphates (En milliers de tonnes)
+
+-Production et exportation de l'acide phosphorique (Chiffre d'affaires à l'exportation du groupe OCP (En millions de dh))
+
+-Taux de croissance de l'indice de la production minière (%)
+
+-Bilan du secteur énergétique (En milliers de TEP)
+
+-Exploitation de l'eau potable en milieu urbain
+
+-Industries de transformation
+
+-Production effective totale des Industries de transformation (En millions de dh)
+
+-Valeur ajoutée des industries de transformation  (En millions de dh)
+
+-Exportation des industries de transformation (En millions de dh)
+
+-FBCF des industries de transformation : (En millions de dh)
+
+-Activité de l'industrie sucrière (En Milliers de tonnes)
+
+-Activité des minoteries industrielles (En milliers de qx)
+
+-Activité de l'industrie oléicole (En milliers de tonnes)
+
+-Activité de l'industrie laitière
+
+-Activité des cimenteries 
+
+-Réseau routier revêtu (En milliers de Km)
+
+-Longueur des autoroutes (En Km)
+
+-Parc des véhicules (En milliers)
+
+-Trafic routier en millions de véhicules.Km/jour
+
+-Trafic de voyageurs  (En milliers)
+
+-Trafic de marchandises (En milliers de tonnes)
+
+-Accidents de la circulation (En nombre)
+
+-Part des accidents mortels (En %)
+
+-Nombre de victimes
+
+-Capacité hôtelière (En lits)
+
+-Taux d'occupation (En %)
+
+-Arrivées (hors MRE) (En milliers)
+
+-Structure selon les principaux pays (En %)
+
+-Entrées de voyageurs contrôlés aux frontières (En milliers)
+
+-Nuitées touristiques dans les hôtels classés (En milliers)
+
+-Recettes touristiques (En millions de dh)
+
+-Nombre d'abonnés (fixe + mobile) (En milliers)
+
+-Densité du téléphone (fixe + mobile) (En %)
+
+-Nombre d'abonnés Intenet (En milliers)
+
+-Chiffre d'affaires des sociétés d'assurances (En millions dh)
+
+",MEF,odc-odbl,Open Data Commons Open Database License (ODbL),fc3c168f-5b67-4d05-92e5-22abe56854de,Indicateurs sectoriels_AR.xlsx,,XLSX,https://data.gov.ma/data/fr/dataset/2e75db6d-6a56-4652-8541-fe43ff32e854/resource/fc3c168f-5b67-4d05-92e5-22abe56854de/download/indicateurs-sectoriels_ar.xlsx,2023-10-27T15:10:25.080280,2023-10-27T15:10:25.102310,2026-11-26T10:53:14.490192+00:00
+2e75db6d-6a56-4652-8541-fe43ff32e854,indicateurs-sectoriels-2012-2022,Indicateurs sectoriels,"Ce fichier présente les indicateurs sectoriels (Agriculture et pêche maritime, Mines, Énergie, Eau, etc.).
+- Moyenne des précipitations nationales (En mm)
+
+-Superficie cultivée selon les principales cultures agricoles (En milliers ha)
+
+-Production des principales cultures (En milliers de qx)
+
+-Rendement des principales cultures (En qx/ha)
+
+-Effectif du cheptel (passage mars-avril) (En milliers de têtes)
+
+-Poids de la viande des abattages contrôlés (En milliers de tonnes)
+
+-Etat de la flotte de la pêche nationale 
+
+-Production halieutique nationale 
+
+-Production et utilisation des phosphates (En milliers de tonnes)
+
+-Production et exportation de l'acide phosphorique (Chiffre d'affaires à l'exportation du groupe OCP (En millions de dh))
+
+-Taux de croissance de l'indice de la production minière (%)
+
+-Bilan du secteur énergétique (En milliers de TEP)
+
+-Exploitation de l'eau potable en milieu urbain
+
+-Industries de transformation
+
+-Production effective totale des Industries de transformation (En millions de dh)
+
+-Valeur ajoutée des industries de transformation  (En millions de dh)
+
+-Exportation des industries de transformation (En millions de dh)
+
+-FBCF des industries de transformation : (En millions de dh)
+
+-Activité de l'industrie sucrière (En Milliers de tonnes)
+
+-Activité des minoteries industrielles (En milliers de qx)
+
+-Activité de l'industrie oléicole (En milliers de tonnes)
+
+-Activité de l'industrie laitière
+
+-Activité des cimenteries 
+
+-Réseau routier revêtu (En milliers de Km)
+
+-Longueur des autoroutes (En Km)
+
+-Parc des véhicules (En milliers)
+
+-Trafic routier en millions de véhicules.Km/jour
+
+-Trafic de voyageurs  (En milliers)
+
+-Trafic de marchandises (En milliers de tonnes)
+
+-Accidents de la circulation (En nombre)
+
+-Part des accidents mortels (En %)
+
+-Nombre de victimes
+
+-Capacité hôtelière (En lits)
+
+-Taux d'occupation (En %)
+
+-Arrivées (hors MRE) (En milliers)
+
+-Structure selon les principaux pays (En %)
+
+-Entrées de voyageurs contrôlés aux frontières (En milliers)
+
+-Nuitées touristiques dans les hôtels classés (En milliers)
+
+-Recettes touristiques (En millions de dh)
+
+-Nombre d'abonnés (fixe + mobile) (En milliers)
+
+-Densité du téléphone (fixe + mobile) (En %)
+
+-Nombre d'abonnés Intenet (En milliers)
+
+-Chiffre d'affaires des sociétés d'assurances (En millions dh)
+
+",MEF,odc-odbl,Open Data Commons Open Database License (ODbL),e4aa6bd8-ebe5-4bde-8de0-5ff5efd1243a,Indicateurs sectoriels_AR_2025.xlsx,,XLSX,https://data.gov.ma/data/fr/dataset/2e75db6d-6a56-4652-8541-fe43ff32e854/resource/e4aa6bd8-ebe5-4bde-8de0-5ff5efd1243a/download/indicateurs-sectoriels_ar_2025.xlsx,2026-03-09T13:51:46.384088,2026-03-09T13:51:46.802814,2026-11-26T10:53:14.490206+00:00
+2e75db6d-6a56-4652-8541-fe43ff32e854,indicateurs-sectoriels-2012-2022,Indicateurs sectoriels,"Ce fichier présente les indicateurs sectoriels (Agriculture et pêche maritime, Mines, Énergie, Eau, etc.).
+- Moyenne des précipitations nationales (En mm)
+
+-Superficie cultivée selon les principales cultures agricoles (En milliers ha)
+
+-Production des principales cultures (En milliers de qx)
+
+-Rendement des principales cultures (En qx/ha)
+
+-Effectif du cheptel (passage mars-avril) (En milliers de têtes)
+
+-Poids de la viande des abattages contrôlés (En milliers de tonnes)
+
+-Etat de la flotte de la pêche nationale 
+
+-Production halieutique nationale 
+
+-Production et utilisation des phosphates (En milliers de tonnes)
+
+-Production et exportation de l'acide phosphorique (Chiffre d'affaires à l'exportation du groupe OCP (En millions de dh))
+
+-Taux de croissance de l'indice de la production minière (%)
+
+-Bilan du secteur énergétique (En milliers de TEP)
+
+-Exploitation de l'eau potable en milieu urbain
+
+-Industries de transformation
+
+-Production effective totale des Industries de transformation (En millions de dh)
+
+-Valeur ajoutée des industries de transformation  (En millions de dh)
+
+-Exportation des industries de transformation (En millions de dh)
+
+-FBCF des industries de transformation : (En millions de dh)
+
+-Activité de l'industrie sucrière (En Milliers de tonnes)
+
+-Activité des minoteries industrielles (En milliers de qx)
+
+-Activité de l'industrie oléicole (En milliers de tonnes)
+
+-Activité de l'industrie laitière
+
+-Activité des cimenteries 
+
+-Réseau routier revêtu (En milliers de Km)
+
+-Longueur des autoroutes (En Km)
+
+-Parc des véhicules (En milliers)
+
+-Trafic routier en millions de véhicules.Km/jour
+
+-Trafic de voyageurs  (En milliers)
+
+-Trafic de marchandises (En milliers de tonnes)
+
+-Accidents de la circulation (En nombre)
+
+-Part des accidents mortels (En %)
+
+-Nombre de victimes
+
+-Capacité hôtelière (En lits)
+
+-Taux d'occupation (En %)
+
+-Arrivées (hors MRE) (En milliers)
+
+-Structure selon les principaux pays (En %)
+
+-Entrées de voyageurs contrôlés aux frontières (En milliers)
+
+-Nuitées touristiques dans les hôtels classés (En milliers)
+
+-Recettes touristiques (En millions de dh)
+
+-Nombre d'abonnés (fixe + mobile) (En milliers)
+
+-Densité du téléphone (fixe + mobile) (En %)
+
+-Nombre d'abonnés Intenet (En milliers)
+
+-Chiffre d'affaires des sociétés d'assurances (En millions dh)
+
+",MEF,odc-odbl,Open Data Commons Open Database License (ODbL),22abbf92-d09a-4612-948e-7e48471f9643,Indicateurs sectoriels_FR_2025.xlsx,,XLSX,https://data.gov.ma/data/fr/dataset/2e75db6d-6a56-4652-8541-fe43ff32e854/resource/22abbf92-d09a-4612-948e-7e48471f9643/download/indicateurs-sectoriels_fr_2025.xlsx,2026-03-09T13:52:01.115281,2026-03-09T13:52:01.351550,2026-11-26T10:53:14.490216+00:00

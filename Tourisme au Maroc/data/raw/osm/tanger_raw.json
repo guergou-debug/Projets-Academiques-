@@ -1,0 +1,1759 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-11-26T10:45:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 489536546,
+      "lat": 35.7591065,
+      "lon": -5.9387313,
+      "tags": {
+        "name": "Le Mirage",
+        "name:fr": "Le Mirage",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2139279783,
+      "lat": 35.7779473,
+      "lon": -5.8476977,
+      "tags": {
+        "name": "Hôtel Andalucia Golf Tanger",
+        "name:fr": "Hôtel Andalucia Golf Tanger",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2328216011,
+      "lat": 35.7878602,
+      "lon": -5.8141884,
+      "tags": {
+        "email": "contactdarnour@yahoo.fr",
+        "internet_access": "wlan",
+        "name": "Dar Nour",
+        "name:fr": "Dar Nour",
+        "phone": "+212 6 62 11 27 24",
+        "tourism": "guest_house",
+        "website": "https://www.darnour.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2572753217,
+      "lat": 35.7818736,
+      "lon": -5.8124092,
+      "tags": {
+        "check_date": "2025-10-02",
+        "name": "El Minzah Hotel",
+        "stars": "5",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2572804270,
+      "lat": 35.7727956,
+      "lon": -5.8158208,
+      "tags": {
+        "addr:street": "Avenue Sidi Mohamed Ben Abdellah",
+        "name": "Hotel Etoile du Nord",
+        "source": "Kaart Ground Survey 2018",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2789810722,
+      "lat": 35.7837408,
+      "lon": -5.8109191,
+      "tags": {
+        "name": "Riad Tanja",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2836506880,
+      "lat": 35.7738098,
+      "lon": -5.7793194,
+      "tags": {
+        "brand": "Ramada",
+        "brand:wikidata": "Q1502859",
+        "name": "Ramada Encore Hotel",
+        "official_name": "Ramada by Wyndham",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2849419572,
+      "lat": 35.778715,
+      "lon": -5.812096,
+      "tags": {
+        "addr:street": "Avenue du Prince Héritier",
+        "name": "Atlas Hotel",
+        "name:es": "Hotel Atlas",
+        "source": "Kaart Ground Survey 2018",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2854147821,
+      "lat": 35.7825633,
+      "lon": -5.8083233,
+      "tags": {
+        "name": "Hotel Valencia",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2854147836,
+      "lat": 35.7818351,
+      "lon": -5.8126378,
+      "tags": {
+        "name": "Pension Gibraltar",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2859205246,
+      "lat": 35.7817169,
+      "lon": -5.8076723,
+      "tags": {
+        "name": "Hotel L'marsa",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2873733131,
+      "lat": 35.7814362,
+      "lon": -5.8144808,
+      "tags": {
+        "addr:street": "Rue Hollande",
+        "name": "Pension Hollanda",
+        "source": "Kaart Ground Survey 2018",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2909973053,
+      "lat": 35.7803844,
+      "lon": -5.8145883,
+      "tags": {
+        "addr:street": "Rue Hollande",
+        "name": "Pension Safari",
+        "source": "Kaart Ground Survey 2018",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2962044377,
+      "lat": 35.7354581,
+      "lon": -5.8934387,
+      "tags": {
+        "name": "Guest House FSTT",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2962777635,
+      "lat": 35.7825641,
+      "lon": -5.8094375,
+      "tags": {
+        "addr:housenumber": "144",
+        "addr:street": "Rue Salah Eddine Ayoubi",
+        "name": "Hotel Royal",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3631930393,
+      "lat": 35.7856777,
+      "lon": -5.8102185,
+      "tags": {
+        "name": "Maram",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4102282114,
+      "lat": 35.7872155,
+      "lon": -5.8135537,
+      "tags": {
+        "addr:city": "Tangier",
+        "addr:housenumber": "64",
+        "addr:postcode": "90030",
+        "addr:street": "Rue Ibn Batouta",
+        "email": "tangiers.hostel@gmail.com",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Tangiers Hostel",
+        "note": "35.78692,-5.8131204,19z",
+        "operator": "Hostel, youth, Packpackers, Travellers, Tourist",
+        "phone": "+212 5 39 37 54 57",
+        "rooms": "5",
+        "smoking": "outside",
+        "tourism": "hostel",
+        "website": "https://tangiershostel.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4115199589,
+      "lat": 35.7804828,
+      "lon": -5.8058373,
+      "tags": {
+        "addr:street": "Rue Antaki",
+        "internet_access": "wlan",
+        "name": "El Djenina",
+        "phone": "+212 5 39 94 22 44",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4172952590,
+      "lat": 35.7870906,
+      "lon": -5.811487,
+      "tags": {
+        "addr:housenumber": "16",
+        "addr:postcode": "90000",
+        "addr:street": "Rue Ben Abdessadak",
+        "email": "infos@tangerpratique.com",
+        "internet_access": "wlan",
+        "name": "Riad Arous Chamel",
+        "phone": "+212 6 65 89 69 03",
+        "tourism": "hostel",
+        "website": "https://www.arouschamel.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4183919189,
+      "lat": 35.772215,
+      "lon": -5.9309557,
+      "tags": {
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4183919389,
+      "lat": 35.7724268,
+      "lon": -5.9307827,
+      "tags": {
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4303460522,
+      "lat": 35.7622148,
+      "lon": -5.7928032,
+      "tags": {
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4303465836,
+      "lat": 35.7622232,
+      "lon": -5.7928826,
+      "tags": {
+        "tourism": "motel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4371892733,
+      "lat": 35.7814665,
+      "lon": -5.8361391,
+      "tags": {
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4373282592,
+      "lat": 35.7848114,
+      "lon": -5.8390405,
+      "tags": {
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4373289998,
+      "lat": 35.7821571,
+      "lon": -5.8380144,
+      "tags": {
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4375708896,
+      "lat": 35.7809993,
+      "lon": -5.8063425,
+      "tags": {
+        "addr:city": "Tanger طنجة",
+        "addr:housenumber": "152",
+        "addr:postcode": "90000",
+        "addr:street": "Avenue Mohammed VI شارع محمد السادس",
+        "email": "info@marco-polo.ma",
+        "internet_access": "wlan",
+        "name": "Marina Bay",
+        "opening_hours": "24/7",
+        "phone": "+212 539941124",
+        "rooms": "35",
+        "source": "Kaart Ground Survey 2018",
+        "stars": "2",
+        "tourism": "hotel",
+        "website": "http://www.marco-polo.ma"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4573327189,
+      "lat": 35.7631626,
+      "lon": -5.8023825,
+      "tags": {
+        "addr:street": "Rue Ghazouat Tabouk",
+        "internet_access": "wlan",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4725903097,
+      "lat": 35.7873544,
+      "lon": -5.8101049,
+      "tags": {
+        "addr:housenumber": "6",
+        "addr:postcode": "90000",
+        "addr:street": "Rue Mohamed Bergach",
+        "email": "info@magicmaroc.com",
+        "name": "Dar Jameel",
+        "phone": "+212 5 39 33 46 80",
+        "tourism": "guest_house",
+        "website": "http://magicmaroc.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4727707191,
+      "lat": 35.7860216,
+      "lon": -5.8115705,
+      "tags": {
+        "name": "Dar Nakhla Naciria",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4728602652,
+      "lat": 35.7878594,
+      "lon": -5.8123659,
+      "tags": {
+        "addr:city": "Tangier",
+        "addr:city:es": "Tánger",
+        "addr:housenumber": "17",
+        "addr:postcode": "90030",
+        "addr:street": "Rue Sidi Khalil",
+        "email": "kasbah.hostel@gmail.com",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Tangier Kasbah Hostel",
+        "name:es": "Albergue La Casba de Tánger",
+        "opening_hours": "Mo-Su 09:00-23:00",
+        "payment:cash": "yes",
+        "phone": "+212 6 96 88 41 63",
+        "rooms": "4",
+        "smoking": "outside",
+        "start_date": "2017-05-01",
+        "tourism": "hostel",
+        "website": "https://levartmorocco.com/st_hotel/tangier-kasbah-hsotel/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4880353975,
+      "lat": 35.7853591,
+      "lon": -5.8097062,
+      "tags": {
+        "addr:housenumber": "19",
+        "addr:street": "Rue Mokhtar Ahardane",
+        "internet_access": "wlan",
+        "name": "Hotel Mamora Tanger",
+        "self_service": "no",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5025233121,
+      "lat": 35.7860966,
+      "lon": -5.8104283,
+      "tags": {
+        "name": "Hotel mauritania center tanger",
+        "name:fr": "Hotel mauritania center tanger",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5138318121,
+      "lat": 35.7924958,
+      "lon": -5.7537902,
+      "tags": {
+        "name": "فندق فرح طنجة",
+        "name:de": "Hotel Farah Tanger",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5220567221,
+      "lat": 35.781027,
+      "lon": -5.8076782,
+      "tags": {
+        "addr:housenumber": "16",
+        "addr:street": "Rue Magellan",
+        "internet_access": "wlan",
+        "name": "Hotel Magellan",
+        "opening_hours": "24/7",
+        "phone": "+212 5 39 37 23 19",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5394247241,
+      "lat": 35.786641,
+      "lon": -5.812604,
+      "tags": {
+        "addr:housenumber": "11",
+        "addr:street": "Rue Loukous Medina",
+        "name": "Dar Medina Tanger",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5474903222,
+      "lat": 35.7890074,
+      "lon": -5.8136072,
+      "tags": {
+        "addr:housenumber": "19",
+        "addr:postcode": "90030",
+        "addr:street": "Rue Riad Sultan",
+        "email": "info@latangerina.com",
+        "name": "La Tangerina",
+        "opening_hours": "24/7",
+        "phone": "+212 5 39 94 77 31",
+        "tourism": "hotel",
+        "website": "https://www.latangerina.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5479070421,
+      "lat": 35.7526093,
+      "lon": -5.8300629,
+      "tags": {
+        "tourism": "apartment"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5765992653,
+      "lat": 35.7853659,
+      "lon": -5.8093364,
+      "tags": {
+        "name": "Hôtel Olid",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5802226253,
+      "lat": 35.7600779,
+      "lon": -5.8003341,
+      "tags": {
+        "addr:street": "Rue 62",
+        "name": "Miramonte swimming pool",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5962346185,
+      "lat": 35.7855923,
+      "lon": -5.8107584,
+      "tags": {
+        "name:en": "Hotel Mauritania",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6325318158,
+      "lat": 35.788976,
+      "lon": -5.8134831,
+      "tags": {
+        "addr:city": "Tanger طنجة",
+        "addr:housenumber": "11",
+        "addr:postcode": "90030",
+        "addr:street": "Rue Riad Sultan",
+        "email": "info@nord-pinus-tanger.com",
+        "internet_access": "wlan",
+        "name": "Hotel Nord-Pinus Tanger",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+212 661 22 81 40",
+        "rooms": "7",
+        "tourism": "hotel",
+        "website": "http://nord-pinus-tanger.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6418186890,
+      "lat": 35.7850605,
+      "lon": -5.8120524,
+      "tags": {
+        "name:en": "Hotel Touahine",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6679992185,
+      "lat": 35.7477669,
+      "lon": -5.8370516,
+      "tags": {
+        "name:de": "Chaimaes Familie",
+        "tourism": "apartment"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6802014100,
+      "lat": 35.7844235,
+      "lon": -5.7634487,
+      "tags": {
+        "addr:street": "boulevard Mohamed VI",
+        "brand": "Mövenpick",
+        "brand:wikidata": "Q691162",
+        "description": "hotel restaurants piscine sauna fitness",
+        "name": "Mövenpick Hotel & Casino Malabata",
+        "phone": "+212 5 39 32 93 00",
+        "tourism": "hotel",
+        "website": "www.moevenpick-tangier-casino.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6977989708,
+      "lat": 35.7581192,
+      "lon": -5.8387196,
+      "tags": {
+        "name:en": "Ibrahim",
+        "tourism": "apartment"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7715975285,
+      "lat": 35.78613,
+      "lon": -5.8096591,
+      "tags": {
+        "name": "Airbnb",
+        "tourism": "apartment"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9141846925,
+      "lat": 35.7876892,
+      "lon": -5.8248124,
+      "tags": {
+        "addr:housenumber": "9",
+        "addr:street": "Rue imam chafii",
+        "name": "Diafa hostel",
+        "phone": "+212 6 19 88 79 55",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9692009353,
+      "lat": 35.7843595,
+      "lon": -5.8100625,
+      "tags": {
+        "addr:housenumber": "26",
+        "addr:street": "Rue Khatib",
+        "email": "baytalicehostel@gmail.com",
+        "name": "Baytalice",
+        "phone": "+212 7 70 74 78 06",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9770032000,
+      "lat": 35.7873539,
+      "lon": -5.8102954,
+      "tags": {
+        "addr:housenumber": "23",
+        "addr:street": "Rue Mohamed Bargach",
+        "name": "The Riad Hostel Tangier",
+        "phone": "+212 8 08 50 85 11",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9836339317,
+      "lat": 35.7871368,
+      "lon": -5.8105726,
+      "tags": {
+        "name:en": "Dar Rif Kebdani",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10216893917,
+      "lat": 35.7726599,
+      "lon": -5.8078148,
+      "tags": {
+        "name:en": "ANAPEC",
+        "tourism": "apartment"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10901580705,
+      "lat": 35.7890726,
+      "lon": -5.8159011,
+      "tags": {
+        "name": "فيلا بيرلا",
+        "name:fr": "Villa Perla",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11242313937,
+      "lat": 35.7854965,
+      "lon": -5.8103791,
+      "tags": {
+        "name": "Hotel fuentes",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11250621937,
+      "lat": 35.7884801,
+      "lon": -5.8097886,
+      "tags": {
+        "addr:housenumber": "51",
+        "addr:street": "Rue Zaitouni",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11250622037,
+      "lat": 35.7884754,
+      "lon": -5.8097706,
+      "tags": {
+        "addr:housenumber": "51",
+        "addr:postcode": "90000",
+        "addr:street": "Rue Zaitouni",
+        "email": "dargara23@gmail.com",
+        "internet_access": "wlan",
+        "name": "Dar Gara",
+        "name:en": "Bed& Breakfast",
+        "name:es": "Dar Gara",
+        "phone": "+212 7 21 57 65 19",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11290828269,
+      "lat": 35.78848,
+      "lon": -5.8099227,
+      "tags": {
+        "addr:street": "Rue Zaitouni",
+        "internet_access": "wlan",
+        "name:en": "Dar Gara hostel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11298764469,
+      "lat": 35.7764457,
+      "lon": -5.8094079,
+      "tags": {
+        "addr:housenumber": "61",
+        "addr:postcode": "90000",
+        "addr:street": "Avenue de la Résistance",
+        "email": "apparthotelrania@gmail.com",
+        "internet_access": "wlan",
+        "name:en": "Appart Hotel Rania",
+        "phone": "+212 5 39 34 12 23",
+        "stars": "3",
+        "tourism": "hotel",
+        "website": "https://www.raniaapparthotel.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11335974869,
+      "lat": 35.7666011,
+      "lon": -5.9273867,
+      "tags": {
+        "addr:housenumber": "A-16",
+        "addr:street": "Route des Grottes d'Hercule,",
+        "internet_access": "wlan",
+        "name": "Tanger Appartement Booking.com (А-16)",
+        "tourism": "apartment"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11950415769,
+      "lat": 35.7863111,
+      "lon": -5.8099448,
+      "tags": {
+        "addr:housenumber": "32",
+        "addr:postcode": "90000",
+        "addr:street": "Rue Sekka",
+        "name": "Socco Hostel",
+        "phone": "+212 6 62 07 02 08",
+        "tourism": "hostel",
+        "website": "https://www.soccohostel.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12101340902,
+      "lat": 35.7855013,
+      "lon": -5.8088626,
+      "tags": {
+        "name": "Nahda",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12103020705,
+      "lat": 35.7789864,
+      "lon": -5.8024767,
+      "tags": {
+        "name": "Miramar",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12103025302,
+      "lat": 35.7794665,
+      "lon": -5.8033747,
+      "tags": {
+        "name": "Marina Bay",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12173069218,
+      "lat": 35.7872341,
+      "lon": -5.8128807,
+      "tags": {
+        "guest_house": "guest_house",
+        "name": "Dar Sharif Tanger",
+        "phone": "+212 6 96 88 41 63",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12184723204,
+      "lat": 35.7830238,
+      "lon": -5.7667589,
+      "tags": {
+        "name": "Hôtel Tarik",
+        "tourism": "hotel",
+        "website": "https://www.umhtarikhotel.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12345669548,
+      "lat": 35.7875441,
+      "lon": -5.8161141,
+      "tags": {
+        "addr:housenumber": "22",
+        "addr:street": "Rue Ben Aliem",
+        "name": "Lalla Soulja",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12356470486,
+      "lat": 35.7864842,
+      "lon": -5.8112627,
+      "tags": {
+        "addr:city": "Tanger",
+        "addr:postcode": "90030",
+        "addr:street": "Rue Chorfa Jdid",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Riad Sultana",
+        "tourism": "hotel",
+        "website": "https://www.riadsultana.ma/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12469903801,
+      "lat": 35.774458,
+      "lon": -5.7761589,
+      "tags": {
+        "name": "Villa Adam",
+        "name:ar": "فيلا آدم",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12790282101,
+      "lat": 35.7701808,
+      "lon": -5.7910846,
+      "tags": {
+        "addr:postcode": "90000",
+        "addr:street": "Rue des Abattoirs",
+        "email": "contact@appartanger.com",
+        "internet_access": "wlan",
+        "name": "Les belles Residences (E)",
+        "tourism": "apartment",
+        "website": "https://appartanger.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12800152991,
+      "lat": 35.7878895,
+      "lon": -5.8159074,
+      "tags": {
+        "name": "Riad Mokhtar",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13188444097,
+      "lat": 35.7879623,
+      "lon": -5.8140388,
+      "tags": {
+        "name": "Kasba Blanca",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13188578677,
+      "lat": 35.7876581,
+      "lon": -5.8120308,
+      "tags": {
+        "name": "Dar chams Tanja",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13188931810,
+      "lat": 35.7880911,
+      "lon": -5.8138844,
+      "tags": {
+        "name": "Kasba Green",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13190316744,
+      "lat": 35.7877472,
+      "lon": -5.8095753,
+      "tags": {
+        "name": "Guest House Laghrib",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13190316748,
+      "lat": 35.786763,
+      "lon": -5.8110632,
+      "tags": {
+        "check_date": "2025-10-03",
+        "name": "Zoco Riad",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13190316750,
+      "lat": 35.7853861,
+      "lon": -5.8122175,
+      "tags": {
+        "name": "TanjaLucia Hostel",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13192107083,
+      "lat": 35.7880195,
+      "lon": -5.8142125,
+      "tags": {
+        "name": "Kasbah Rose",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13196965373,
+      "lat": 35.7883334,
+      "lon": -5.8099613,
+      "tags": {
+        "addr:housenumber": "40",
+        "name": "Banana Hostel",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13337095702,
+      "lat": 35.786893,
+      "lon": -5.8117719,
+      "tags": {
+        "name": "Dar Tinjaa",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13392946902,
+      "lat": 35.7845878,
+      "lon": -5.811847,
+      "tags": {
+        "addr:housenumber": "30",
+        "addr:street": "Rue Touahine Ben Hachemi",
+        "internet_access": "wlan",
+        "name": "Hotel Marrakech",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13437949801,
+      "lat": 35.7859938,
+      "lon": -5.8100307,
+      "tags": {
+        "name": "Dar Sekka",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13705689101,
+      "lat": 35.7733621,
+      "lon": -5.7938591,
+      "tags": {
+        "name": "Moroccan Floors Suites Appart-Hôtel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13762274301,
+      "lat": 35.7875844,
+      "lon": -5.8103183,
+      "tags": {
+        "name": "Absinthe Guesthouse",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13762408701,
+      "lat": 35.7941157,
+      "lon": -5.8398178,
+      "tags": {
+        "name": "Villa Josephine",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13762425801,
+      "lat": 35.7894945,
+      "lon": -5.8146104,
+      "tags": {
+        "name": "Aux 3 Portes",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13762425803,
+      "lat": 35.7892326,
+      "lon": -5.8153607,
+      "tags": {
+        "name": "Maison Maggie Tangier",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13762425901,
+      "lat": 35.7892647,
+      "lon": -5.8158522,
+      "tags": {
+        "name": "Villa Mabrouka",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13762426001,
+      "lat": 35.7889484,
+      "lon": -5.8153815,
+      "tags": {
+        "name": "La Di Dar",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13772319604,
+      "lat": 35.708337,
+      "lon": -5.943679,
+      "tags": {
+        "name": "Hajreen côté guezenaya",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13772373201,
+      "lat": 35.707633,
+      "lon": -5.943176,
+      "tags": {
+        "name": "دار الضيافة الحجريين",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13796144212,
+      "lat": 35.7848162,
+      "lon": -5.8241028,
+      "tags": {
+        "name": "Maison fertat",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13796156306,
+      "lat": 35.78478,
+      "lon": -5.824052,
+      "tags": {
+        "name": "Fatima",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13806703602,
+      "lat": 35.776653,
+      "lon": -5.799477,
+      "tags": {
+        "name": "El Oumnia Puerto Hôtel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13806703702,
+      "lat": 35.776524,
+      "lon": -5.7999,
+      "tags": {
+        "name": "Soofstay",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13807184001,
+      "lat": 35.78187,
+      "lon": -5.850714,
+      "tags": {
+        "name": "Fairmont Tazi Palace",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13807184101,
+      "lat": 35.7865987,
+      "lon": -5.8127759,
+      "tags": {
+        "name": "Riad Amr Tanger",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13807198202,
+      "lat": 35.772873,
+      "lon": -5.783891,
+      "tags": {
+        "name": "رويال توليب سيتي سنتر",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13831124401,
+      "lat": 35.786917,
+      "lon": -5.760828,
+      "tags": {
+        "name": "فندق غراند موغادور",
+        "name:en": "Grand Mogador Sea View",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13839353405,
+      "lat": 35.7752557,
+      "lon": -5.7872681,
+      "tags": {
+        "name": "Malabata Bay Residences",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 14377928601,
+      "lat": 35.7790968,
+      "lon": -5.8052898,
+      "tags": {
+        "addr:housenumber": "26",
+        "addr:street": "Rue Antaki",
+        "check_date": "2026-11-13",
+        "internet_access": "wlan",
+        "name:en": "Hotel Dar Omar Khayam",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 48611891,
+      "center": {
+        "lat": 35.781941,
+        "lon": -5.8138274
+      },
+      "tags": {
+        "addr:street": "Rue Hollande",
+        "building": "yes",
+        "name": "Fredj Hotel & Spa",
+        "source": "Kaart Ground Survey 2018",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 121060940,
+      "center": {
+        "lat": 35.7147352,
+        "lon": -5.9043271
+      },
+      "tags": {
+        "brand": "Ibis",
+        "brand:ar": "إيبس",
+        "brand:es": "Ibis",
+        "brand:wikidata": "Q920166",
+        "building": "yes",
+        "name": "Ibis",
+        "name:ar": "إيبس",
+        "name:es": "Ibis",
+        "operator": "Accor Hotels",
+        "operator:es": "Hoteles Accor",
+        "stars": "3",
+        "tourism": "hotel",
+        "website": "www.ibishotel.com"
+      }
+    },
+    {
+      "type": "way",
+      "id": 248831782,
+      "center": {
+        "lat": 35.7764794,
+        "lon": -5.7975217
+      },
+      "tags": {
+        "addr:city": "Tangier",
+        "addr:postcode": "90000",
+        "addr:street": "Avenue Mohammed VI",
+        "building": "hotel",
+        "building:levels": "10",
+        "name": "Kenzi Solazur Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 358237191,
+      "center": {
+        "lat": 35.7823335,
+        "lon": -5.8145336
+      },
+      "tags": {
+        "addr:city": "Tanger",
+        "addr:city:fr": "Tanger",
+        "addr:street": "Rue d'Angleterre",
+        "addr:street:fr": "Rue d'Angleterre",
+        "name": "Grand Hôtel Ville de France",
+        "name:fr": "Grand Hôtel Ville de France",
+        "stars": "5",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 358239686,
+      "center": {
+        "lat": 35.7857188,
+        "lon": -5.8102994
+      },
+      "tags": {
+        "addr:housenumber": "76",
+        "addr:street": "Rue de la Marine",
+        "building": "yes",
+        "name": "Palais Zahia",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 358564315,
+      "center": {
+        "lat": 35.7776402,
+        "lon": -5.8000028
+      },
+      "tags": {
+        "building": "yes",
+        "building:levels": "9",
+        "name": "Barceló Hotel",
+        "name:fr": "Barceló Tanger",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 359101160,
+      "center": {
+        "lat": 35.7875082,
+        "lon": -5.8095119
+      },
+      "tags": {
+        "addr:city": "Tanger ⵜⵉⵏ ⵉⴳⴳⵉ طنجة",
+        "addr:housenumber": "36",
+        "addr:postcode": "90000",
+        "addr:street": "Rue Dar Baroud",
+        "building": "hotel",
+        "name": "Hotel Continental",
+        "start_date": "1870",
+        "tourism": "hotel",
+        "website": "http://www.hotel-tanger.com/lhotel-continental-tanger-034",
+        "wikidata": "Q5911395",
+        "wikimedia_commons": "Category:Hôtel Continental (Tangier)",
+        "wikipedia": "en:Hotel Continental (Tangier)"
+      }
+    },
+    {
+      "type": "way",
+      "id": 360079712,
+      "center": {
+        "lat": 35.7799135,
+        "lon": -5.8084522
+      },
+      "tags": {
+        "addr:postcode": "90000",
+        "addr:street": "Rue Jabha al Wataniya",
+        "building": "yes",
+        "check_date": "2026-05-07",
+        "name": "Hotel Rembrandt",
+        "name:es": "Hotel Rembrandt",
+        "phone": "+212 539 33 33 15",
+        "source": "Kaart Ground Survey 2018",
+        "tourism": "hotel",
+        "website": "https://www.rembrandthotel.ma/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 376286426,
+      "center": {
+        "lat": 35.7722727,
+        "lon": -5.7831965
+      },
+      "tags": {
+        "brand": "Ibis",
+        "brand:wikidata": "Q920166",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Hotel Ibis Tanger City Center",
+        "operator": "Accor Hotels",
+        "phone": "+212 5 39 32 85 50",
+        "rooms": "196",
+        "smoking": "yes",
+        "stars": "3",
+        "tourism": "hotel",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 392822211,
+      "center": {
+        "lat": 35.714765,
+        "lon": -5.9049593
+      },
+      "tags": {
+        "brand": "Ibis Budget",
+        "brand:ar": "إيبس بدجت",
+        "brand:es": "Ibis Budget",
+        "brand:wikidata": "Q1458135",
+        "building": "yes",
+        "name": "Ibis Budget",
+        "name:ar": "إيبس بدجت",
+        "name:es": "Ibis Budget",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 402708104,
+      "center": {
+        "lat": 35.7737329,
+        "lon": -5.7870745
+      },
+      "tags": {
+        "addr:city": "Tangier",
+        "addr:postcode": "90000",
+        "addr:street": "Place du Maghreb Arabe",
+        "brand": "Hilton Garden Inn",
+        "building": "yes",
+        "check_date": "2025-05-03",
+        "contact:facebook": "https://www.facebook.com/HiltonGardenInnTanger/",
+        "contact:instagram": "https://www.instagram.com/hgitangercitycenter",
+        "email": "tangercitycenter.hgi@hilton.com",
+        "fax": "+212 5 39 30 10 11",
+        "internet_access": "yes",
+        "name": "Hilton Garden Inn Tanger City Center",
+        "operator": "Hilton Inc.",
+        "phone": "+212 5 39 30 95 00",
+        "rooms": "320",
+        "smoking": "separated",
+        "stars": "4",
+        "tourism": "hotel",
+        "website": "https://www.hilton.com/en/hotels/tnggigi-hilton-garden-inn-tanger-city-center/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 411847328,
+      "center": {
+        "lat": 35.7729192,
+        "lon": -5.7861521
+      },
+      "tags": {
+        "addr:city": "Tangier",
+        "addr:postcode": "90000",
+        "addr:street": "Rond point de la gare ferroviaire",
+        "brand": "Hilton",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/HiltonTangerCityCenter",
+        "contact:instagram": "https://www.instagram.com/hiltontangercitycenter",
+        "contact:twitter": "https://twitter.com/HiltonTCC",
+        "email": "tngcc_hotel@hilton.com",
+        "internet_access": "yes",
+        "name": "Hilton Tangier City Center",
+        "operator": "Hilton",
+        "phone": "+212 5 39 30 97 00",
+        "rooms": "180",
+        "stars": "5",
+        "tourism": "hotel",
+        "website": "https://www.hilton.com/en/hotels/tngcchi-hilton-tangier-city-center/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 511790328,
+      "center": {
+        "lat": 35.7773339,
+        "lon": -5.8109016
+      },
+      "tags": {
+        "addr:street": "Rue Allal Ben Abdallah",
+        "building": "yes",
+        "name": "Hotel Chellah",
+        "name:ar": "فندق شالة",
+        "phone": "+212 5 39 32 10 02",
+        "source": "Kaart Ground Survey 2018",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 583388710,
+      "center": {
+        "lat": 35.7799919,
+        "lon": -5.811241
+      },
+      "tags": {
+        "addr:street": "Rue Al Moutanabbi",
+        "building": "yes",
+        "name": "Hotel Atlal",
+        "source": "Kaart Ground Survey 2018",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 583388711,
+      "center": {
+        "lat": 35.7800429,
+        "lon": -5.8113403
+      },
+      "tags": {
+        "addr:street": "Rue Al Moutanabbi",
+        "building": "yes",
+        "name": "Hotel Al Haceima",
+        "source": "Kaart Ground Survey 2018",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 583388712,
+      "center": {
+        "lat": 35.7799894,
+        "lon": -5.81185
+      },
+      "tags": {
+        "addr:street": "Rue Ahmed Chaouki",
+        "building": "yes",
+        "name": "Hotel Astoria",
+        "source": "Kaart Ground Survey 2018",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 583388714,
+      "center": {
+        "lat": 35.7798625,
+        "lon": -5.8122908
+      },
+      "tags": {
+        "addr:street": "Avenue du Prince Héritier",
+        "building": "yes",
+        "name": "Hotel Picasso",
+        "source": "Kaart Ground Survey 2018",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 583388715,
+      "center": {
+        "lat": 35.7787449,
+        "lon": -5.8118978
+      },
+      "tags": {
+        "addr:street": "Avenue du Prince Héritier",
+        "building": "yes",
+        "name": "Atlas Hotel",
+        "name:es": "Hotel Atlas",
+        "source": "Kaart Ground Survey 2018",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 583388716,
+      "center": {
+        "lat": 35.7769502,
+        "lon": -5.8083722
+      },
+      "tags": {
+        "addr:street": "Avenue de la Résistance",
+        "building": "yes",
+        "name": "Hotel Nezha",
+        "source": "Kaart Ground Survey 2018",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 583578781,
+      "center": {
+        "lat": 35.7764297,
+        "lon": -5.7994639
+      },
+      "tags": {
+        "addr:city": "Tangier",
+        "addr:street": "Avenue Ludwig Van Beethoven",
+        "building": "hotel",
+        "building:levels": "5`",
+        "name": "Hotel Eloumnia Puerto",
+        "source": "Kaart Ground Survey 2018",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 586688756,
+      "center": {
+        "lat": 35.7760678,
+        "lon": -5.777888
+      },
+      "tags": {
+        "addr:city": "طنجة",
+        "addr:city:es": "Tánger",
+        "addr:street": "Avenue Mohammed VI",
+        "addr:street:es": "Avenida Mohamed VI",
+        "building": "yes",
+        "name": "Hôtel César فندق سيزار",
+        "name:ar": "فندق سيزار",
+        "name:es": "Hotel Cesar",
+        "name:fr": "Hôtel César",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 587003327,
+      "center": {
+        "lat": 35.7794919,
+        "lon": -5.8087019
+      },
+      "tags": {
+        "addr:city": "Tangier",
+        "addr:street": "Boulevard Mohamed V",
+        "building": "yes",
+        "name": "Flandria",
+        "source": "Kaart Ground Survey 2018",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 587335837,
+      "center": {
+        "lat": 35.6973502,
+        "lon": -5.9168578
+      },
+      "tags": {
+        "addr:street": "Pénétrante de Tanger-Sud",
+        "building": "yes",
+        "name": "Motel Zenaya",
+        "source": "KaartGroundSurvey2018",
+        "tourism": "motel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 588494691,
+      "center": {
+        "lat": 35.7780015,
+        "lon": -5.8005132
+      },
+      "tags": {
+        "addr:street": "Avenue Mohammed VI",
+        "building": "yes",
+        "building:levels": "9",
+        "name": "Hotel Sheherazade",
+        "source": "Kaart Ground Survey 2018",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 588765207,
+      "center": {
+        "lat": 35.7595176,
+        "lon": -5.7940826
+      },
+      "tags": {
+        "addr:city": "Tangier",
+        "addr:street": "Route de Tétouan",
+        "building": "yes",
+        "name": "Hotel Star",
+        "source": "Kaart Ground Survey 2018",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1097835098,
+      "center": {
+        "lat": 35.7462371,
+        "lon": -5.8401322
+      },
+      "tags": {
+        "name": "Hotel Ahlen",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1106368097,
+      "center": {
+        "lat": 35.762731,
+        "lon": -5.7964596
+      },
+      "tags": {
+        "addr:city": "Tanger",
+        "addr:postcode": "90070",
+        "addr:street": "N°800, LOT LA BELLE VUE, Rte de Tetouan, Tanger 90070",
+        "building": "hotel",
+        "building:levels": "3",
+        "email": "contact@eltorohotel.ma",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "El Toro Hôtel by Expert Book",
+        "phone": "+212 6 68 73 78 87",
+        "rooms": "27",
+        "source": "microsoft/BuildingFootprints",
+        "tourism": "hotel",
+        "website": "https://www.eltorohotel.ma/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1155273775,
+      "center": {
+        "lat": 35.7809109,
+        "lon": -5.8082225
+      },
+      "tags": {
+        "addr:housenumber": "1",
+        "addr:postcode": "90000",
+        "addr:street": "Rue Magellan",
+        "building": "yes",
+        "internet_access": "wlan",
+        "name:en": "Hotel El Muniria",
+        "opening_hours": "24/7",
+        "phone": "+212 5 39 93 53 37",
+        "source": "microsoft/BuildingFootprints",
+        "tourism": "hotel",
+        "website": "https://m.facebook.com/pages/category/Beach-Resort/Hotel-El-Muniria-1591866301086271/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1225793302,
+      "center": {
+        "lat": 35.7830261,
+        "lon": -5.7668118
+      },
+      "tags": {
+        "building": "yes",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1225793303,
+      "center": {
+        "lat": 35.7845001,
+        "lon": -5.7643131
+      },
+      "tags": {
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1225793305,
+      "center": {
+        "lat": 35.7849732,
+        "lon": -5.7637548
+      },
+      "tags": {
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1225793310,
+      "center": {
+        "lat": 35.7837893,
+        "lon": -5.7657054
+      },
+      "tags": {
+        "building": "yes",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1263003461,
+      "center": {
+        "lat": 35.7732844,
+        "lon": -5.7833862
+      },
+      "tags": {
+        "building": "yes",
+        "name": "royal tulip",
+        "tourism": "hotel"
+      }
+    }
+  ]
+}

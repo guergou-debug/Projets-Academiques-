@@ -1,0 +1,7 @@
+﻿dataset,output_file,columns,description,unit,dimension
+tourism_destination,tourism_destination.csv,"year, period, period_type, indicator, unit, dimension, dimension_label, dimension_key, value, source_file, source_sheet, source_row",Nuitées réalisées par destination,nuitées,geography
+capacity_destination,capacity_destination.csv,"year, period, period_type, indicator, unit, dimension, dimension_label, dimension_key, value, source_file, source_sheet, source_row",Capacité hôtelière classée par destination,lits,geography
+capacity_category,capacity_category.csv,"year, period, period_type, indicator, unit, dimension, dimension_label, dimension_key, value, source_file, source_sheet, source_row",Capacité hôtelière classée par catégorie,lits,category
+tourism_market_nights,tourism_market_nights.csv,"year, period, period_type, indicator, unit, dimension, dimension_label, dimension_key, value, source_file, source_sheet, source_row",Nuitées réalisées par marché,nuitées,market
+arrivals_nationality,arrivals_nationality.csv,"year, period, period_type, indicator, unit, dimension, dimension_label, dimension_key, value, source_file, source_sheet, source_row",Arrivées de touristes aux postes frontières par nationalité,arrivées,nationality
+arrivals_entry_point,arrivals_entry_point.csv,"year, period, period_type, indicator, unit, dimension, dimension_label, dimension_key, value, source_file, source_sheet, source_row",Arrivées de touristes par point d'entrée,arrivées,entry_point

@@ -1,0 +1,4 @@
+﻿dataset,source_file,sheet,n_rows_preview,n_columns,processing_status,note
+sectorial_fr,indicateurs-sectoriels-2012-2022_Indicateurs_sectoriels_FR.xlsx_febeb4b2-c45b-4143-8e00-c9573996aaa4,MAJ site(sectoriel),8,8,inventory_only,En-têtes multi-lignes/périodes mixtes : extraction séparée requise.
+sectorial_fr,indicateurs-sectoriels-2012-2022_Indicateurs_sectoriels_FR_2025.xlsx_22abbf92-d09a-4612-948e-7e48471,MAJ site(sectoriel),8,9,inventory_only,En-têtes multi-lignes/périodes mixtes : extraction séparée requise.
+tourism_indicators,indicateurs-sectoriels-tourisme-2010-2020_Indicateurs_sectoriels-Tourisme.xlsx_efee8ad8-1817-4c57-a7,Tourisme,8,32,inventory_only,En-têtes multi-lignes/périodes mixtes : extraction séparée requise.

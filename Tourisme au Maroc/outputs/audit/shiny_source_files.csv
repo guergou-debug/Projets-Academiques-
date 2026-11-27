@@ -1,0 +1,8 @@
+filename,status
+tourism_destination.csv,DISPONIBLE
+capacity_destination.csv,DISPONIBLE
+capacity_category.csv,DISPONIBLE
+tourism_market_nights.csv,DISPONIBLE
+arrivals_nationality.csv,DISPONIBLE
+arrivals_entry_point.csv,DISPONIBLE
+osm_accommodation.csv,DISPONIBLE

@@ -1,0 +1,118 @@
+year,dimension_key,destination_nights,destination_label_nights,capacity_beds,destination_label_capacity,destination,annual_bed_capacity,capacity_pressure_proxy
+2012,Agadir-Taghazout,4558091,Agadir-Taghazout,34014,Agadir+Taghazout,Agadir-Taghazout,12415110,0.3671406052785678
+2013,Agadir-Taghazout,5072974,Agadir-Taghazout,34762,Agadir+Taghazout,Agadir-Taghazout,12688130,0.399820462116955
+2014,Agadir-Taghazout,5137811,Agadir-Taghazout,37199,Agadir+Taghazout,Agadir-Taghazout,13577635,0.3784024979313408
+2015,Agadir-Taghazout,4711215,Agadir-Taghazout,37824,Agadir+Taghazout,Agadir-Taghazout,13805760,0.341249956539879
+2016,Agadir-Taghazout,4902520,Agadir-Taghazout,38603,Agadir+Taghazout,Agadir-Taghazout,14090095,0.3479408761970732
+2017,Agadir-Taghazout,5452994,Agadir-Taghazout,38823,Agadir+Taghazout,Agadir-Taghazout,14170395,0.384815949026121
+2018,Agadir-Taghazout,5898754,Agadir-Taghazout,38983,Agadir+Taghazout,Agadir-Taghazout,14228795,0.41456455026585176
+2019,Agadir-Taghazout,6048411,Agadir-Taghazout,40136,Agadir+Taghazout,Agadir-Taghazout,14649640,0.4128709647472566
+2020,Agadir-Taghazout,1861507,Agadir-Taghazout,40660,Agadir+Taghazout,Agadir-Taghazout,14840900,0.12543087009547937
+2012,Al Haouz,94463,Al Haouz,3043,Al Haouz,Al Haouz,1110695,0.0850485506822305
+2013,Al Haouz,86937,Al Haouz,3149,Al Haouz,Al Haouz,1149385,0.07563784110633077
+2014,Al Haouz,181199,Al Haouz,3277,Al Haouz,Al Haouz,1196105,0.15149088081731954
+2015,Al Haouz,269228,Al Haouz,5243,Al Haouz,Al Haouz,1913695,0.14068490537938386
+2016,Al Haouz,518800,Al Haouz,5277,Al Haouz,Al Haouz,1926105,0.26935187853206344
+2017,Al Haouz,625744,Al Haouz,5667,Al Haouz,Al Haouz,2068455,0.3025175795460863
+2018,Al Haouz,657852,Al Haouz,5715,Al Haouz,Al Haouz,2085975,0.31536907201668285
+2019,Al Haouz,702204,Al Haouz,5995,Al Haouz,Al Haouz,2188175,0.3209085196567916
+2020,Al Haouz,112996,Al Haouz,5995,Al Haouz,Al Haouz,2188175,0.05163937984850389
+2012,Casablanca,1565755,Casablanca,14472,Casablanca,Casablanca,5282280,0.29641650953754817
+2013,Casablanca,1745824,Casablanca,14885,Casablanca,Casablanca,5433025,0.32133553591231406
+2014,Casablanca,1734166,Casablanca,15141,Casablanca,Casablanca,5526465,0.31379299425582174
+2015,Casablanca,1663124,Casablanca,15959,Casablanca,Casablanca,5825035,0.2855131342558457
+2016,Casablanca,1806466,Casablanca,18751,Casablanca,Casablanca,6844115,0.26394442524709183
+2017,Casablanca,1985841,Casablanca,18883,Casablanca,Casablanca,6892295,0.2881247828190755
+2018,Casablanca,2052138,Casablanca,20416,Casablanca,Casablanca,7451840,0.27538675011809166
+2019,Casablanca,2155528,Casablanca,21200,Casablanca,Casablanca,7738000,0.2785639700180925
+2020,Casablanca,621974,Casablanca,21417,Casablanca,Casablanca,7817205,0.07956475492199577
+2012,El Jadida-Mazagan,309703,El Jadida-Mazagan,2646,El Jadida-Mazagan,El Jadida-Mazagan,965790,0.3206732312407459
+2013,El Jadida-Mazagan,360752,El Jadida-Mazagan,2674,El Jadida-Mazagan,El Jadida-Mazagan,976010,0.36961916373807646
+2014,El Jadida-Mazagan,374701,El Jadida-Mazagan,2672,El Jadida-Mazagan,El Jadida-Mazagan,975280,0.3841983840538102
+2015,El Jadida-Mazagan,378213,El Jadida-Mazagan,2740,El Jadida-Mazagan,El Jadida-Mazagan,1000100,0.3781751824817518
+2016,El Jadida-Mazagan,349166,El Jadida-Mazagan,2793,El Jadida-Mazagan,El Jadida-Mazagan,1019445,0.3425059713863916
+2017,El Jadida-Mazagan,350324,El Jadida-Mazagan,2793,El Jadida-Mazagan,El Jadida-Mazagan,1019445,0.3436418835739054
+2018,El Jadida-Mazagan,352185,El Jadida-Mazagan,2869,El Jadida-Mazagan,El Jadida-Mazagan,1047185,0.33631593271484983
+2019,El Jadida-Mazagan,350994,El Jadida-Mazagan,2949,El Jadida-Mazagan,El Jadida-Mazagan,1076385,0.32608592650399254
+2020,El Jadida-Mazagan,97603,El Jadida-Mazagan,2949,El Jadida-Mazagan,El Jadida-Mazagan,1076385,0.09067666308987955
+2012,Essaouira-Mogador,399449,Essaouira-Mogador,5223,Essaouira-Mogador,Essaouira-Mogador,1906395,0.2095310782917496
+2013,Essaouira-Mogador,473376,Essaouira-Mogador,5354,Essaouira-Mogador,Essaouira-Mogador,1954210,0.24223394619820798
+2014,Essaouira-Mogador,487617,Essaouira-Mogador,5632,Essaouira-Mogador,Essaouira-Mogador,2055680,0.23720472057907846
+2015,Essaouira-Mogador,419958,Essaouira-Mogador,5876,Essaouira-Mogador,Essaouira-Mogador,2144740,0.19580834973003722
+2016,Essaouira-Mogador,413686,Essaouira-Mogador,6090,Essaouira-Mogador,Essaouira-Mogador,2222850,0.18610612501968193
+2017,Essaouira-Mogador,461657,Essaouira-Mogador,6185,Essaouira-Mogador,Essaouira-Mogador,2257525,0.20449696016655408
+2018,Essaouira-Mogador,511161,Essaouira-Mogador,6303,Essaouira-Mogador,Essaouira-Mogador,2300595,0.2221864343789324
+2019,Essaouira-Mogador,556904,Essaouira-Mogador,6481,Essaouira-Mogador,Essaouira-Mogador,2365565,0.2354211361767696
+2020,Essaouira-Mogador,176625,Essaouira-Mogador,8602,Essaouira-Mogador,Essaouira-Mogador,3139730,0.05625483719937702
+2012,Fès,643776,Fès,7785,Fès,Fès,2841525,0.22656003378467549
+2013,Fès,769635,Fès,8156,Fès,Fès,2976940,0.2585322512378483
+2014,Fès,832367,Fès,9429,Fès,Fès,3441585,0.24185571473608816
+2015,Fès,724665,Fès,9791,Fès,Fès,3573715,0.20277638255988517
+2016,Fès,682008,Fès,10094,Fès,Fès,3684310,0.18511145913346053
+2017,Fès,945102,Fès,10298,Fès,Fès,3758770,0.25143916760003937
+2018,Fès,1096721,Fès,10346,Fès,Fès,3776290,0.2904228753617969
+2019,Fès,1117579,Fès,10346,Fès,Fès,3776290,0.29594628590494904
+2020,Fès,253856,Fès,10586,Fès,Fès,3863890,0.06569959289731334
+2012,Ifrane,NA,NA,6663,Ifrane,Ifrane,2431995,NA
+2013,Ifrane,NA,NA,8423,Ifrane,Ifrane,3074395,NA
+2014,Ifrane,NA,NA,8542,Ifrane,Ifrane,3117830,NA
+2015,Ifrane,NA,NA,8974,Ifrane,Ifrane,3275510,NA
+2016,Ifrane,NA,NA,9014,Ifrane,Ifrane,3290110,NA
+2017,Ifrane,NA,NA,9099,Ifrane,Ifrane,3321135,NA
+2018,Ifrane,NA,NA,9149,Ifrane,Ifrane,3339385,NA
+2019,Ifrane,NA,NA,9149,Ifrane,Ifrane,3339385,NA
+2020,Ifrane,NA,NA,9149,Ifrane,Ifrane,3339385,NA
+2012,Marrakech,5821191,Marrakech,56581,Marrakech,Marrakech,20652065,0.28186968228116654
+2013,Marrakech,6425896,Marrakech,59298,Marrakech,Marrakech,21643770,0.29689356336719525
+2014,Marrakech,6546300,Marrakech,60517,Marrakech,Marrakech,22088705,0.29636413723665556
+2015,Marrakech,5991167,Marrakech,64556,Marrakech,Marrakech,23562940,0.25426228645491605
+2016,Marrakech,6121224,Marrakech,67453,Marrakech,Marrakech,24620345,0.24862462325365464
+2017,Marrakech,7111152,Marrakech,69486,Marrakech,Marrakech,25362390,0.28038177790026886
+2018,Marrakech,7873933,Marrakech,71294,Marrakech,Marrakech,26022310,0.30258393662976113
+2019,Marrakech,8342980,Marrakech,73048,Marrakech,Marrakech,26662520,0.3129104075683769
+2020,Marrakech,1791932,Marrakech,73175,Marrakech,Marrakech,26708875,0.0670912571195904
+2012,Meknès,200878,Meknès,3633,Meknès,Meknès,1326045,0.15148656342733466
+2013,Meknès,216746,Meknès,3729,Meknès,Meknès,1361085,0.15924501408802536
+2014,Meknès,219062,Meknès,4452,Meknès,Meknès,1624980,0.13480904380361605
+2015,Meknès,209534,Meknès,4563,Meknès,Meknès,1665495,0.1258088436170628
+2016,Meknès,199457,Meknès,4589,Meknès,Meknès,1674985,0.11907987235706588
+2017,Meknès,227197,Meknès,4648,Meknès,Meknès,1696520,0.13391943507886733
+2018,Meknès,243856,Meknès,4670,Meknès,Meknès,1704550,0.14306180516851955
+2019,Meknès,252715,Meknès,4705,Meknès,Meknès,1717325,0.14715618767560013
+2020,Meknès,82908,Meknès,4705,Meknès,Meknès,1717325,0.04827740817841702
+2012,Ouarzazate,300869,Ouarzazate,6384,Ouarzazate,Ouarzazate,2330160,0.12911945960792393
+2013,Ouarzazate,311646,Ouarzazate,6630,Ouarzazate,Ouarzazate,2419950,0.12878199962809148
+2014,Ouarzazate,381217,Ouarzazate,6791,Ouarzazate,Ouarzazate,2478715,0.15379622102581378
+2015,Ouarzazate,275268,Ouarzazate,6863,Ouarzazate,Ouarzazate,2504995,0.10988764448631634
+2016,Ouarzazate,261633,Ouarzazate,6960,Ouarzazate,Ouarzazate,2540400,0.10298889938592348
+2017,Ouarzazate,360967,Ouarzazate,7251,Ouarzazate,Ouarzazate,2646615,0.1363881788624337
+2018,Ouarzazate,388233,Ouarzazate,7251,Ouarzazate,Ouarzazate,2646615,0.14669039508957668
+2019,Ouarzazate,380000,Ouarzazate,7290,Ouarzazate,Ouarzazate,2660850,0.1428115076009546
+2020,Ouarzazate,71629,Ouarzazate,7302,Ouarzazate,Ouarzazate,2665230,0.026875354097019768
+2012,Oujda-Saidia,463404,Oujda-Saidia,7006,Oujda-Saidia,Oujda-Saidia,2557190,0.18121610048529832
+2013,Oujda-Saidia,456099,Oujda-Saidia,7781,Oujda-Saidia,Oujda-Saidia,2840065,0.16059456385681314
+2014,Oujda-Saidia,344105,Oujda-Saidia,7901,Oujda-Saidia,Oujda-Saidia,2883865,0.11932077264365704
+2015,Oujda-Saidia,405401,Oujda-Saidia,7894,Oujda-Saidia,Oujda-Saidia,2881310,0.14070023704495524
+2016,Oujda-Saidia,440102,Oujda-Saidia,7894,Oujda-Saidia,Oujda-Saidia,2881310,0.15274371726749292
+2017,Oujda-Saidia,503141,Oujda-Saidia,9052,Oujda-Saidia,Oujda-Saidia,3303980,0.15228330679967797
+2018,Oujda-Saidia,572931,Oujda-Saidia,9052,Oujda-Saidia,Oujda-Saidia,3303980,0.1734063160188621
+2019,Oujda-Saidia,628424,Oujda-Saidia,9116,Oujda-Saidia,Oujda-Saidia,3327340,0.18886678247488986
+2020,Oujda-Saidia,163829,Oujda-Saidia,9116,Oujda-Saidia,Oujda-Saidia,3327340,0.049237228536909365
+2012,Rabat,602709,Rabat,5601,Rabat,Rabat,2044365,0.2948147713348644
+2013,Rabat,621367,Rabat,5866,Rabat,Rabat,2141090,0.2902105936695795
+2014,Rabat,639535,Rabat,5982,Rabat,Rabat,2183430,0.29290382563214756
+2015,Rabat,627437,Rabat,5982,Rabat,Rabat,2183430,0.2873630022487554
+2016,Rabat,629910,Rabat,6080,Rabat,Rabat,2219200,0.2838455299206921
+2017,Rabat,714900,Rabat,6458,Rabat,Rabat,2357170,0.30328741669035325
+2018,Rabat,778865,Rabat,6468,Rabat,Rabat,2360820,0.32991291161545566
+2019,Rabat,785490,Rabat,6468,Rabat,Rabat,2360820,0.3327191399598445
+2020,Rabat,336567,Rabat,6654,Rabat,Rabat,2428710,0.13857850463826477
+2012,Tanger-Assilah,886587,Tanger-Assilah,8568,Tanger-Assilah,Tanger-Assilah,3127320,0.2834973715513603
+2013,Tanger-Assilah,943934,Tanger-Assilah,9448,Tanger-Assilah,Tanger-Assilah,3448520,0.2737214805191792
+2014,Tanger-Assilah,953991,Tanger-Assilah,10176,Tanger-Assilah,Tanger-Assilah,3714240,0.2568468919617472
+2015,Tanger-Assilah,937607,Tanger-Assilah,10672,Tanger-Assilah,Tanger-Assilah,3895280,0.24070336407138895
+2016,Tanger-Assilah,996075,Tanger-Assilah,11620,Tanger-Assilah,Tanger-Assilah,4241300,0.23485134274868555
+2017,Tanger-Assilah,1241293,Tanger-Assilah,12176,Tanger-Assilah,Tanger-Assilah,4444240,0.2793037729735568
+2018,Tanger-Assilah,1352583,Tanger-Assilah,12419,Tanger-Assilah,Tanger-Assilah,4532935,0.29839011589621295
+2019,Tanger-Assilah,1451707,Tanger-Assilah,13497,Tanger-Assilah,Tanger-Assilah,4926405,0.2946787769174479
+2020,Tanger-Assilah,414361,Tanger-Assilah,14060,Tanger-Assilah,Tanger-Assilah,5131900,0.08074222023032405

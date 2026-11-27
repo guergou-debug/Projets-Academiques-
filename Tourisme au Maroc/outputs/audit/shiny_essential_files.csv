@@ -1,0 +1,12 @@
+filename,status
+panel_destination.csv,DISPONIBLE
+market_indicators_corrected.csv,DISPONIBLE
+cagr_indicators.csv,DISPONIBLE
+hhi_indicators.csv,DISPONIBLE
+international_markets_2019.csv,DISPONIBLE
+international_markets_cagr.csv,DISPONIBLE
+international_market_concentration.csv,DISPONIBLE
+covid_destination_impact.csv,DISPONIBLE
+covid_aggregate_comparison.csv,DISPONIBLE
+covid_market_impact.csv,DISPONIBLE
+covid_international_markets.csv,DISPONIBLE

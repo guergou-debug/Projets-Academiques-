@@ -1,0 +1,7 @@
+﻿dataset,status,rows,source,output
+tourism_destination,success,108,data\raw\tourism\evolution-nuitees-realisees-etablissements-d-hebergement-touristique-par-destination-2012-2020_Evolu,data\processed\tourism_destination.csv
+capacity_destination,success,117,data\raw\tourism\evolution-par-destination-de-la-capacite-hoteliere-classee-en-lits-2012-2020_Évolution_par_destinati,data\processed\capacity_destination.csv
+capacity_category,success,90,data\raw\tourism\evolution-par-categorie-de-la-capacite-hoteliere-classee-en-lits-2012-2020_Évolution_par_catégorie_d,data\processed\capacity_category.csv
+tourism_market_nights,success,117,data\raw\tourism\evolution-par-marche-des-nuitees-realisees-etablissements-d-hebergement-touristique-2012-2020_Evolut,data\processed\tourism_market_nights.csv
+arrivals_nationality,success,117,data\raw\tourism\evolution-par-nationalite-des-arrivees-des-touristes-aux-postes-frontieres-2012-2020_Evolution_par_n,data\processed\arrivals_nationality.csv
+arrivals_entry_point,success,171,data\raw\tourism\evolution-par-point-d-entree-des-arrivees-des-touristes-aux-postes-frontieres-2012-2020_Evolution_pa,data\processed\arrivals_entry_point.csv

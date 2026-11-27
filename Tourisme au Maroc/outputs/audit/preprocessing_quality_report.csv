@@ -1,0 +1,7 @@
+﻿dataset,source_file,rows,missing_values,duplicate_year_dimension,min_year,max_year,status
+tourism_destination,evolution-nuitees-realisees-etablissements-d-hebergement-touristique-par-destination-2012-2020_Evolu,108,0,0,2012,2020,OK
+capacity_destination,evolution-par-destination-de-la-capacite-hoteliere-classee-en-lits-2012-2020_Évolution_par_destinati,117,0,0,2012,2020,OK
+capacity_category,evolution-par-categorie-de-la-capacite-hoteliere-classee-en-lits-2012-2020_Évolution_par_catégorie_d,90,0,0,2012,2020,OK
+tourism_market_nights,evolution-par-marche-des-nuitees-realisees-etablissements-d-hebergement-touristique-2012-2020_Evolut,117,0,0,2012,2020,OK
+arrivals_nationality,evolution-par-nationalite-des-arrivees-des-touristes-aux-postes-frontieres-2012-2020_Evolution_par_n,117,0,0,2012,2020,OK
+arrivals_entry_point,evolution-par-point-d-entree-des-arrivees-des-touristes-aux-postes-frontieres-2012-2020_Evolution_pa,171,0,0,2012,2020,OK

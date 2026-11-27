@@ -1,0 +1,477 @@
+[
+  {
+    "source": "tourism",
+    "filename": "activites-sectorielles-tourisme_Tourisme_2014_2c6e8d63-2c1d-45a6-a0a4-68a5645fdf17.xls",
+    "sheet": "Feuil1",
+    "columns": [
+      "Indicateurs sectoriels - Tourisme",
+      "Unnamed: 1",
+      "Unnamed: 2",
+      "Unnamed: 3",
+      "Unnamed: 4",
+      "Unnamed: 5",
+      "Unnamed: 6",
+      "Unnamed: 7"
+    ],
+    "records": [
+      {
+        "Indicateurs sectoriels - Tourisme": NaN,
+        "Unnamed: 1": "Moyenne",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": NaN,
+        "Unnamed: 4": NaN,
+        "Unnamed: 5": NaN,
+        "Unnamed: 6": NaN,
+        "Unnamed: 7": NaN
+      },
+      {
+        "Indicateurs sectoriels - Tourisme": NaN,
+        "Unnamed: 1": "2002-08",
+        "Unnamed: 2": 2008.0,
+        "Unnamed: 3": 2009.0,
+        "Unnamed: 4": 2010.0,
+        "Unnamed: 5": 2011,
+        "Unnamed: 6": 2012.0,
+        "Unnamed: 7": 2013.0
+      },
+      {
+        "Indicateurs sectoriels - Tourisme": "Capacité hôtelière (En lits)",
+        "Unnamed: 1": 126372.57142857143,
+        "Unnamed: 2": 152927.0,
+        "Unnamed: 3": 164612.0,
+        "Unnamed: 4": 173133.0,
+        "Unnamed: 5": 184125,
+        "Unnamed: 6": 198211.0,
+        "Unnamed: 7": 207572.0
+      },
+      {
+        "Indicateurs sectoriels - Tourisme": "Taux d'occupation (En %)",
+        "Unnamed: 1": 44.714285714285715,
+        "Unnamed: 2": 45.0,
+        "Unnamed: 3": 41.0,
+        "Unnamed: 4": 43.0,
+        "Unnamed: 5": 40,
+        "Unnamed: 6": 40.0,
+        "Unnamed: 7": 43.0
+      },
+      {
+        "Indicateurs sectoriels - Tourisme": "Arrivées (hors MRE) (En milliers)",
+        "Unnamed: 1": 3146.2841428571423,
+        "Unnamed: 2": 4211.855,
+        "Unnamed: 3": 4292.958,
+        "Unnamed: 4": 4910.435,
+        "Unnamed: 5": 4933.883,
+        "Unnamed: 6": 5011.729,
+        "Unnamed: 7": 5323.333
+      }
+    ]
+  },
+  {
+    "source": "tourism",
+    "filename": "activites-sectorielles-tourisme_Tourisme_2014_2c6e8d63-2c1d-45a6-a0a4-68a5645fdf17.xls",
+    "sheet": "Feuil2",
+    "columns": [],
+    "records": []
+  },
+  {
+    "source": "tourism",
+    "filename": "activites-sectorielles-tourisme_Tourisme_2014_2c6e8d63-2c1d-45a6-a0a4-68a5645fdf17.xls",
+    "sheet": "Feuil3",
+    "columns": [],
+    "records": []
+  },
+  {
+    "source": "tourism",
+    "filename": "indicateurs-tourisme-2011_Indicateurs_du_tourisme_2011_337535fc-ddfb-47ee-b788-1735f1d92c4e.xls",
+    "sheet": "Feuil1",
+    "columns": [
+      "Tourisme",
+      "Unnamed: 1",
+      "Unnamed: 2",
+      "Unnamed: 3",
+      "Unnamed: 4",
+      "Unnamed: 5",
+      "Unnamed: 6"
+    ],
+    "records": [
+      {
+        "Tourisme": NaN,
+        "Unnamed: 1": 2005.0,
+        "Unnamed: 2": 2006.0,
+        "Unnamed: 3": 2007.0,
+        "Unnamed: 4": 2008.0,
+        "Unnamed: 5": 2009.0,
+        "Unnamed: 6": 2010.0
+      },
+      {
+        "Tourisme": "Capacité hôtelière (En lits)",
+        "Unnamed: 1": 124270.0,
+        "Unnamed: 2": 133230.0,
+        "Unnamed: 3": 143221.0,
+        "Unnamed: 4": 152927.0,
+        "Unnamed: 5": 164612.0,
+        "Unnamed: 6": 174180.0
+      },
+      {
+        "Tourisme": "Taux d'occupation (En %)",
+        "Unnamed: 1": 47.0,
+        "Unnamed: 2": 49.0,
+        "Unnamed: 3": 48.0,
+        "Unnamed: 4": 45.0,
+        "Unnamed: 5": 41.0,
+        "Unnamed: 6": 44.0
+      },
+      {
+        "Tourisme": "Arrivées (hors MRE) (En milliers)",
+        "Unnamed: 1": 3055.552,
+        "Unnamed: 2": 3571.961,
+        "Unnamed: 3": 4030.898,
+        "Unnamed: 4": 4211.855,
+        "Unnamed: 5": 4292.958,
+        "Unnamed: 6": 4910.435
+      },
+      {
+        "Tourisme": "Taux de croissance (En %)",
+        "Unnamed: 1": 11.866057366119964,
+        "Unnamed: 2": 16.900677848061484,
+        "Unnamed: 3": 12.848320572369065,
+        "Unnamed: 4": 4.489247805327756,
+        "Unnamed: 5": 1.925588606445383,
+        "Unnamed: 6": 14.383485699137989
+      }
+    ]
+  },
+  {
+    "source": "tourism",
+    "filename": "indicateurs-tourisme-2011_Indicateurs_du_tourisme_2011_337535fc-ddfb-47ee-b788-1735f1d92c4e.xls",
+    "sheet": "Feuil2",
+    "columns": [],
+    "records": []
+  },
+  {
+    "source": "tourism",
+    "filename": "indicateurs-tourisme-2011_Indicateurs_du_tourisme_2011_337535fc-ddfb-47ee-b788-1735f1d92c4e.xls",
+    "sheet": "Feuil3",
+    "columns": [],
+    "records": []
+  },
+  {
+    "source": "tourism",
+    "filename": "recettes-en-devises-2010-2020_Recettes_en_devises.xlsx_3a928f92-4eaf-4707-866e-213ef46378bb.xlsx",
+    "sheet": "recette",
+    "columns": [
+      "recettes",
+      "2010",
+      "2011",
+      "2012",
+      "2013",
+      "2014",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2020"
+    ],
+    "records": [
+      {
+        "recettes": "Montant en MDHs",
+        "2010": 56421.5,
+        "2011": 58904,
+        "2012": 57835,
+        "2013": 57614,
+        "2014": 62034,
+        "2015": 61150,
+        "2016": 64226,
+        "2017": 72127,
+        "2018": 73039,
+        "2019": 78654,
+        "2020": 36364
+      }
+    ]
+  },
+  {
+    "source": "osm_raw",
+    "filename": "collection_report.csv",
+    "sheet": "TABLE",
+    "columns": [
+      "city",
+      "status",
+      "records_retrieved",
+      "error",
+      "retrieved_at"
+    ],
+    "records": [
+      {
+        "city": "Marrakech",
+        "status": "SUCCESS",
+        "records_retrieved": 1068,
+        "error": NaN,
+        "retrieved_at": "2026-11-26T10:42:30.348799+00:00"
+      },
+      {
+        "city": "Casablanca",
+        "status": "SUCCESS",
+        "records_retrieved": 201,
+        "error": NaN,
+        "retrieved_at": "2026-11-26T10:44:03.722762+00:00"
+      },
+      {
+        "city": "Agadir",
+        "status": "SUCCESS",
+        "records_retrieved": 244,
+        "error": NaN,
+        "retrieved_at": "2026-11-26T10:45:06.655315+00:00"
+      },
+      {
+        "city": "Tanger",
+        "status": "SUCCESS",
+        "records_retrieved": 133,
+        "error": NaN,
+        "retrieved_at": "2026-11-26T10:46:11.363162+00:00"
+      }
+    ]
+  },
+  {
+    "source": "processed",
+    "filename": "hotels_osm.csv",
+    "sheet": "TABLE",
+    "columns": [
+      "osm_id",
+      "osm_type",
+      "city",
+      "name",
+      "tourism_type",
+      "stars",
+      "rooms",
+      "beds",
+      "latitude",
+      "longitude",
+      "postcode",
+      "street",
+      "website",
+      "brand",
+      "operator",
+      "source",
+      "retrieved_at"
+    ],
+    "records": [
+      {
+        "osm_id": 286235179,
+        "osm_type": "node",
+        "city": "Marrakech",
+        "name": "Club Marmara",
+        "tourism_type": "hotel",
+        "stars": NaN,
+        "rooms": NaN,
+        "beds": NaN,
+        "latitude": 31.6627056,
+        "longitude": -7.8925612,
+        "postcode": NaN,
+        "street": NaN,
+        "website": NaN,
+        "brand": NaN,
+        "operator": NaN,
+        "source": "OpenStreetMap",
+        "retrieved_at": "2026-11-26T10:42:30.294911+00:00"
+      },
+      {
+        "osm_id": 309969121,
+        "osm_type": "node",
+        "city": "Marrakech",
+        "name": "Dar Nimbus",
+        "tourism_type": "guest_house",
+        "stars": NaN,
+        "rooms": NaN,
+        "beds": NaN,
+        "latitude": 31.6392739,
+        "longitude": -7.992286,
+        "postcode": NaN,
+        "street": NaN,
+        "website": NaN,
+        "brand": NaN,
+        "operator": NaN,
+        "source": "OpenStreetMap",
+        "retrieved_at": "2026-11-26T10:42:30.294911+00:00"
+      },
+      {
+        "osm_id": 321590739,
+        "osm_type": "node",
+        "city": "Marrakech",
+        "name": "Ibis Moussafir Marrakech",
+        "tourism_type": "hotel",
+        "stars": NaN,
+        "rooms": NaN,
+        "beds": NaN,
+        "latitude": 31.6299203,
+        "longitude": -8.0181373,
+        "postcode": NaN,
+        "street": NaN,
+        "website": NaN,
+        "brand": "Ibis",
+        "operator": NaN,
+        "source": "OpenStreetMap",
+        "retrieved_at": "2026-11-26T10:42:30.294911+00:00"
+      },
+      {
+        "osm_id": 370405026,
+        "osm_type": "node",
+        "city": "Marrakech",
+        "name": "La Maison Arabe",
+        "tourism_type": "hotel",
+        "stars": NaN,
+        "rooms": NaN,
+        "beds": NaN,
+        "latitude": 31.630574,
+        "longitude": -7.9961264,
+        "postcode": NaN,
+        "street": NaN,
+        "website": NaN,
+        "brand": NaN,
+        "operator": NaN,
+        "source": "OpenStreetMap",
+        "retrieved_at": "2026-11-26T10:42:30.294911+00:00"
+      },
+      {
+        "osm_id": 509529744,
+        "osm_type": "node",
+        "city": "Marrakech",
+        "name": "Riad de Vinci",
+        "tourism_type": "guest_house",
+        "stars": NaN,
+        "rooms": NaN,
+        "beds": NaN,
+        "latitude": 31.6352981,
+        "longitude": -7.9925295,
+        "postcode": NaN,
+        "street": NaN,
+        "website": NaN,
+        "brand": NaN,
+        "operator": NaN,
+        "source": "OpenStreetMap",
+        "retrieved_at": "2026-11-26T10:42:30.294911+00:00"
+      }
+    ]
+  },
+  {
+    "source": "processed",
+    "filename": "hotels_osm.parquet",
+    "sheet": "TABLE",
+    "columns": [
+      "osm_id",
+      "osm_type",
+      "city",
+      "name",
+      "tourism_type",
+      "stars",
+      "rooms",
+      "beds",
+      "latitude",
+      "longitude",
+      "postcode",
+      "street",
+      "website",
+      "brand",
+      "operator",
+      "source",
+      "retrieved_at"
+    ],
+    "records": [
+      {
+        "osm_id": 286235179,
+        "osm_type": "node",
+        "city": "Marrakech",
+        "name": "Club Marmara",
+        "tourism_type": "hotel",
+        "stars": NaN,
+        "rooms": NaN,
+        "beds": null,
+        "latitude": 31.6627056,
+        "longitude": -7.8925612,
+        "postcode": NaN,
+        "street": NaN,
+        "website": NaN,
+        "brand": NaN,
+        "operator": NaN,
+        "source": "OpenStreetMap",
+        "retrieved_at": "2026-11-26T10:42:30.294911+00:00"
+      },
+      {
+        "osm_id": 309969121,
+        "osm_type": "node",
+        "city": "Marrakech",
+        "name": "Dar Nimbus",
+        "tourism_type": "guest_house",
+        "stars": NaN,
+        "rooms": NaN,
+        "beds": null,
+        "latitude": 31.6392739,
+        "longitude": -7.992286,
+        "postcode": NaN,
+        "street": NaN,
+        "website": NaN,
+        "brand": NaN,
+        "operator": NaN,
+        "source": "OpenStreetMap",
+        "retrieved_at": "2026-11-26T10:42:30.294911+00:00"
+      },
+      {
+        "osm_id": 321590739,
+        "osm_type": "node",
+        "city": "Marrakech",
+        "name": "Ibis Moussafir Marrakech",
+        "tourism_type": "hotel",
+        "stars": NaN,
+        "rooms": NaN,
+        "beds": null,
+        "latitude": 31.6299203,
+        "longitude": -8.0181373,
+        "postcode": NaN,
+        "street": NaN,
+        "website": NaN,
+        "brand": "Ibis",
+        "operator": NaN,
+        "source": "OpenStreetMap",
+        "retrieved_at": "2026-11-26T10:42:30.294911+00:00"
+      },
+      {
+        "osm_id": 370405026,
+        "osm_type": "node",
+        "city": "Marrakech",
+        "name": "La Maison Arabe",
+        "tourism_type": "hotel",
+        "stars": NaN,
+        "rooms": NaN,
+        "beds": null,
+        "latitude": 31.630574,
+        "longitude": -7.9961264,
+        "postcode": NaN,
+        "street": NaN,
+        "website": NaN,
+        "brand": NaN,
+        "operator": NaN,
+        "source": "OpenStreetMap",
+        "retrieved_at": "2026-11-26T10:42:30.294911+00:00"
+      },
+      {
+        "osm_id": 509529744,
+        "osm_type": "node",
+        "city": "Marrakech",
+        "name": "Riad de Vinci",
+        "tourism_type": "guest_house",
+        "stars": NaN,
+        "rooms": NaN,
+        "beds": null,
+        "latitude": 31.6352981,
+        "longitude": -7.9925295,
+        "postcode": NaN,
+        "street": NaN,
+        "website": NaN,
+        "brand": NaN,
+        "operator": NaN,
+        "source": "OpenStreetMap",
+        "retrieved_at": "2026-11-26T10:42:30.294911+00:00"
+      }
+    ]
+  }
+]

@@ -1,0 +1,2696 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-11-26T10:43:01Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 516618724,
+      "lat": 33.5984192,
+      "lon": -7.6137821,
+      "tags": {
+        "addr:city": "Casablanca",
+        "addr:city:fr": "Casablanca",
+        "addr:postcode": "20000",
+        "addr:street": "Rue Sidi Belyout",
+        "addr:street:fr": "Rue Sidi Belyout",
+        "brand": "Novotel",
+        "brand:fr": "Novotel",
+        "brand:wikidata": "Q420545",
+        "brand:wikipedia": "fr:Novotel",
+        "name": "Novotel Casablanca City Centre",
+        "name:fr": "Novotel Casablanca City Centre",
+        "operator": "Accor",
+        "operator:fr": "Accor",
+        "operator:wikidata": "Q212599",
+        "operator:wikipedia": "fr:Accor",
+        "stars": "4",
+        "tourism": "hotel",
+        "website": "https://all.accor.com/hotel/6572/index.fr.shtml"
+      }
+    },
+    {
+      "type": "node",
+      "id": 566450743,
+      "lat": 33.5939334,
+      "lon": -7.6125481,
+      "tags": {
+        "name": "Hôtel Galia",
+        "name:fr": "Hôtel Galia",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1095130670,
+      "lat": 33.5365506,
+      "lon": -7.6645555,
+      "tags": {
+        "_waypoint_": "yes",
+        "name": "Zenith",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1139055213,
+      "lat": 33.5960268,
+      "lon": -7.6096273,
+      "tags": {
+        "addr:housenumber": "31",
+        "addr:street": "Boulevard Hassan Seghir شارع حسن الصغير",
+        "email": "contact@hoteldiwancasablanca.com",
+        "fax": "+212 5 22 44 74 72",
+        "name": "Diwan Casablanca ديوان الدار البيضاء",
+        "name:ar": "ديوان الدار البيضاء",
+        "name:fr": "Diwan Casablanca",
+        "phone": "+212 5 22 44 65 14",
+        "spa": "yes",
+        "stars": "4",
+        "tourism": "hotel",
+        "website": "https://www.hoteldiwancasablanca.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1163274346,
+      "lat": 33.5925751,
+      "lon": -7.6299633,
+      "tags": {
+        "name": "East West Hotel",
+        "stars": "3",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1246675480,
+      "lat": 33.6000885,
+      "lon": -7.6173257,
+      "tags": {
+        "addr:housenumber": "20",
+        "addr:street": "Place Ahmad el Bidaoui",
+        "check_date": "2025-10-09",
+        "name": "Hôtel central",
+        "name:fr": "Hôtel central",
+        "phone": "+212 6 61 16 28 26",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1464579548,
+      "lat": 33.5904363,
+      "lon": -7.5956407,
+      "tags": {
+        "addr:street": "Rue Mohammed ben radi slaoui",
+        "name": "Boustane",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1464579572,
+      "lat": 33.593771,
+      "lon": -7.6060779,
+      "tags": {
+        "addr:street": "Boulevard Moulay Youssef",
+        "name": "Hôtel & Spa Impérial Casablanca",
+        "name:fr": "Hôtel & Spa Impérial Casablanca",
+        "tourism": "hotel",
+        "website": "https://www.hotelimperialcasablanca.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1464587471,
+      "lat": 33.5917103,
+      "lon": -7.6777683,
+      "tags": {
+        "name": "Hotel Val d'Anfa",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1746951961,
+      "lat": 33.5953506,
+      "lon": -7.6287368,
+      "tags": {
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2009477169,
+      "lat": 33.5960343,
+      "lon": -7.6091804,
+      "tags": {
+        "email": "reservation_casa@moroccanhousehotels.com",
+        "fax": "+212 5 22 54 35 70",
+        "name": "Hôtel Moroccan House",
+        "name:fr": "Hôtel Moroccan House",
+        "phone": "+212 5 22 54 35 66",
+        "stars": "3",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2201171514,
+      "lat": 33.5820342,
+      "lon": -7.6233271,
+      "tags": {
+        "name": "Hôtel Business",
+        "name:fr": "Hôtel Business",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2207627567,
+      "lat": 33.595557,
+      "lon": -7.6772198,
+      "tags": {
+        "addr:city": "Casablanca",
+        "addr:street": "Boulevard de la Corniche",
+        "name": "Hôtel Azur",
+        "source": "Kaart Ground Survey 2018",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2361342681,
+      "lat": 33.583255,
+      "lon": -7.6391836,
+      "tags": {
+        "name": "Casablanca Sweet Home Maarif",
+        "name:fr": "Casablanca Sweet Home Maarif",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2429582908,
+      "lat": 33.5969339,
+      "lon": -7.614483,
+      "tags": {
+        "name": "Hôtel Royal Mansour",
+        "name:fr": "Hôtel Royal Mansour",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2582305766,
+      "lat": 33.6011216,
+      "lon": -7.6605428,
+      "tags": {
+        "name": "Hotel Dawliz",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2714802294,
+      "lat": 33.5909164,
+      "lon": -7.6351659,
+      "tags": {
+        "name": "Art palace et spa",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2941283272,
+      "lat": 33.5954478,
+      "lon": -7.612959,
+      "tags": {
+        "addr:city": "Casablanca",
+        "addr:housenumber": "87",
+        "addr:street": "Rue Allal Ben Abdellah",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Hôtel Touring",
+        "name:fr": "Hôtel Touring",
+        "phone": "+212 5 22 31 02 16",
+        "rooms": "40",
+        "smoking": "no",
+        "stars": "1",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3114995988,
+      "lat": 33.5980098,
+      "lon": -7.613945,
+      "tags": {
+        "addr:city": "Casablanca",
+        "addr:city:fr": "Casablanca",
+        "addr:postcode": "20000",
+        "addr:street": "Rue Sidi Belyout",
+        "addr:street:fr": "Rue Sidi Belyout",
+        "brand": "Sofitel",
+        "brand:fr": "Sofitel",
+        "brand:wikidata": "Q749431",
+        "brand:wikipedia": "fr:Sofitel",
+        "name": "Sofitel",
+        "operator": "Accor",
+        "operator:fr": "Accor",
+        "operator:wikidata": "Q212599",
+        "operator:wikipedia": "fr:Accor",
+        "stars": "5",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3124725543,
+      "lat": 33.5923391,
+      "lon": -7.614221,
+      "tags": {
+        "name": "Hôtel Transatlantique",
+        "name:fr": "Hôtel Transatlantique",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3207308761,
+      "lat": 33.5927529,
+      "lon": -7.6234621,
+      "tags": {
+        "name": "Le Doge",
+        "operator": "Relais et châteaux",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3214359705,
+      "lat": 33.596253,
+      "lon": -7.6143281,
+      "tags": {
+        "addr:housenumber": "12",
+        "addr:postcode": "20000",
+        "addr:street": "Rue Kamal Mohamed",
+        "check_date": "2025-10-23",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Oum Palace",
+        "note": "Free internet for guests in rooms. Spa and fitness. No bar.",
+        "phone": "+212 522201500",
+        "tourism": "hotel",
+        "website": "https://www.oumpalace.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3214364734,
+      "lat": 33.5995455,
+      "lon": -7.6637581,
+      "tags": {
+        "addr:street": "Boulevard de la Corniche شارع الكورنيش",
+        "branch": "Casablanca",
+        "brand": "Four Seasons",
+        "brand:wikidata": "Q1424786",
+        "check_date": "2025-03-06",
+        "name": "Four Seasons",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3230744906,
+      "lat": 33.5928049,
+      "lon": -7.623602,
+      "tags": {
+        "name": "Hotel \"Al Mohades\" \"4\"",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3346762459,
+      "lat": 33.5932591,
+      "lon": -7.6233917,
+      "tags": {
+        "name": "Hotel Les Almohades",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3359706156,
+      "lat": 33.5951283,
+      "lon": -7.6246635,
+      "tags": {
+        "name": "Windsor",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3426393277,
+      "lat": 33.5944832,
+      "lon": -7.6206582,
+      "tags": {
+        "name": "Kenzi Basma",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3427843813,
+      "lat": 33.5903353,
+      "lon": -7.5930131,
+      "tags": {
+        "addr:city": "Casablanca",
+        "addr:street": "Place sidi Mohamed Belvédère",
+        "name": "Al Walid Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3472854992,
+      "lat": 33.596247,
+      "lon": -7.6154743,
+      "tags": {
+        "check_date": "2026-03-18",
+        "name": "Hôtel de Foucauld",
+        "name:fr": "Hôtel de Foucauld",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3472859893,
+      "lat": 33.596235,
+      "lon": -7.6164213,
+      "tags": {
+        "name": "Excelsior",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3797205281,
+      "lat": 33.600628,
+      "lon": -7.5807799,
+      "tags": {
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Manzil Hotel",
+        "smoking": "yes",
+        "stars": "2",
+        "tourism": "hotel",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3988497045,
+      "lat": 33.5254072,
+      "lon": -7.6402617,
+      "tags": {
+        "name": "Ibis Casablanca Nearshore",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4097261684,
+      "lat": 33.5163192,
+      "lon": -7.642199,
+      "tags": {
+        "addr:city": "Casablanca ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ الدار البيضاء",
+        "addr:housenumber": "45 lot",
+        "addr:postcode": "20000",
+        "addr:street": "Lina Sidi Maarouf",
+        "internet_access": "wlan",
+        "name": "Dar Diafa",
+        "phone": "+212 6 61 32 48 24",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4111697662,
+      "lat": 33.5948855,
+      "lon": -7.6128921,
+      "tags": {
+        "addr:city": "Casablanca",
+        "addr:street": "Rue de la Chaouia",
+        "name": "Hôtel Colbert",
+        "name:fr": "Hôtel Colbert",
+        "smoking": "isolated",
+        "tourism": "hotel",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4144872868,
+      "lat": 33.5942261,
+      "lon": -7.6079929,
+      "tags": {
+        "addr:housenumber": "36",
+        "addr:street": "Rue Pierre Parent زنقة بيير باران",
+        "name": "Les Ambassadeurs",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4193547796,
+      "lat": 33.5969067,
+      "lon": -7.6152269,
+      "tags": {
+        "name": "Saisons",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4198995694,
+      "lat": 33.5873411,
+      "lon": -7.6123084,
+      "tags": {
+        "addr:housenumber": "14",
+        "addr:street": "rue baalabak",
+        "internet_access": "wlan",
+        "name": "The Seven Hotel and Spa",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4207704589,
+      "lat": 33.587272,
+      "lon": -7.6295392,
+      "tags": {
+        "name": "Boutique Hotel Gauthier",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4221347655,
+      "lat": 33.5895504,
+      "lon": -7.5921356,
+      "tags": {
+        "name": "Terminus",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4225325207,
+      "lat": 33.5850402,
+      "lon": -7.6107526,
+      "tags": {
+        "addr:street": "Boulevard de la Liberté",
+        "name": "Hôtel Casablanca",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4291211323,
+      "lat": 33.5396227,
+      "lon": -7.6433206,
+      "tags": {
+        "addr:city": "Casablanca",
+        "addr:housenumber": "200",
+        "addr:postcode": "20190",
+        "addr:street": "Lotissement El Fath 2",
+        "name": "Kenzi Sidi Maarouf",
+        "operator": "Kenzi Hotels",
+        "phone": "+212 5 22 58 27 27",
+        "tourism": "hotel",
+        "website": "https://www.kenzi-hotels.com/kenzisidimaarouf/default-fr.html"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4392742898,
+      "lat": 33.6003528,
+      "lon": -7.617292,
+      "tags": {
+        "addr:postcode": "20250",
+        "addr:street": "Boulevard des Almohades",
+        "check_date": "2025-10-09",
+        "internet_access": "wlan",
+        "name": "Youth Hostel International",
+        "name:fr": "Youth Hostel International",
+        "operator": "Hi Hostels",
+        "tourism": "hostel",
+        "website": "https://hihostels.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4396925489,
+      "lat": 33.6091346,
+      "lon": -7.5452035,
+      "tags": {
+        "name": "la Maison",
+        "name:fr": "la Maison",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4419871198,
+      "lat": 33.5060725,
+      "lon": -7.711213,
+      "tags": {
+        "name": "gîte Nadia",
+        "name:fr": "gîte Nadia",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4428885189,
+      "lat": 33.5417071,
+      "lon": -7.691632,
+      "tags": {
+        "name": "zitoni",
+        "name:fr": "zitoni",
+        "tourism": "motel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4444757090,
+      "lat": 33.5986794,
+      "lon": -7.6168875,
+      "tags": {
+        "name:en": "hotel Helvetia",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4537398790,
+      "lat": 33.5925969,
+      "lon": -7.613287,
+      "tags": {
+        "name:en": "hotel Maâmoura",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4590444543,
+      "lat": 33.5374259,
+      "lon": -7.6404191,
+      "tags": {
+        "name": "Domo Hôtel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4597955190,
+      "lat": 33.5386658,
+      "lon": -7.6967387,
+      "tags": {
+        "name": "My Home",
+        "name:fr": "My Home",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4717198496,
+      "lat": 33.5597054,
+      "lon": -7.4764914,
+      "tags": {
+        "name": "Darna",
+        "name:fr": "Darna",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4732234710,
+      "lat": 33.5991958,
+      "lon": -7.6208392,
+      "tags": {
+        "name": "Mehdi House",
+        "operator": "Mehdi",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4851486024,
+      "lat": 33.5852553,
+      "lon": -7.6117792,
+      "tags": {
+        "addr:street": "Rue Dixmude",
+        "name": "Leyna",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5084135458,
+      "lat": 33.5952857,
+      "lon": -7.6252246,
+      "tags": {
+        "addr:city": "Casablanca ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ الدار البيضاء",
+        "addr:housenumber": "93",
+        "addr:street": "Place Oued Al Makhazine",
+        "name": "Hotel Windsor",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5104934121,
+      "lat": 33.5893437,
+      "lon": -7.5917971,
+      "tags": {
+        "addr:street": "Boulevard Bahmad",
+        "brand": "Accorhotels",
+        "check_date": "2026-03-05",
+        "internet_access": "wlan",
+        "name": "Hotel Ibis Casa-Voyageurs",
+        "tourism": "hotel",
+        "website": "https://www.accorhotels.com/gb/hotel-A0G4-ibis-casa-voyageurs/index.shtml"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5151162922,
+      "lat": 33.5253511,
+      "lon": -7.6404134,
+      "tags": {
+        "name": "ibis",
+        "name:en": "ibis",
+        "name:fr": "ibis",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5363532321,
+      "lat": 33.6064339,
+      "lon": -7.6291368,
+      "tags": {
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5410504822,
+      "lat": 33.5288913,
+      "lon": -7.6475448,
+      "tags": {
+        "name": "Fouad",
+        "tourism": "apartment"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5549540121,
+      "lat": 33.6043045,
+      "lon": -7.6327837,
+      "tags": {
+        "addr:housenumber": "138",
+        "addr:street": "Boulevard Moulay Youssef شارع مولاي يوسف",
+        "check_date": "2025-06-12",
+        "email": "contact@melliber-apparthotel.com",
+        "internet_access": "wlan",
+        "name": "Melliber Appart Hotel",
+        "phone": "+212 5 22 49 64 96",
+        "tourism": "hotel",
+        "website": "https://www.melliber-apparthotel.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5567300522,
+      "lat": 33.5407222,
+      "lon": -7.6834444,
+      "tags": {
+        "name": "Cas 1364",
+        "shop": "travel_agency",
+        "tourism": "apartment"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5567324122,
+      "lat": 33.5490556,
+      "lon": -7.5358056,
+      "tags": {
+        "name": "Cas 1354",
+        "office": "estate_agent",
+        "tourism": "apartment"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5567343922,
+      "lat": 33.5066111,
+      "lon": -7.6310278,
+      "tags": {
+        "name": "Cas 1388",
+        "shop": "sports",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5579551207,
+      "lat": 33.5895386,
+      "lon": -7.5920764,
+      "tags": {
+        "addr:street": "Boulevard Bahmad",
+        "source": "Kaart Ground Survey 2018",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5589045023,
+      "lat": 33.5953947,
+      "lon": -7.6124163,
+      "tags": {
+        "name": "Hôtel Mon Rêve",
+        "name:fr": "Hôtel Mon Rêve",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5642713675,
+      "lat": 33.5974472,
+      "lon": -7.6158106,
+      "tags": {
+        "addr:city": "Casablanca",
+        "addr:street": "Boulevard Houphouët Boigny",
+        "name": "Hôtel Plaza",
+        "name:fr": "Hôtel Plaza",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5657171572,
+      "lat": 33.5910908,
+      "lon": -7.6133195,
+      "tags": {
+        "addr:street": "Avenue Lalla Yacout",
+        "name": "Hotel Majestic",
+        "source": "KaartGroundSurvey2018",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5670029278,
+      "lat": 33.5897726,
+      "lon": -7.6331458,
+      "tags": {
+        "addr:city": "Casablanca",
+        "addr:street": "Rue Théophile Gauthier",
+        "name": "Hotel Yto",
+        "source": "Kaart Ground Survey 2018",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5683654422,
+      "lat": 33.5952809,
+      "lon": -7.6130732,
+      "tags": {
+        "name": "Hôtel des Négociants",
+        "name:fr": "Hôtel des Négociants",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5692094223,
+      "lat": 33.5845581,
+      "lon": -7.6197021,
+      "tags": {
+        "name": "Mouksit Mohamed",
+        "tourism": "apartment"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5795633854,
+      "lat": 33.6140741,
+      "lon": -7.4885726,
+      "tags": {
+        "addr:street": "Boulevard Imam Malik",
+        "name": "إقامة حدائق ماجوريل \"أ\"",
+        "name:ar": "إقامة حدائق ماجوريل \"أ\"",
+        "name:en": "Résidence Les Jardins de Majorelle \"A\"",
+        "tourism": "apartment"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5910002885,
+      "lat": 33.5997314,
+      "lon": -7.6504922,
+      "tags": {
+        "addr:housenumber": "5",
+        "addr:postcode": "20500",
+        "addr:street": "Rue Idriss Al Mohammadi",
+        "internet_access": "wlan",
+        "name:en": "Carre Francais de Casablanca",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6051016990,
+      "lat": 33.5943331,
+      "lon": -7.599533,
+      "tags": {
+        "addr:postcode": "20250",
+        "addr:street": "Rue Aït Ba Amrane",
+        "internet_access": "wlan",
+        "name": "Kyriad Résidence Casablanca",
+        "name:fr": "Kyriad Résidence Casablanca",
+        "name:ru": "Кириад Резиденс Касабланка",
+        "opening_hours": "24/7",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6064224685,
+      "lat": 33.5170808,
+      "lon": -7.7071657,
+      "tags": {
+        "addr:street": "mosquée el iraqui",
+        "name": "دارنا",
+        "name:ar": "دارنا",
+        "name:en": "Our home",
+        "tourism": "apartment"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6136489586,
+      "lat": 33.5113289,
+      "lon": -7.6720747,
+      "tags": {
+        "name": "Mon Domicile",
+        "name:fr": "Mon Domicile",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6139552685,
+      "lat": 33.5939679,
+      "lon": -7.5995204,
+      "tags": {
+        "name": "Kyriad Résidence",
+        "name:fr": "Kyriad Résidence",
+        "tourism": "apartment"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6331604690,
+      "lat": 33.5948573,
+      "lon": -7.6001765,
+      "tags": {
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6429149187,
+      "lat": 33.5986687,
+      "lon": -7.6191105,
+      "tags": {
+        "name:en": "Hotel imperial",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6462639585,
+      "lat": 33.6000622,
+      "lon": -7.618698,
+      "tags": {
+        "name:en": "Hote nadia",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6571218085,
+      "lat": 33.5756389,
+      "lon": -7.6415767,
+      "tags": {
+        "addr:housenumber": "104",
+        "addr:street": "Boulevard Yacoub El Mansour",
+        "name": "إقامة الوفاء",
+        "name:ar": "إقامة الوفاء",
+        "name:fr": "Résidence Al Wafaa",
+        "tourism": "apartment"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6571242487,
+      "lat": 33.5528993,
+      "lon": -7.7049053,
+      "tags": {
+        "name:en": "GH22",
+        "tourism": "apartment"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6712918886,
+      "lat": 33.5488694,
+      "lon": -7.6863055,
+      "tags": {
+        "name": "Kamali moeder huis",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6731808685,
+      "lat": 33.6139664,
+      "lon": -7.4879417,
+      "tags": {
+        "addr:postcode": "20600",
+        "addr:street": "Boulevard Imam Malik",
+        "name": "إقامة حدائق ماجوريل \"ب\"",
+        "name:ar": "إقامة حدائق ماجوريل \"ب\"",
+        "name:en": "Résidence Les Jardins de Majorelle \"B\"",
+        "tourism": "apartment"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6731808686,
+      "lat": 33.6140118,
+      "lon": -7.4872683,
+      "tags": {
+        "addr:postcode": "20600",
+        "addr:street": "Boulevard Imam Malik",
+        "name": "إقامة حمو",
+        "name:ar": "إقامة حمو",
+        "name:en": "Résidence Hammo",
+        "tourism": "apartment"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6735457286,
+      "lat": 33.6270394,
+      "lon": -7.496857,
+      "tags": {
+        "addr:postcode": "20600",
+        "addr:street": "Boulevard Chefchaouni",
+        "name": "إقامة شمس البرنوصي",
+        "name:ar": "إقامة شمس البرنوصي",
+        "name:en": "Rès. Shems El Barnoussi",
+        "tourism": "apartment"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6735457290,
+      "lat": 33.6318721,
+      "lon": -7.4894993,
+      "tags": {
+        "addr:postcode": "20600",
+        "addr:street": "Boulevard Chefchaouni",
+        "name": "إقامة املاك البرنوصي",
+        "name:ar": "إقامة املاك البرنوصي",
+        "name:en": "Rès. Amlak El barnoussi",
+        "tourism": "apartment"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6739732985,
+      "lat": 33.5484018,
+      "lon": -7.6860323,
+      "tags": {
+        "name": "Kamali moeder huis",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6770445986,
+      "lat": 33.5949992,
+      "lon": -7.508438,
+      "tags": {
+        "name:en": "Dar hamid jahjah drbna",
+        "tourism": "apartment"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6770445989,
+      "lat": 33.5926933,
+      "lon": -7.6072524,
+      "tags": {
+        "amenity": "bank",
+        "brand": "Crédit Agricole du Maroc القرض الفلاحي للمغرب",
+        "brand:ar": "القرض الفلاحي للمغرب",
+        "brand:fr": "Crédit Agricole du Maroc",
+        "brand:wikidata": "Q3006193",
+        "name": "Crédit Agricole du Maroc القرض الفلاحي للمغرب",
+        "name:ar": "القرض الفلاحي للمغرب",
+        "name:fr": "Crédit Agricole du Maroc",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6795891587,
+      "lat": 33.5988832,
+      "lon": -7.5009263,
+      "tags": {
+        "name": "قاعة الافراح النور",
+        "name:ar": "قاعة الافراح النور",
+        "name:en": "AFREH ANNOUR",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6833996035,
+      "lat": 33.5999788,
+      "lon": -7.5341563,
+      "tags": {
+        "name": "Dar mahassin iam",
+        "tourism": "apartment"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7035230485,
+      "lat": 33.521383,
+      "lon": -7.6321736,
+      "tags": {
+        "name:en": "Hotel Onomo Sidi Maarouf",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7176161085,
+      "lat": 33.6040617,
+      "lon": -7.6281286,
+      "tags": {
+        "name": "my",
+        "tourism": "apartment"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7270689589,
+      "lat": 33.6255685,
+      "lon": -7.499186,
+      "tags": {
+        "addr:street": "Boulevard New York",
+        "name": "اقامة بيتي سكن",
+        "name:ar": "اقامة بيتي سكن",
+        "name:en": "Res. Bayti Sakan",
+        "tourism": "apartment"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7270703485,
+      "lat": 33.625396,
+      "lon": -7.4977009,
+      "tags": {
+        "addr:street": "Boulevard New York",
+        "name": "اقامة العالية البرنوصي",
+        "name:ar": "اقامة العالية البرنوصي",
+        "name:en": "Res. Al alia Bernoussi",
+        "tourism": "apartment"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7700358485,
+      "lat": 33.55359,
+      "lon": -7.7038153,
+      "tags": {
+        "name": "GH8, imm. 48",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7953395885,
+      "lat": 33.5715367,
+      "lon": -7.5309409,
+      "tags": {
+        "name:en": "Genirip",
+        "tourism": "apartment"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8373364417,
+      "lat": 33.6029175,
+      "lon": -7.6414867,
+      "tags": {
+        "name": "Posible airbnb",
+        "tourism": "apartment"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8758625993,
+      "lat": 33.5934592,
+      "lon": -7.60811,
+      "tags": {
+        "addr:city": "Casablanca",
+        "addr:postcode": "20002",
+        "air_conditioning": "yes",
+        "brand": "Radisson",
+        "brand:fr": "Radisson",
+        "brand:wikidata": "Q1751979",
+        "brand:wikipedia": "fr:Radisson Hotels & Resorts",
+        "internet_access": "yes",
+        "internet_access:fee": "customers",
+        "name": "Hôtel Radisson",
+        "name:fr": "Hôtel Radisson",
+        "tourism": "hotel",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8792980917,
+      "lat": 33.5452155,
+      "lon": -7.6906519,
+      "tags": {
+        "name": "بيت",
+        "name:fr": "Maison",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8988534817,
+      "lat": 33.5923482,
+      "lon": -7.6358261,
+      "tags": {
+        "addr:housenumber": "12",
+        "addr:postcode": "20330",
+        "addr:street": "Rue Lahcen el Basri",
+        "internet_access": "wlan",
+        "name:en": "My Loft Anfa",
+        "tourism": "apartment",
+        "website": "http://myloft.ma"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9692208462,
+      "lat": 33.5908054,
+      "lon": -7.6163338,
+      "tags": {
+        "addr:housenumber": "12",
+        "addr:street": "Rue du 6 Novembre",
+        "email": "hotelastrid@hotmail.com",
+        "name": "Hotel Astrid",
+        "phone": "+212 5 22 27 78 03",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9773446525,
+      "lat": 33.5853866,
+      "lon": -7.5254637,
+      "tags": {
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10101897481,
+      "lat": 33.5856982,
+      "lon": -7.6226513,
+      "tags": {
+        "name": "Suite-Hôtel Casa Diamond",
+        "name:fr": "Suite-Hôtel Casa Diamond",
+        "phone": "+212 5 22 22 22 28",
+        "tourism": "hotel",
+        "website": "https://www.suitehotelcasadiamond.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10240135609,
+      "lat": 33.5935168,
+      "lon": -7.5995277,
+      "tags": {
+        "addr:postcode": "20250",
+        "addr:street": "Boulevard Mohammed V",
+        "addr:street:ar": "شارع محمد الخامس",
+        "addr:street:fr": "Boulevard Mohammed V",
+        "internet_access": "wlan",
+        "name": "Hôtel Campanile Casablanca Centre-Ville",
+        "name:fr": "Hôtel Campanile Casablanca Centre-Ville",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10303350209,
+      "lat": 33.5964144,
+      "lon": -7.6121639,
+      "tags": {
+        "name:fr": "Marriott Casablanca",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10916037305,
+      "lat": 33.59572,
+      "lon": -7.6001371,
+      "tags": {
+        "addr:city": "Casablanca",
+        "addr:postcode": "20000",
+        "addr:street": "Avenue Pasteur شارع باستور",
+        "brand": "DoubleTree",
+        "brand:wikidata": "Q2504643",
+        "contact:facebook": "https://www.facebook.com/profile.php?id=61585452172615",
+        "contact:instagram": "https://www.instagram.com/doubletreebyhiltoncasablanca/",
+        "email": "cassa_res@hilton.com",
+        "internet_access": "yes",
+        "name": "DoubleTree by Hilton Casablanca City Centre",
+        "name:en": "DoubleTree by Hilton Casablanca City Centre",
+        "official_name": "DoubleTree by Hilton",
+        "operator": "Hilton",
+        "phone": "+212 5 22 41 72 72",
+        "stars": "5",
+        "tourism": "hotel",
+        "website": "https://www.hilton.com/en/hotels/cassadi-doubletree-casablanca-city-centre/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10916039105,
+      "lat": 33.5950828,
+      "lon": -7.6000774,
+      "tags": {
+        "addr:postcode": "20250",
+        "addr:street": "Rue Aït Ba Amrane",
+        "name:en": "Mogador Marina",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11006099105,
+      "lat": 33.590945,
+      "lon": -7.6134626,
+      "tags": {
+        "internet_access": "wlan",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11059355005,
+      "lat": 33.5889976,
+      "lon": -7.6304491,
+      "tags": {
+        "addr:housenumber": "3",
+        "addr:postcode": "20250",
+        "addr:street": "Rue Badr Assayab",
+        "name": "Mid town hotel casablanca",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11093397905,
+      "lat": 33.5987757,
+      "lon": -7.617431,
+      "tags": {
+        "internet_access": "wlan",
+        "name:en": "Hôtel des Amis",
+        "name:fr": "Hôtel des Amis",
+        "opening_hours": "24/7",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11141704605,
+      "lat": 33.5989613,
+      "lon": -7.6205296,
+      "tags": {
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11152277405,
+      "lat": 33.6022737,
+      "lon": -7.6210384,
+      "tags": {
+        "name:en": "internatioal youthhostel of casabranca",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11228823237,
+      "lat": 33.5616507,
+      "lon": -7.6295067,
+      "tags": {
+        "addr:housenumber": "6",
+        "addr:street": "Rue d'Aix",
+        "name:en": "LHOSTEL à Casablanca",
+        "tourism": "hotel",
+        "website": "https://lhostelacasablanca.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11335289769,
+      "lat": 33.5991941,
+      "lon": -7.6208267,
+      "tags": {
+        "name:en": "Booking and hosting medina",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11385730170,
+      "lat": 33.597661,
+      "lon": -7.6170176,
+      "tags": {
+        "addr:housenumber": "91",
+        "name": "Ryad 91",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11407646369,
+      "lat": 33.5932579,
+      "lon": -7.6161319,
+      "tags": {
+        "name:en": "Hotel Du Louvre",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11410365570,
+      "lat": 33.5863355,
+      "lon": -7.6843164,
+      "tags": {
+        "name:en": "Oceanpark Appart Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11410365572,
+      "lat": 33.5927156,
+      "lon": -7.6783577,
+      "tags": {
+        "name:en": "Bellerive",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11413150599,
+      "lat": 33.5987198,
+      "lon": -7.617553,
+      "tags": {
+        "name": "Hotel Medine",
+        "name:fr": "Hotel Medine",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11413150600,
+      "lat": 33.5985564,
+      "lon": -7.6175568,
+      "tags": {
+        "name": "Hotel Candid",
+        "name:en": "Hotel Candid",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11413681078,
+      "lat": 33.592656,
+      "lon": -7.6154865,
+      "tags": {
+        "name:en": "Guynemer",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11414762681,
+      "lat": 33.5915765,
+      "lon": -7.6156906,
+      "tags": {
+        "name:en": "One Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11420470428,
+      "lat": 33.5981157,
+      "lon": -7.6171647,
+      "tags": {
+        "name": "Hostel Bresil",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11420470430,
+      "lat": 33.5991664,
+      "lon": -7.6167972,
+      "tags": {
+        "name": "La victoire",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11453220369,
+      "lat": 33.587411,
+      "lon": -7.6346741,
+      "tags": {
+        "addr:housenumber": "15",
+        "addr:postcode": "20400",
+        "addr:street": "Rue Ibnou Hilal زنقة إبن هلال",
+        "contact:instagram": "stayhere.ma",
+        "email": "contact@stayhere.ma",
+        "internet_access": "wlan",
+        "name": "Stayhere Twin Center",
+        "opening_hours": "Mo-Su 09:00-00:00",
+        "phone": "+212 6 66 29 36 19",
+        "tourism": "hotel",
+        "website": "https://stayhere.ma"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12474285401,
+      "lat": 33.592184,
+      "lon": -7.6160696,
+      "tags": {
+        "name": "Hotel de Paris",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12703885678,
+      "lat": 33.5665301,
+      "lon": -7.6509585,
+      "tags": {
+        "addr:street": "Boulevard Sidi Abderrahmane شارع سيدي عبد الرحمان",
+        "branch": "Casa Anfa",
+        "brand": "Eurostars Hotel Company",
+        "brand:wikidata": "Q8846494",
+        "check_date": "2025-09-20",
+        "image": "https://media.booking-channel.com/api/hotels/2992/images/83.jpeg",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Eurostars",
+        "rooms": "125",
+        "stars": "4",
+        "tourism": "hotel",
+        "website": "https://www.eurostarshotels.co.uk/eurostars-casa-anfa.html"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12827608768,
+      "lat": 33.5942343,
+      "lon": -7.6119362,
+      "tags": {
+        "addr:street": "Boulevard Mohammed V شارع محمد الخامس",
+        "building": "hotel",
+        "name": "Hôtel Lincoln",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12910087521,
+      "lat": 33.5873894,
+      "lon": -7.6405033,
+      "tags": {
+        "brand": "Marly",
+        "check_date": "2026-04-23",
+        "contact:instagram": "https://www.instagram.com/marlyboutiquehotelcasablanca/",
+        "email": "Info@marlyboutiquehotel.com",
+        "internet_access": "yes",
+        "internet_access:fee": "customers",
+        "name": "Marly Boutique Hotel",
+        "phone": "+212 5 22 04 21 21",
+        "rooms": "39",
+        "stars": "5",
+        "tourism": "hotel",
+        "website": "https://www.marlyboutiquehotel.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12910087522,
+      "lat": 33.5917571,
+      "lon": -7.6405731,
+      "tags": {
+        "branch": "Racine Casablanca",
+        "brand": "Citadines",
+        "check_date": "2025-06-12",
+        "name": "Citadines",
+        "tourism": "hotel",
+        "website": "https://www.discoverasr.com/en/citadines/morocco/citadines-racine-casablanca"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12914244268,
+      "lat": 33.5866932,
+      "lon": -7.63955,
+      "tags": {
+        "name": "Zen Suites",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12918778851,
+      "lat": 33.5865367,
+      "lon": -7.6389154,
+      "tags": {
+        "air_conditioning": "yes",
+        "bar": "yes",
+        "branch": "Casablanca City Center",
+        "brand": "Onomo Hotels",
+        "brand:wikidata": "Q28855253",
+        "email": "onomo.massira@onomohotel.com",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "ONOMO Hotel",
+        "phone": "+212 5 20 00 10 00",
+        "reservation": "required",
+        "tourism": "hotel",
+        "website": "https://www.onomohotels.com/hotel/onomo-hotel-casablanca-city-center/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12926370993,
+      "lat": 33.597788,
+      "lon": -7.6666425,
+      "tags": {
+        "addr:street": "Boulevard de la Corniche شارع الكورنيش",
+        "branch": "Casablanca",
+        "brand": "Pestana",
+        "email": "reservations.casablanca@pestana.com",
+        "name": "Pestana",
+        "phone": "+212 5 22 79 57 00",
+        "stars": "4",
+        "tourism": "hotel",
+        "website": "https://www.pestana.com/en/hotel/pestana-casablanca"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13067730676,
+      "lat": 33.5942947,
+      "lon": -7.6169452,
+      "tags": {
+        "addr:housenumber": "23",
+        "check_date": "2025-08-13",
+        "name": "Hôtel Al Mamoun فندق المامون",
+        "name:ar": "فندق المامون",
+        "name:fr": "Hôtel Al Mamoun",
+        "opening_hours": "24/7",
+        "phone": "+212 5 22 20 54 20",
+        "stars": "3",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13067730677,
+      "lat": 33.5933398,
+      "lon": -7.6167855,
+      "tags": {
+        "addr:street": "Rue Idriss Lahrizi",
+        "check_date": "2025-08-13",
+        "name": "Appart-Hotel Bel Anfa",
+        "phone": "+212 5 22 20 95 31",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13068008932,
+      "lat": 33.5910965,
+      "lon": -7.6353824,
+      "tags": {
+        "addr:housenumber": "139",
+        "addr:street": "Boulevard d'Anfa شارع أنفا",
+        "brand": "Barceló Hotels & Resorts",
+        "brand:wikidata": "Q15148996",
+        "check_date": "2026-05-23",
+        "internet_access": "yes",
+        "internet_access:fee": "customers",
+        "name": "Barceló Casablanca",
+        "phone": "+212 5 22 20 80 00",
+        "tourism": "hotel",
+        "website": "https://www.barcelo.com/fr-fr/barcelo-casablanca/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13071776157,
+      "lat": 33.5850269,
+      "lon": -7.6388782,
+      "tags": {
+        "addr:street": "Rue Oussama Ibnou Zaid زنقة أسامة بن زيد",
+        "name": "Unico Hôtel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13076749092,
+      "lat": 33.5931956,
+      "lon": -7.6409983,
+      "tags": {
+        "brand": "Gray",
+        "check_date": "2025-08-18",
+        "contact:facebook": "https://www.facebook.com/GrayBoutiqueHotel/",
+        "contact:instagram": "https://www.instagram.com/hotelgrayboutique/",
+        "email": "info@grayboutiquehotel.com",
+        "mapillary": "3684147045028562",
+        "name": "Gray Boutique Hotel Casablanca",
+        "phone": "+212 5 22 42 78 00",
+        "stars": "5",
+        "tourism": "hotel",
+        "website": "https://www.grayboutiquehotel.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13080332132,
+      "lat": 33.5865866,
+      "lon": -7.6320846,
+      "tags": {
+        "brand": "Kenzi",
+        "check_date": "2025-08-19",
+        "name": "Kenzi Tower Hotel",
+        "tourism": "hotel",
+        "website": "https://www.kenzi-hotels.com/en/kenzi-tower"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13080332133,
+      "lat": 33.5861685,
+      "lon": -7.636068,
+      "tags": {
+        "check_date": "2025-08-19",
+        "internet_access": "yes",
+        "internet_access:fee": "customers",
+        "name": "Hôtel Down Town Maarif",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13083664828,
+      "lat": 33.5899345,
+      "lon": -7.6381384,
+      "tags": {
+        "addr:housenumber": "171",
+        "addr:street": "Boulevard d'Anfa شارع أنفا",
+        "check_date": "2025-08-20",
+        "internet_access": "yes",
+        "internet_access:fee": "customers",
+        "name": "Le Palace d'Anfa",
+        "stars": "5",
+        "tourism": "hotel",
+        "website": "https://www.lepalacedanfa-hotel.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13083739162,
+      "lat": 33.5853855,
+      "lon": -7.6442143,
+      "tags": {
+        "addr:street": "Boulevard Bir Anzarane شارع بئر أنزران",
+        "brand": "Adagio",
+        "brand:wikidata": "Q2823880",
+        "check_date": "2025-08-20",
+        "internet_access": "yes",
+        "internet_access:fee": "customers",
+        "name": "Adagio",
+        "phone": "+212 5 22 23 95 00",
+        "tourism": "hotel",
+        "website": "https://www.adagio-city.com/fr/hotel-b3h3-aparthotel-adagio-casablanca-city-center/index.shtml"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13093077994,
+      "lat": 33.5778977,
+      "lon": -7.6250489,
+      "tags": {
+        "brand": "Ibis",
+        "brand:wikidata": "Q920166",
+        "name": "Ibis",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13093077996,
+      "lat": 33.5784496,
+      "lon": -7.6250604,
+      "tags": {
+        "name": "New Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13093103107,
+      "lat": 33.5836818,
+      "lon": -7.6239497,
+      "tags": {
+        "addr:postcode": "20250",
+        "addr:street": "Avenue Hassan II شارع الحسن الثاني",
+        "branch": "Casablanca",
+        "brand": "Mövenpick",
+        "brand:wikidata": "Q691162",
+        "check_date": "2025-03-26",
+        "name": "Mövenpick",
+        "name:fr": "Hôtel Casablanca Plaza",
+        "tourism": "hotel",
+        "website": "https://movenpick.accor.com/en/africa/morocco/casablanca/hotel-casablanca.html"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13095382930,
+      "lat": 33.5955359,
+      "lon": -7.6122717,
+      "tags": {
+        "addr:street": "Rue Colbert",
+        "name": "Hôtel Manar",
+        "name:fr": "Hôtel Manar",
+        "source": "KaartGroundSurvey2018",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13096440029,
+      "lat": 33.5914255,
+      "lon": -7.676522,
+      "tags": {
+        "name": "Hôtel Suisse",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13100974257,
+      "lat": 33.5947874,
+      "lon": -7.628718,
+      "tags": {
+        "addr:street": "Boulevard d'Anfa شارع أنفا",
+        "branch": "Anfa Casablanca",
+        "brand": "Barceló Hotels & Resorts",
+        "brand:wikidata": "Q15148996",
+        "name": "Barceló Hotels & Resorts",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13105807597,
+      "lat": 33.5825878,
+      "lon": -7.6303891,
+      "tags": {
+        "addr:street": "Boulevard du 9 Avril شارع 9 أبريل",
+        "name": "Hôtel Rania Belmadina",
+        "stars": "3",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13105809501,
+      "lat": 33.5840642,
+      "lon": -7.6309194,
+      "tags": {
+        "addr:street": "Boulevard Brahim Roudani شارع ابراهيم الروداني",
+        "name": "Hôtel Nodom",
+        "source": "KaartGroundSurvey2018",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13121631950,
+      "lat": 33.5779047,
+      "lon": -7.6368116,
+      "tags": {
+        "addr:street": "Boulevard Brahim Roudani شارع ابراهيم الروداني",
+        "name": "AS Premium",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13123189229,
+      "lat": 33.5888462,
+      "lon": -7.6389394,
+      "tags": {
+        "addr:street": "Rue Oumayma Essayeh زنقة أميمة السايح",
+        "check_date": "2025-09-06",
+        "name": "LXR by Hilton",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13141789969,
+      "lat": 33.5973576,
+      "lon": -7.6703258,
+      "tags": {
+        "addr:city": "Casablanca ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ الدار البيضاء",
+        "addr:postcode": "20000",
+        "addr:street": "Boulevard de la Corniche شارع الكورنيش",
+        "brand": "Hotels & Resorts of Morocco",
+        "email": "resa-lido@hrm.ma",
+        "fax": "+212 5 22 39 12 19",
+        "name": "Casablanca Le Lido Thalasso & Spa",
+        "old_name": "Riad Salam",
+        "phone": "+212 5 22 95 25 80",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13158271509,
+      "lat": 33.5886569,
+      "lon": -7.6477704,
+      "tags": {
+        "addr:housenumber": "19",
+        "addr:postcode": "20660",
+        "addr:street": "Avenue Moulay Rachid شارع مولاي رشيد",
+        "check_date": "2026-04-23",
+        "contact:instagram": "https://www.instagram.com/lecasablancahotel.officiel/",
+        "contact:tripadvisor": "https://www.instagram.com/lecasablancahotel.officiel/",
+        "email": "resa@lecasablanca-hotel.com",
+        "internet_access": "yes",
+        "internet_access:fee": "customers",
+        "mapillary": "902803000281449",
+        "name": "Le Casablanca",
+        "phone": "+212 5 22 64 97 97",
+        "stars": "5",
+        "tourism": "hotel",
+        "website": "https://www.lecasablanca-hotel.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13175181560,
+      "lat": 33.5388078,
+      "lon": -7.6409047,
+      "tags": {
+        "addr:street": "Route de Marrakech",
+        "brand": "Ibis",
+        "brand:wikidata": "Q920166",
+        "name": "Ibis",
+        "source": "Kaart Ground Survey 2018",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13179436030,
+      "lat": 33.5629662,
+      "lon": -7.6441185,
+      "tags": {
+        "addr:street": "Route Al Jamiaa",
+        "source": "Kaart Ground Survey 2018",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13189469901,
+      "lat": 33.5992234,
+      "lon": -7.4906188,
+      "tags": {
+        "addr:housenumber": "4",
+        "addr:postcode": "20620",
+        "name:en": "Panorama",
+        "tourism": "apartment"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13324835875,
+      "lat": 33.5923273,
+      "lon": -7.6327735,
+      "tags": {
+        "addr:housename": "Idou Anfa Hotel",
+        "addr:housenumber": "85",
+        "addr:street": "Boulevard d'Anfa شارع أنفا",
+        "name": "Idou Anfa Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13325287390,
+      "lat": 33.58683,
+      "lon": -7.6213306,
+      "tags": {
+        "addr:street": "Avenue Hassan II",
+        "name": "Hôtel Le 135",
+        "name:fr": "Hôtel Le 135",
+        "source": "Kaart Ground Survey 2018",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13358589457,
+      "lat": 33.5986167,
+      "lon": -7.6132842,
+      "tags": {
+        "addr:city": "Casablanca",
+        "addr:city:fr": "Casablanca",
+        "addr:housename": "Complexe Casa City Centre",
+        "addr:housename:fr": "Complexe Casa City Centre",
+        "addr:postcode": "20000",
+        "addr:street": "Rue Sidi Belyout",
+        "addr:street:fr": "Rue Sidi Belyout",
+        "brand": "Ibis",
+        "brand:fr": "Ibis Casablanca City Centre",
+        "brand:wikidata": "Q920166",
+        "brand:wikipedia": "fr:Ibis (chaîne d'hôtels)",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": "IBIS",
+        "name": "Ibis Casablanca City Centre",
+        "name:fr": "Ibis Casablanca City Centre",
+        "operator": "Accor",
+        "operator:fr": "Accor",
+        "operator:wikidata": "Q212599",
+        "operator:wikipedia": "fr:Accor",
+        "stars": "3",
+        "tourism": "hotel",
+        "website": "https://all.accor.com/hotel/6573/index.fr.shtml"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13358589458,
+      "lat": 33.5963077,
+      "lon": -7.6101647,
+      "tags": {
+        "addr:city": "Casablanca",
+        "addr:housename": "Golden Tulip Hôtel Farah",
+        "addr:housename:fr": "Golden Tulip Hôtel Farah",
+        "addr:housenumber": "160",
+        "addr:postcode": "20000",
+        "addr:street": "Avenue des Forces Armees Royales",
+        "brand": "Golden Tulip",
+        "brand:wikidata": "Q19725996",
+        "name": "Golden Tulip Hôtel Farah",
+        "name:fr": "Golden Tulip Hôtel Farah",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13358589491,
+      "lat": 33.597432,
+      "lon": -7.6146123,
+      "tags": {
+        "addr:city": "Casablanca",
+        "addr:city:fr": "Casablanca",
+        "addr:postcode": "20000",
+        "addr:street": "Rue Sidi Belyout",
+        "addr:street:fr": "Rue Sidi Belyout",
+        "name": "Hôtel Toubkal",
+        "name:fr": "Hôtel Toubkal",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13607593158,
+      "lat": 33.5879443,
+      "lon": -7.6277706,
+      "tags": {
+        "addr:city": "Casablanca",
+        "addr:country": "MO",
+        "addr:postcode": "20320",
+        "addr:street": "Angle Boulevard Brahim Roudani & Rue Abou Al Faïd Al Masri",
+        "brand": "Radisson",
+        "brand:wikidata": "Q1751979",
+        "contact:email": "info.lacitadelle.casablanca@radisson.com",
+        "contact:phone": "+212 5 20 78 10 00",
+        "contact:website": "https://www.radissonhotels.com/en-us/hotels/radisson-gauthierlacitadelle-casablanca",
+        "name": "Radisson Hotel Casablanca Gauthier La Citadelle",
+        "rooms": "133",
+        "stars": "4",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13628491201,
+      "lat": 33.585006,
+      "lon": -7.6319943,
+      "tags": {
+        "addr:housenumber": "15",
+        "addr:postcode": "20330",
+        "addr:street": "Rue Alkassar",
+        "internet_access": "wlan",
+        "name:en": "Faya Nova-Appart hotel central stay",
+        "opening_hours": "24/7",
+        "phone": "+212 7 28 96 90 83",
+        "tourism": "apartment"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13699084802,
+      "lat": 33.5820696,
+      "lon": -7.6236375,
+      "tags": {
+        "addr:housenumber": "6",
+        "addr:postcode": "20000",
+        "addr:street": "Rue Mohamed El Fidouzi",
+        "brand": "Best Western",
+        "brand:wikidata": "Q830334",
+        "name": "Best Western",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13751523127,
+      "lat": 33.5681516,
+      "lon": -7.6258524,
+      "tags": {
+        "addr:housenumber": "423",
+        "addr:street": "Boulevard Abdelmoumen شارع عبد المومن",
+        "branch": "Casablanca Downtown",
+        "brand": "Courtyard",
+        "brand:wikidata": "Q1053170",
+        "name": "Courtyard",
+        "official_name": "Courtyard by Marriott",
+        "phone": "+212 5 22 86 68 68",
+        "tourism": "hotel",
+        "website": "https://www.marriott.com/en-us/hotels/cmncm-courtyard-casablanca-downtown/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13900205601,
+      "lat": 33.5879423,
+      "lon": -7.6162646,
+      "tags": {
+        "name": "Washington hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13920019374,
+      "lat": 33.596087,
+      "lon": -7.6188275,
+      "tags": {
+        "addr:city": "Casablanca",
+        "addr:postcode": "20000",
+        "addr:street": "Place des Nations Unies ساحة الأمم المتحدة",
+        "air_conditioning": "yes",
+        "bar": "yes",
+        "brand": "Hyatt Regency",
+        "brand:wikidata": "Q115794868",
+        "contact:facebook": "HyattRegencyCasablanca",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "Hyatt Regency Casablanca",
+        "opening_hours": "24/7",
+        "operator": "Hyatt",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+212 522431234",
+        "reservation": "yes",
+        "smoking": "outside",
+        "stars": "5",
+        "tourism": "hotel",
+        "website": "https://www.hyatt.com/hyatt-regency/en-US/casab-hyatt-regency-casablanca",
+        "wheelchair": "yes",
+        "wikidata": "Q5952867",
+        "wikipedia": "en:Hyatt Regency Casablanca"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13920063162,
+      "lat": 33.5933738,
+      "lon": -7.6203939,
+      "tags": {
+        "addr:street": "Boulevard de Paris",
+        "name": "Hotel Prince de Paris",
+        "source": "KaartGroundSurvey2018",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13921256239,
+      "lat": 33.5849393,
+      "lon": -7.6412744,
+      "tags": {
+        "addr:street": "Rue Abou Moussa Al Jazouli زنقة أبو موسى الجزولي",
+        "name": "Maarif Home Appart Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13923815247,
+      "lat": 33.5841038,
+      "lon": -7.6377314,
+      "tags": {
+        "name": "Unico Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13924289499,
+      "lat": 33.5815709,
+      "lon": -7.6330993,
+      "tags": {
+        "name": "Hotel Cluny فندق كلوني",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13924359693,
+      "lat": 33.5809818,
+      "lon": -7.6328108,
+      "tags": {
+        "name": "Only Presidential Suites",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 14137844903,
+      "lat": 33.5098921,
+      "lon": -7.6762345,
+      "tags": {
+        "addr:street": "Rocade Sud-Ouest de Casablanca المدار الجنوبي الغربي للدار البيضاء",
+        "name": "Citadines Almaz Casablanca",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 14145447798,
+      "lat": 33.5902499,
+      "lon": -7.6157564,
+      "tags": {
+        "name": "Hôtel Astrid",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 14145528532,
+      "lat": 33.5886213,
+      "lon": -7.6155516,
+      "tags": {
+        "name": "Hôtel ennasma",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 14310625618,
+      "lat": 33.5944982,
+      "lon": -7.6143031,
+      "tags": {
+        "addr:housenumber": "9",
+        "addr:street": "Rue Salah Ben Bouchaib",
+        "description": "Older budget hotel, but well maintained and cheerful.",
+        "name": "Hotel Rialto",
+        "name:ar": "فندق ريالطو",
+        "phone": "05 22 27 51 22",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 14366930101,
+      "lat": 33.5891851,
+      "lon": -7.5924923,
+      "tags": {
+        "addr:street": "Boulevard Bahmad",
+        "contact:instagram": "adayhotelcasablanca",
+        "internet_access": "wlan",
+        "name": "ADAY Hotel",
+        "tourism": "hotel",
+        "website": "http://www.adayhotel.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 14369958302,
+      "lat": 33.5937786,
+      "lon": -7.6117102,
+      "tags": {
+        "check_date": "2026-11-12",
+        "name": "Olympic Inn",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 14380641201,
+      "lat": 33.5938003,
+      "lon": -7.6117739,
+      "tags": {
+        "name": "olympic Inn",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 14396831601,
+      "lat": 33.5571565,
+      "lon": -7.6126745,
+      "tags": {
+        "addr:housenumber": "5",
+        "addr:postcode": "20420",
+        "addr:street": "Rue de l'Hérault",
+        "name": "Maison ba boujamaa",
+        "phone": "0619418537",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "way",
+      "id": 396331101,
+      "center": {
+        "lat": 33.5929823,
+        "lon": -7.6199484
+      },
+      "tags": {
+        "addr:city": "Casablanca",
+        "addr:street": "Rue Abderrahmane Sahraoui",
+        "building": "hotel",
+        "name": "Hotel de Prince de Paris",
+        "source": "Kaart Ground Survey 2018",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 416597653,
+      "center": {
+        "lat": 33.5962511,
+        "lon": -7.6119645
+      },
+      "tags": {
+        "building": "hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 417968844,
+      "center": {
+        "lat": 33.5959911,
+        "lon": -7.6136348
+      },
+      "tags": {
+        "addr:street": "Rue Léon l'Africain",
+        "building": "hotel",
+        "name": "Hôtel Odyss",
+        "name:fr": "Hôtel Odyss",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 422309949,
+      "center": {
+        "lat": 33.5872808,
+        "lon": -7.6153158
+      },
+      "tags": {
+        "addr:city": "Casablanca",
+        "addr:housename": "Hotel Montparnasse",
+        "addr:housenumber": "11",
+        "addr:street": "Rue Abou Bakr Essediq",
+        "building": "apartments",
+        "level": "3",
+        "phone": "+212 6 54 78 79 92",
+        "smoking": "no",
+        "source": "Kaart Ground Survey 2018",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 588508353,
+      "center": {
+        "lat": 33.5930401,
+        "lon": -7.6084719
+      },
+      "tags": {
+        "addr:street": "Rue de Karachi",
+        "building": "hotel",
+        "name": "Hôtel Métropole",
+        "name:fr": "Hôtel Métropole",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 588508385,
+      "center": {
+        "lat": 33.5934355,
+        "lon": -7.6118207
+      },
+      "tags": {
+        "addr:street": "Rue Do-Hu",
+        "building": "hotel",
+        "name": "Hôtel Coli",
+        "name:fr": "Hôtel Coli",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 588508393,
+      "center": {
+        "lat": 33.5971974,
+        "lon": -7.6147378
+      },
+      "tags": {
+        "addr:street": "Boulevard Houphouët Boigny",
+        "building": "hotel",
+        "name": "Hôtel du Centre",
+        "name:fr": "Hôtel du Centre",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 588736080,
+      "center": {
+        "lat": 33.5912096,
+        "lon": -7.6143448
+      },
+      "tags": {
+        "addr:street": "Avenue Lalla Yacout",
+        "building": "hotel",
+        "name": "Hotel Champian",
+        "source": "KaartGroundSurvey2018",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 588762265,
+      "center": {
+        "lat": 33.5927104,
+        "lon": -7.6066697
+      },
+      "tags": {
+        "addr:street": "Rue Ahmed Faris",
+        "building": "hotel",
+        "name": "Hôtel Lorraine",
+        "name:fr": "Hôtel Lorraine",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 589097328,
+      "center": {
+        "lat": 33.5887048,
+        "lon": -7.6095918
+      },
+      "tags": {
+        "addr:street": "Boulevard Rahal El Meskini",
+        "building": "hotel",
+        "name": "Hotel Antel",
+        "source": "Kaart Ground Survey 2018",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 589301611,
+      "center": {
+        "lat": 33.585066,
+        "lon": -7.6097896
+      },
+      "tags": {
+        "addr:street": "Boulevard Lahcen Ouidder",
+        "building": "hotel",
+        "source": "KaartGroundSurvey2018",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 589926532,
+      "center": {
+        "lat": 33.5888874,
+        "lon": -7.6198834
+      },
+      "tags": {
+        "addr:housenumber": "5",
+        "addr:street": "Rue Lieutenent Berger",
+        "building": "residential",
+        "source": "Kaart Ground Survey 2018",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 589926536,
+      "center": {
+        "lat": 33.5901669,
+        "lon": -7.616701
+      },
+      "tags": {
+        "addr:street": "Zanqat Al Amir Moulay Abdellah",
+        "building": "hotel",
+        "name": "Hotel du Palais",
+        "source": "Kaart Ground Survey 2018",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 589926540,
+      "center": {
+        "lat": 33.5886943,
+        "lon": -7.6200033
+      },
+      "tags": {
+        "addr:street": "Rue Lieutenent Berger",
+        "building": "commercial",
+        "source": "Kaart Ground Survey 2018",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 589926541,
+      "center": {
+        "lat": 33.5885267,
+        "lon": -7.6196975
+      },
+      "tags": {
+        "addr:street": "Rue Lieutenent Berger",
+        "building": "commercial",
+        "source": "Kaart Ground Survey 2018",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 589926542,
+      "center": {
+        "lat": 33.5884164,
+        "lon": -7.6194289
+      },
+      "tags": {
+        "addr:street": "Rue Lieutenent Berger",
+        "building": "hotel",
+        "name": "Hotel Point Du Jour",
+        "source": "Kaart Ground Survey 2018",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 589996079,
+      "center": {
+        "lat": 33.5886081,
+        "lon": -7.6093431
+      },
+      "tags": {
+        "addr:street": "Boulevard de Strasbourg",
+        "building": "commercial",
+        "source": "Kaart Ground Survey 2018",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 597477517,
+      "center": {
+        "lat": 33.5373315,
+        "lon": -7.6482759
+      },
+      "tags": {
+        "addr:street": "Zanqat 69",
+        "building": "hotel",
+        "name": "Casablanca Suites & Spa",
+        "source": "Kaart Ground Survey 2018",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1057612990,
+      "center": {
+        "lat": 33.5081483,
+        "lon": -7.6309878
+      },
+      "tags": {
+        "addr:city": "Casablanca",
+        "addr:postcode": "20000",
+        "addr:street": "Boulevard Zoulikha Nasri",
+        "brand": "Hilton Garden Inn",
+        "brand:wikidata": "Q1162859",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/Hilton-Garden-Inn-Casablanca-Sud-111371208152082",
+        "contact:instagram": "https://www.instagram.com/hiltongardeninncasablanca/",
+        "contact:linkedin": "https://www.linkedin.com/company/hilton-garden-inn-casablanca-sud/",
+        "contact:twitter": "https://twitter.com/Hgicasablanca",
+        "email": "casas_res@hilton.com",
+        "internet_access": "yes",
+        "name": "Hilton Garden Inn Casablanca Sud",
+        "operator": "Hilton",
+        "phone": "+212 520 277 277",
+        "rooms": "155",
+        "tourism": "hotel",
+        "website": "https://www.hilton.com/en/hotels/casasgi-hilton-garden-inn-casablanca-sud/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1231394566,
+      "center": {
+        "lat": 33.6003416,
+        "lon": -7.6173536
+      },
+      "tags": {
+        "building": "yes",
+        "name": "Youth Hostel International",
+        "name:en": "Youth Hostel International",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1287837026,
+      "center": {
+        "lat": 33.5658552,
+        "lon": -7.6280801
+      },
+      "tags": {
+        "building": "yes",
+        "check_date": "2024-05-30",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "Las vegas Hotel",
+        "payment:american_express": "yes",
+        "payment:apple_pay": "yes",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:diners_club": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:paypal": "yes",
+        "payment:visa": "yes",
+        "rooms": "30",
+        "tourism": "hotel",
+        "wheelchair": "yes"
+      }
+    }
+  ]
+}

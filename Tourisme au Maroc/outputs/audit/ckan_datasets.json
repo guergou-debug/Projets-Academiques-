@@ -1,0 +1,2805 @@
+[
+  {
+    "author": "",
+    "author_email": "",
+    "creator_user_id": "02391106-2ff8-4f01-81e1-8dc81ac06205",
+    "id": "5f6b4fb7-d0f2-4379-88a2-464de7a3ec4d",
+    "isopen": true,
+    "license_id": "odc-odbl",
+    "license_title": "Open Data Commons Open Database License (ODbL)",
+    "license_url": "http://www.opendefinition.org/licenses/odc-odbl",
+    "maintainer": "",
+    "maintainer_email": "",
+    "metadata_created": "2014-10-31T14:37:14.615268",
+    "metadata_modified": "2021-12-10T19:58:19.212561",
+    "name": "activites-sectorielles-tourisme",
+    "notes": "Données ouvertes relatives aux indicateurs sectoriels du tourisme",
+    "notes_ar": "معطيات مفتوحة متعلقة بالأنشطة القطاعية - السياحة",
+    "notes_fr": "Données ouvertes relatives aux indicateurs sectoriels du tourisme",
+    "num_resources": 1,
+    "num_tags": 1,
+    "organization": {
+      "id": "b428a1d6-2c1b-409a-a7e6-46272f2cf4c9",
+      "name": "ministere-de-l-economie-et-des-finances",
+      "title": "Ministère de l'Economie et des Finances",
+      "type": "organization",
+      "description": "Données ouvertes du Ministère de l'Economie et des Finances.",
+      "image_url": "2021-11-13-185149.251169MEF.jpg",
+      "created": "2013-09-23T11:33:49.318114",
+      "is_organization": true,
+      "approval_status": "approved",
+      "state": "active",
+      "title_translated": {
+        "fr": "Ministère de l'Economie et des Finances",
+        "ar": "وزارة الاقتصاد والمالية"
+      },
+      "description_translated": {
+        "fr": "Données ouvertes du Ministère de l'Economie et des Finances.",
+        "ar": "معطيات مفتوحة خاصة بوزارة الاقتصاد والمالية"
+      }
+    },
+    "owner_org": "b428a1d6-2c1b-409a-a7e6-46272f2cf4c9",
+    "private": false,
+    "state": "active",
+    "title": "Activités sectorielles -Tourisme",
+    "title_ar": "الأنشطة القطاعية - السياحة",
+    "title_fr": "Activités sectorielles -Tourisme",
+    "type": "dataset",
+    "url": "",
+    "version": "",
+    "groups": [
+      {
+        "description": "Données ouvertes dans le domaine du tourisme.",
+        "display_name": "Tourisme",
+        "id": "b3f20a32-bf7d-4de7-bb4e-cfa5e2bd4a1c",
+        "image_display_url": "",
+        "name": "tourisme",
+        "title": "Tourisme"
+      }
+    ],
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "created": "2017-12-17T11:12:25.532619",
+        "datastore_active": false,
+        "description": "indicateurs tourisme 2014",
+        "format": "XLS",
+        "hash": "",
+        "id": "2c6e8d63-2c1d-45a6-a0a4-68a5645fdf17",
+        "last_modified": "2017-12-17T11:12:25.517848",
+        "metadata_modified": "2017-12-17T11:12:25.526934",
+        "mimetype": "application/vnd.ms-excel",
+        "mimetype_inner": null,
+        "name": "Tourisme 2014",
+        "package_id": "5f6b4fb7-d0f2-4379-88a2-464de7a3ec4d",
+        "position": 0,
+        "resource_type": null,
+        "size": 42496,
+        "state": "active",
+        "url": "http://datagovma.webhi.net/data/fr/dataset/5f6b4fb7-d0f2-4379-88a2-464de7a3ec4d/resource/2c6e8d63-2c1d-45a6-a0a4-68a5645fdf17/download/sectoriel-toursime-mef-2014.xls",
+        "url_type": "upload"
+      }
+    ],
+    "tags": [
+      {
+        "display_name": "tourisme",
+        "id": "68ce3085-2e9a-41e3-b2f1-9b6d39905f01",
+        "name": "tourisme",
+        "state": "active",
+        "vocabulary_id": null
+      }
+    ],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "title_translated": {
+      "fr": "Activités sectorielles -Tourisme",
+      "ar": "الأنشطة القطاعية - السياحة"
+    },
+    "notes_translated": {
+      "fr": "Données ouvertes relatives aux indicateurs sectoriels du tourisme",
+      "ar": "معطيات مفتوحة متعلقة بالأنشطة القطاعية - السياحة"
+    }
+  },
+  {
+    "author": "",
+    "author_email": "",
+    "creator_user_id": "41d99e66-e547-4850-b70b-e268d6ee37a6",
+    "id": "b357ebff-18bc-443e-b3de-a41fb5dbfcc5",
+    "isopen": true,
+    "license_id": "odc-odbl",
+    "license_title": "Open Data Commons Open Database License (ODbL)",
+    "license_url": "http://www.opendefinition.org/licenses/odc-odbl",
+    "maintainer": "",
+    "maintainer_email": "",
+    "metadata_created": "2022-02-18T16:06:44.407771",
+    "metadata_modified": "2022-02-18T16:06:52.566803",
+    "name": "indicateurs-sectoriels-tourisme-2010-2020",
+    "notes": "Ce fichier présente des indicateurs du secteur du tourisme pour la période 2010-2020",
+    "notes_ar": "يقدم هذا الملف مؤشرات لقطاع السياحة  للفترة ما بين 2010 - 2020",
+    "notes_fr": "Ce fichier présente des indicateurs du secteur du tourisme pour la période 2010-2020",
+    "num_resources": 1,
+    "num_tags": 4,
+    "organization": {
+      "id": "b428a1d6-2c1b-409a-a7e6-46272f2cf4c9",
+      "name": "ministere-de-l-economie-et-des-finances",
+      "title": "MEF",
+      "type": "organization",
+      "description": "Données ouvertes du Ministère de l'Economie et des Finances.",
+      "image_url": "2021-11-13-185149.251169MEF.jpg",
+      "created": "2013-09-23T11:33:49.318114",
+      "is_organization": true,
+      "approval_status": "approved",
+      "state": "active",
+      "title_translated": {
+        "fr": "MEF",
+        "ar": "وزارة الاقتصاد والمالية"
+      },
+      "description_translated": {
+        "fr": "Données ouvertes du Ministère de l'Economie et des Finances.",
+        "ar": "معطيات مفتوحة خاصة بوزارة الاقتصاد والمالية"
+      }
+    },
+    "owner_org": "b428a1d6-2c1b-409a-a7e6-46272f2cf4c9",
+    "private": false,
+    "state": "active",
+    "title": "Indicateurs sectoriels - Tourisme 2010-2020",
+    "title_ar": "مؤشرات قطاعية – السياحة 2010-2020",
+    "title_fr": "Indicateurs sectoriels - Tourisme 2010-2020",
+    "type": "dataset",
+    "url": "",
+    "version": "",
+    "groups": [
+      {
+        "description": "Données ouvertes dans le domaine des finances.",
+        "display_name": "Finance",
+        "id": "5026f7a6-0fbd-40a3-8463-9f5a10348e68",
+        "image_display_url": "https://data.gov.ma/data/uploads/group/2021-09-26-222616.237312finance.png",
+        "name": "finance",
+        "title": "Finance"
+      },
+      {
+        "description": "Données ouvertes dans le domaine du tourisme.",
+        "display_name": "Tourisme",
+        "id": "b3f20a32-bf7d-4de7-bb4e-cfa5e2bd4a1c",
+        "image_display_url": "https://data.gov.ma/data/uploads/group/2021-12-13-093232.207143tourisme1.png",
+        "name": "tourisme",
+        "title": "Tourisme"
+      }
+    ],
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "created": "2022-02-18T16:06:52.338498",
+        "datastore_active": false,
+        "description": "",
+        "format": "XLSX",
+        "hash": "",
+        "id": "efee8ad8-1817-4c57-a7c6-21b2b3b394ab",
+        "last_modified": "2022-02-18T16:06:52.316508",
+        "metadata_modified": "2022-02-18T16:06:52.570120",
+        "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "mimetype_inner": null,
+        "name": "Indicateurs sectoriels-Tourisme.xlsx",
+        "package_id": "b357ebff-18bc-443e-b3de-a41fb5dbfcc5",
+        "position": 0,
+        "resource_type": null,
+        "size": 65392,
+        "state": "active",
+        "url": "https://data.gov.ma/data/fr/dataset/b357ebff-18bc-443e-b3de-a41fb5dbfcc5/resource/efee8ad8-1817-4c57-a7c6-21b2b3b394ab/download/indicateurs-sectoriels-tourisme.xlsx",
+        "url_type": "upload"
+      }
+    ],
+    "tags": [
+      {
+        "display_name": "finances",
+        "id": "6127efb8-ced3-4b41-ad7a-6492dcd2d229",
+        "name": "finances",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "indicateurs",
+        "id": "41c9e210-9dd6-436a-82ed-a4153ebc8b8f",
+        "name": "indicateurs",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "tourisme",
+        "id": "68ce3085-2e9a-41e3-b2f1-9b6d39905f01",
+        "name": "tourisme",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "économie",
+        "id": "b6808db3-be4a-450f-b7df-2d34037dc1d4",
+        "name": "économie",
+        "state": "active",
+        "vocabulary_id": null
+      }
+    ],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "title_translated": {
+      "fr": "Indicateurs sectoriels - Tourisme 2010-2020",
+      "ar": "مؤشرات قطاعية – السياحة 2010-2020"
+    },
+    "notes_translated": {
+      "fr": "Ce fichier présente des indicateurs du secteur du tourisme pour la période 2010-2020",
+      "ar": "يقدم هذا الملف مؤشرات لقطاع السياحة  للفترة ما بين 2010 - 2020"
+    }
+  },
+  {
+    "author": "",
+    "author_email": "",
+    "creator_user_id": "02391106-2ff8-4f01-81e1-8dc81ac06205",
+    "id": "b793ceba-6084-4421-8663-3c35865eaf34",
+    "isopen": true,
+    "license_id": "odc-odbl",
+    "license_title": "Open Data Commons Open Database License (ODbL)",
+    "license_url": "http://www.opendefinition.org/licenses/odc-odbl",
+    "maintainer": "",
+    "maintainer_email": "",
+    "metadata_created": "2014-04-09T14:45:19.039950",
+    "metadata_modified": "2021-12-13T16:17:49.262289",
+    "name": "indicateurs-tourisme-2011",
+    "notes": "Indicateurs du tourisme au Maroc: Capacité hôtelière, Taux d'occupation , Nuitées touristiques dans les hôtels classés , Recettes touristiques Ministère de l'Economie et des Finances ",
+    "notes_ar": "الطاقة الاستيعابية للفنادق، معدل الملء، الليالي السياحية في الفنادق المصنفة، المداخيل السياحية",
+    "notes_fr": "Indicateurs du tourisme au Maroc: Capacité hôtelière, Taux d'occupation , Nuitées touristiques dans les hôtels classés , Recettes touristiques Ministère de l'Economie et des Finances ",
+    "num_resources": 1,
+    "num_tags": 1,
+    "organization": {
+      "id": "b428a1d6-2c1b-409a-a7e6-46272f2cf4c9",
+      "name": "ministere-de-l-economie-et-des-finances",
+      "title": "Ministère de l'Economie et des Finances",
+      "type": "organization",
+      "description": "Données ouvertes du Ministère de l'Economie et des Finances.",
+      "image_url": "2021-11-13-185149.251169MEF.jpg",
+      "created": "2013-09-23T11:33:49.318114",
+      "is_organization": true,
+      "approval_status": "approved",
+      "state": "active",
+      "title_translated": {
+        "fr": "Ministère de l'Economie et des Finances",
+        "ar": "وزارة الاقتصاد والمالية"
+      },
+      "description_translated": {
+        "fr": "Données ouvertes du Ministère de l'Economie et des Finances.",
+        "ar": "معطيات مفتوحة خاصة بوزارة الاقتصاد والمالية"
+      }
+    },
+    "owner_org": "b428a1d6-2c1b-409a-a7e6-46272f2cf4c9",
+    "private": false,
+    "state": "active",
+    "title": "Indicateurs tourisme 2011",
+    "title_ar": "مؤشرات السياحة 2011",
+    "title_fr": "Indicateurs tourisme 2011",
+    "type": "dataset",
+    "url": "",
+    "version": "",
+    "groups": [
+      {
+        "description": "Données ouvertes dans le domaine des finances.",
+        "display_name": "Finance",
+        "id": "5026f7a6-0fbd-40a3-8463-9f5a10348e68",
+        "image_display_url": "https://data.gov.ma/data/uploads/group/2021-09-26-222616.237312finance.png",
+        "name": "finance",
+        "title": "Finance"
+      }
+    ],
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "created": "2017-12-17T12:27:45.863155",
+        "datastore_active": false,
+        "description": "Indicateurs du tourisme au Maroc: Capacité hôtelière, Taux d'occupation , Nuitées touristiques dans les hôtels classés , Recettes touristiques.",
+        "format": "XLS",
+        "hash": "",
+        "id": "337535fc-ddfb-47ee-b788-1735f1d92c4e",
+        "last_modified": "2017-12-17T12:27:45.848440",
+        "metadata_modified": "2017-12-17T12:27:45.857662",
+        "mimetype": "application/vnd.ms-excel",
+        "mimetype_inner": null,
+        "name": "Indicateurs du tourisme 2011",
+        "package_id": "b793ceba-6084-4421-8663-3c35865eaf34",
+        "position": 0,
+        "resource_type": null,
+        "size": 27136,
+        "state": "active",
+        "url": "https://data.gov.ma/data/fr/dataset/b793ceba-6084-4421-8663-3c35865eaf34/resource/337535fc-ddfb-47ee-b788-1735f1d92c4e/download/indicateurs-tourisme-mef-2011.xls",
+        "url_type": "upload"
+      }
+    ],
+    "tags": [
+      {
+        "display_name": "finance",
+        "id": "1c7ce712-b339-47e5-bbb7-cf7a0002876c",
+        "name": "finance",
+        "state": "active",
+        "vocabulary_id": null
+      }
+    ],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "title_translated": {
+      "fr": "Indicateurs tourisme 2011",
+      "ar": "مؤشرات السياحة 2011"
+    },
+    "notes_translated": {
+      "fr": "Indicateurs du tourisme au Maroc: Capacité hôtelière, Taux d'occupation , Nuitées touristiques dans les hôtels classés , Recettes touristiques Ministère de l'Economie et des Finances ",
+      "ar": "الطاقة الاستيعابية للفنادق، معدل الملء، الليالي السياحية في الفنادق المصنفة، المداخيل السياحية"
+    }
+  },
+  {
+    "author": "",
+    "author_email": "",
+    "creator_user_id": "41d99e66-e547-4850-b70b-e268d6ee37a6",
+    "id": "61345231-479d-4c61-8921-d6e4efc252e3",
+    "isopen": true,
+    "license_id": "odc-odbl",
+    "license_title": "Open Data Commons Open Database License (ODbL)",
+    "license_url": "http://www.opendefinition.org/licenses/odc-odbl",
+    "maintainer": "",
+    "maintainer_email": "",
+    "metadata_created": "2022-04-14T14:07:04.377928",
+    "metadata_modified": "2022-04-15T11:49:52.515153",
+    "name": "recettes-en-devises-2010-2020",
+    "notes": "Ce fichier présente les recettes en devises du secteur du tourisme pour la période 2010-2020",
+    "notes_ar": "يقدم هذا الملف الإيرادات من العملة الأجنبية لقطاع السياحة للفترة ما بين 2010-2020 ",
+    "notes_fr": "Ce fichier présente les recettes en devises du secteur du tourisme pour la période 2010-2020",
+    "num_resources": 1,
+    "num_tags": 4,
+    "organization": {
+      "id": "527665bf-9a17-415e-bacd-fa8aca68116a",
+      "name": "ministere-du-tourisme",
+      "title": "MTAESS",
+      "type": "organization",
+      "description": "Données ouvertes du Ministère du Tourisme, de l’Artisanat, et de l’Economie Sociale et Solidaire.",
+      "image_url": "20140426-110611.789312armoiriemaroc.png",
+      "created": "2014-04-25T20:10:24.283393",
+      "is_organization": true,
+      "approval_status": "approved",
+      "state": "active",
+      "title_translated": {
+        "fr": "MTAESS",
+        "ar": "وزارة السياحة والصناعة التقليدية والاقتصاد الاجتماعي و التضامني"
+      },
+      "description_translated": {
+        "fr": "Données ouvertes du Ministère du Tourisme, de l’Artisanat, et de l’Economie Sociale et Solidaire.",
+        "ar": "معطيات مفتوحة خاصة بوزارة السياحة والصناعة التقليدية والاقتصاد الاجتماعي و التضامني"
+      }
+    },
+    "owner_org": "527665bf-9a17-415e-bacd-fa8aca68116a",
+    "private": false,
+    "state": "active",
+    "title": "Recettes en devises du secteur du tourisme 2010-2020",
+    "title_ar": " الإيرادات من العملة الأجنبية لقطاع السياحة  2010-2020 ",
+    "title_fr": "Recettes en devises du secteur du tourisme 2010-2020",
+    "type": "dataset",
+    "url": "",
+    "version": "",
+    "groups": [
+      {
+        "description": "Données ouvertes dans le domaine du tourisme.",
+        "display_name": "Tourisme",
+        "id": "b3f20a32-bf7d-4de7-bb4e-cfa5e2bd4a1c",
+        "image_display_url": "https://data.gov.ma/data/uploads/group/2021-12-13-093232.207143tourisme1.png",
+        "name": "tourisme",
+        "title": "Tourisme"
+      }
+    ],
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "created": "2022-04-14T14:09:35.824218",
+        "datastore_active": false,
+        "description": "",
+        "format": "XLSX",
+        "hash": "",
+        "id": "3a928f92-4eaf-4707-866e-213ef46378bb",
+        "last_modified": "2022-04-14T14:09:35.799967",
+        "metadata_modified": "2022-04-14T14:09:36.110468",
+        "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "mimetype_inner": null,
+        "name": "Recettes en devises.xlsx",
+        "package_id": "61345231-479d-4c61-8921-d6e4efc252e3",
+        "position": 0,
+        "resource_type": null,
+        "size": 15312,
+        "state": "active",
+        "url": "https://data.gov.ma/data/fr/dataset/61345231-479d-4c61-8921-d6e4efc252e3/resource/3a928f92-4eaf-4707-866e-213ef46378bb/download/recettes-en-devises.xlsx",
+        "url_type": "upload"
+      }
+    ],
+    "tags": [
+      {
+        "display_name": "devise",
+        "id": "54a8d714-3b76-4935-b746-05745a40b91a",
+        "name": "devise",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "maroc",
+        "id": "04e122f8-1277-4958-a09b-cfe8f37cd8e3",
+        "name": "maroc",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "recette",
+        "id": "4694dae0-2b69-4a04-9e97-b973acace744",
+        "name": "recette",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "tourisme",
+        "id": "68ce3085-2e9a-41e3-b2f1-9b6d39905f01",
+        "name": "tourisme",
+        "state": "active",
+        "vocabulary_id": null
+      }
+    ],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "title_translated": {
+      "fr": "Recettes en devises du secteur du tourisme 2010-2020",
+      "ar": " الإيرادات من العملة الأجنبية لقطاع السياحة  2010-2020 "
+    },
+    "notes_translated": {
+      "fr": "Ce fichier présente les recettes en devises du secteur du tourisme pour la période 2010-2020",
+      "ar": "يقدم هذا الملف الإيرادات من العملة الأجنبية لقطاع السياحة للفترة ما بين 2010-2020 "
+    }
+  },
+  {
+    "author": "",
+    "author_email": "",
+    "creator_user_id": "02391106-2ff8-4f01-81e1-8dc81ac06205",
+    "id": "21992f21-b6e7-432c-9a90-4f7a84cee8c1",
+    "isopen": true,
+    "license_id": "odc-odbl",
+    "license_title": "ترخيص قاعدة البيانات المفتوح التابع لمشاع البيانات المفتوحة (ODbL)",
+    "license_url": "http://www.opendefinition.org/licenses/odc-odbl",
+    "maintainer": "",
+    "maintainer_email": "",
+    "metadata_created": "2015-01-22T11:14:34.230543",
+    "metadata_modified": "2021-12-11T12:54:56.920591",
+    "name": "annuaire-des-guides-touristiques",
+    "notes": "Annuaire des Guides Touristiques - Ministère du Tourisme",
+    "notes_ar": "دليل المرشدين السياحيين",
+    "notes_fr": "Annuaire des Guides Touristiques - Ministère du Tourisme",
+    "num_resources": 1,
+    "num_tags": 4,
+    "organization": {
+      "id": "527665bf-9a17-415e-bacd-fa8aca68116a",
+      "name": "ministere-du-tourisme",
+      "title": "Ministère du Tourisme, de l’Artisanat, et de l’Economie Sociale et Solidaire",
+      "type": "organization",
+      "description": "Données ouvertes du Ministère du Tourisme, de l’Artisanat, et de l’Economie Sociale et Solidaire.",
+      "image_url": "20140426-110611.789312armoiriemaroc.png",
+      "created": "2014-04-25T20:10:24.283393",
+      "is_organization": true,
+      "approval_status": "approved",
+      "state": "active",
+      "title_translated": {
+        "fr": "Ministère du Tourisme, de l’Artisanat, et de l’Economie Sociale et Solidaire",
+        "ar": "وزارة السياحة والصناعة التقليدية والاقتصاد الاجتماعي و التضامني"
+      },
+      "description_translated": {
+        "fr": "Données ouvertes du Ministère du Tourisme, de l’Artisanat, et de l’Economie Sociale et Solidaire.",
+        "ar": "معطيات مفتوحة خاصة بوزارة السياحة والصناعة التقليدية والاقتصاد الاجتماعي و التضامني"
+      }
+    },
+    "owner_org": "527665bf-9a17-415e-bacd-fa8aca68116a",
+    "private": false,
+    "state": "active",
+    "title": "Annuaire des guides touristiques",
+    "title_ar": "دليل المرشدين السياحيين",
+    "title_fr": "Annuaire des guides touristiques",
+    "type": "dataset",
+    "url": "",
+    "version": "",
+    "groups": [
+      {
+        "description": "Données ouvertes dans le domaine du tourisme.",
+        "display_name": "Tourisme",
+        "id": "b3f20a32-bf7d-4de7-bb4e-cfa5e2bd4a1c",
+        "image_display_url": "",
+        "name": "tourisme",
+        "title": "Tourisme"
+      }
+    ],
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "created": "2017-12-18T21:04:41.127549",
+        "datastore_active": false,
+        "description": "Annuaire des guides touristiques catégorisé par : Nom, Prénom, Ville, Catégorie, Langue de travail",
+        "format": "CSV",
+        "hash": "",
+        "id": "e587b319-7436-4190-b685-e61ebe5d3de1",
+        "last_modified": "2017-12-18T21:04:41.106799",
+        "metadata_modified": "2017-12-18T21:04:41.116948",
+        "mimetype": "text/csv",
+        "mimetype_inner": null,
+        "name": "Annuaire des guides touristiques",
+        "package_id": "21992f21-b6e7-432c-9a90-4f7a84cee8c1",
+        "position": 0,
+        "resource_type": null,
+        "size": 278104,
+        "state": "active",
+        "url": "https://data.gov.ma/data/ar/dataset/21992f21-b6e7-432c-9a90-4f7a84cee8c1/resource/e587b319-7436-4190-b685-e61ebe5d3de1/download/annuaire-des-guides-touristiques-ministere-du-tourisme.csv",
+        "url_type": "upload"
+      }
+    ],
+    "tags": [
+      {
+        "display_name": "annuaire",
+        "id": "d29fd6f7-c3c8-4139-88e7-1340687c01e6",
+        "name": "annuaire",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "guide",
+        "id": "98b9bdfc-2e7c-4f64-8a6f-b9a2d3cc612b",
+        "name": "guide",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "tourisme",
+        "id": "68ce3085-2e9a-41e3-b2f1-9b6d39905f01",
+        "name": "tourisme",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "touriste",
+        "id": "a78e899a-fade-4b10-9a3b-5f9f55252000",
+        "name": "touriste",
+        "state": "active",
+        "vocabulary_id": null
+      }
+    ],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "title_translated": {
+      "fr": "Annuaire des guides touristiques",
+      "ar": "دليل المرشدين السياحيين"
+    },
+    "notes_translated": {
+      "fr": "Annuaire des Guides Touristiques - Ministère du Tourisme",
+      "ar": "دليل المرشدين السياحيين"
+    }
+  },
+  {
+    "author": "",
+    "author_email": "",
+    "creator_user_id": "02391106-2ff8-4f01-81e1-8dc81ac06205",
+    "id": "f412263c-f855-40b1-8458-7b2e56beb2bf",
+    "isopen": true,
+    "license_id": "odc-odbl",
+    "license_title": "ترخيص قاعدة البيانات المفتوح التابع لمشاع البيانات المفتوحة (ODbL)",
+    "license_url": "http://www.opendefinition.org/licenses/odc-odbl",
+    "maintainer": "",
+    "maintainer_email": "",
+    "metadata_created": "2015-01-22T11:10:02.173904",
+    "metadata_modified": "2021-12-11T12:56:24.783363",
+    "name": "annuaire-des-agences-de-voyages",
+    "notes": "Annuaire des agences de voyages - Ministère du Tourisme",
+    "notes_ar": "دليل وكالات الأسفار",
+    "notes_fr": "Annuaire des agences de voyages - Ministère du Tourisme",
+    "num_resources": 1,
+    "num_tags": 5,
+    "organization": {
+      "id": "527665bf-9a17-415e-bacd-fa8aca68116a",
+      "name": "ministere-du-tourisme",
+      "title": "Ministère du Tourisme, de l’Artisanat, et de l’Economie Sociale et Solidaire",
+      "type": "organization",
+      "description": "Données ouvertes du Ministère du Tourisme, de l’Artisanat, et de l’Economie Sociale et Solidaire.",
+      "image_url": "20140426-110611.789312armoiriemaroc.png",
+      "created": "2014-04-25T20:10:24.283393",
+      "is_organization": true,
+      "approval_status": "approved",
+      "state": "active",
+      "title_translated": {
+        "fr": "Ministère du Tourisme, de l’Artisanat, et de l’Economie Sociale et Solidaire",
+        "ar": "وزارة السياحة والصناعة التقليدية والاقتصاد الاجتماعي و التضامني"
+      },
+      "description_translated": {
+        "fr": "Données ouvertes du Ministère du Tourisme, de l’Artisanat, et de l’Economie Sociale et Solidaire.",
+        "ar": "معطيات مفتوحة خاصة بوزارة السياحة والصناعة التقليدية والاقتصاد الاجتماعي و التضامني"
+      }
+    },
+    "owner_org": "527665bf-9a17-415e-bacd-fa8aca68116a",
+    "private": false,
+    "state": "active",
+    "title": "Annuaire des agences de voyages",
+    "title_ar": "دليل وكالات الأسفار",
+    "title_fr": "Annuaire des agences de voyages",
+    "type": "dataset",
+    "url": "",
+    "version": "",
+    "groups": [
+      {
+        "description": "Données ouvertes dans le domaine du tourisme.",
+        "display_name": "Tourisme",
+        "id": "b3f20a32-bf7d-4de7-bb4e-cfa5e2bd4a1c",
+        "image_display_url": "",
+        "name": "tourisme",
+        "title": "Tourisme"
+      }
+    ],
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "created": "2017-12-18T21:05:38.196416",
+        "datastore_active": false,
+        "description": "Annuaire des agences de voyages catégorisé par : Raison Sociale , Adresse, Ville Coordonnées, Agréments, Année",
+        "format": "CSV",
+        "hash": "",
+        "id": "b5d3960b-1a2e-4f85-8082-80a6374439aa",
+        "last_modified": "2017-12-18T21:05:38.174057",
+        "metadata_modified": "2017-12-18T21:05:38.183909",
+        "mimetype": "text/csv",
+        "mimetype_inner": null,
+        "name": "Annuaire des Agences de voyages",
+        "package_id": "f412263c-f855-40b1-8458-7b2e56beb2bf",
+        "position": 0,
+        "resource_type": null,
+        "size": 227194,
+        "state": "active",
+        "url": "https://data.gov.ma/data/ar/dataset/f412263c-f855-40b1-8458-7b2e56beb2bf/resource/b5d3960b-1a2e-4f85-8082-80a6374439aa/download/annuaire-des-agences-de-voyages-ministere-du-tourisme.csv",
+        "url_type": "upload"
+      }
+    ],
+    "tags": [
+      {
+        "display_name": "agence",
+        "id": "27ba99f1-8f03-4673-b2e9-0c802cf488cd",
+        "name": "agence",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "annuaire",
+        "id": "d29fd6f7-c3c8-4139-88e7-1340687c01e6",
+        "name": "annuaire",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "tourisme",
+        "id": "68ce3085-2e9a-41e3-b2f1-9b6d39905f01",
+        "name": "tourisme",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "touriste",
+        "id": "a78e899a-fade-4b10-9a3b-5f9f55252000",
+        "name": "touriste",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "voyage",
+        "id": "4f009def-aa9f-4edb-abcc-3a56065068c3",
+        "name": "voyage",
+        "state": "active",
+        "vocabulary_id": null
+      }
+    ],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "title_translated": {
+      "fr": "Annuaire des agences de voyages",
+      "ar": "دليل وكالات الأسفار"
+    },
+    "notes_translated": {
+      "fr": "Annuaire des agences de voyages - Ministère du Tourisme",
+      "ar": "دليل وكالات الأسفار"
+    }
+  },
+  {
+    "author": "",
+    "author_email": "",
+    "creator_user_id": "41d99e66-e547-4850-b70b-e268d6ee37a6",
+    "id": "4081e159-650f-4b56-85b6-6fb110537e93",
+    "isopen": true,
+    "license_id": "odc-odbl",
+    "license_title": "Open Data Commons Open Database License (ODbL)",
+    "license_url": "http://www.opendefinition.org/licenses/odc-odbl",
+    "maintainer": "",
+    "maintainer_email": "",
+    "metadata_created": "2022-04-14T14:21:13.757183",
+    "metadata_modified": "2022-04-15T11:54:18.469495",
+    "name": "liste-des-agences-de-voyages-au-maroc",
+    "notes": "Ce fichier présente la liste des agences de voyages au Maroc",
+    "notes_ar": "يقدم هذا الملف لائحة وكالات السفر بالمغرب",
+    "notes_fr": "Ce fichier présente la liste des agences de voyages au Maroc",
+    "num_resources": 1,
+    "num_tags": 4,
+    "organization": {
+      "id": "527665bf-9a17-415e-bacd-fa8aca68116a",
+      "name": "ministere-du-tourisme",
+      "title": "MTAESS",
+      "type": "organization",
+      "description": "Données ouvertes du Ministère du Tourisme, de l’Artisanat, et de l’Economie Sociale et Solidaire.",
+      "image_url": "20140426-110611.789312armoiriemaroc.png",
+      "created": "2014-04-25T20:10:24.283393",
+      "is_organization": true,
+      "approval_status": "approved",
+      "state": "active",
+      "title_translated": {
+        "fr": "MTAESS",
+        "ar": "وزارة السياحة والصناعة التقليدية والاقتصاد الاجتماعي و التضامني"
+      },
+      "description_translated": {
+        "fr": "Données ouvertes du Ministère du Tourisme, de l’Artisanat, et de l’Economie Sociale et Solidaire.",
+        "ar": "معطيات مفتوحة خاصة بوزارة السياحة والصناعة التقليدية والاقتصاد الاجتماعي و التضامني"
+      }
+    },
+    "owner_org": "527665bf-9a17-415e-bacd-fa8aca68116a",
+    "private": false,
+    "state": "active",
+    "title": "Liste des agences de voyages au Maroc",
+    "title_ar": "لائحة وكالات السفر بالمغرب",
+    "title_fr": "Liste des agences de voyages au Maroc  ",
+    "type": "dataset",
+    "url": "",
+    "version": "",
+    "groups": [
+      {
+        "description": "Données ouvertes dans le domaine du tourisme.",
+        "display_name": "Tourisme",
+        "id": "b3f20a32-bf7d-4de7-bb4e-cfa5e2bd4a1c",
+        "image_display_url": "https://data.gov.ma/data/uploads/group/2021-12-13-093232.207143tourisme1.png",
+        "name": "tourisme",
+        "title": "Tourisme"
+      }
+    ],
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "created": "2022-04-14T14:21:20.386036",
+        "datastore_active": false,
+        "description": "",
+        "format": "XLS",
+        "hash": "",
+        "id": "7d67e000-8ee8-49ae-8790-519f230786bd",
+        "last_modified": "2022-04-14T14:21:20.357878",
+        "metadata_modified": "2022-04-14T14:21:20.679994",
+        "mimetype": "application/vnd.ms-excel",
+        "mimetype_inner": null,
+        "name": "Liste agences de voyages.xls",
+        "package_id": "4081e159-650f-4b56-85b6-6fb110537e93",
+        "position": 0,
+        "resource_type": null,
+        "size": 254976,
+        "state": "active",
+        "url": "https://data.gov.ma/data/fr/dataset/4081e159-650f-4b56-85b6-6fb110537e93/resource/7d67e000-8ee8-49ae-8790-519f230786bd/download/liste-agences-de-voyages.xls",
+        "url_type": "upload"
+      }
+    ],
+    "tags": [
+      {
+        "display_name": "agence",
+        "id": "27ba99f1-8f03-4673-b2e9-0c802cf488cd",
+        "name": "agence",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "maroc",
+        "id": "04e122f8-1277-4958-a09b-cfe8f37cd8e3",
+        "name": "maroc",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "tourisme",
+        "id": "68ce3085-2e9a-41e3-b2f1-9b6d39905f01",
+        "name": "tourisme",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "voyage",
+        "id": "4f009def-aa9f-4edb-abcc-3a56065068c3",
+        "name": "voyage",
+        "state": "active",
+        "vocabulary_id": null
+      }
+    ],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "title_translated": {
+      "fr": "Liste des agences de voyages au Maroc  ",
+      "ar": "لائحة وكالات السفر بالمغرب"
+    },
+    "notes_translated": {
+      "fr": "Ce fichier présente la liste des agences de voyages au Maroc",
+      "ar": "يقدم هذا الملف لائحة وكالات السفر بالمغرب"
+    }
+  },
+  {
+    "author": "",
+    "author_email": "",
+    "creator_user_id": "41d99e66-e547-4850-b70b-e268d6ee37a6",
+    "id": "ab52f94b-629d-4d71-bdb7-4fec22d8ef5d",
+    "isopen": true,
+    "license_id": "odc-odbl",
+    "license_title": "Open Data Commons Open Database License (ODbL)",
+    "license_url": "http://www.opendefinition.org/licenses/odc-odbl",
+    "maintainer": "",
+    "maintainer_email": "",
+    "metadata_created": "2022-04-14T14:20:17.598798",
+    "metadata_modified": "2022-04-14T14:20:24.593632",
+    "name": "evolution-par-point-d-entree-des-arrivees-des-touristes-aux-postes-frontieres-2012-2020",
+    "notes": "Ce fichier présente l’évolution par point d'entrée des arrivées des touristes aux postes frontières pour la période 2012-2020",
+    "notes_ar": "يقدم هذا الملف تطور السياح الوافدين على المراكز الحدودية حسب نقاط الوصول للفترة ما بين 2012-2020",
+    "notes_fr": "Ce fichier présente l’évolution par point d'entrée des arrivées des touristes aux postes frontières pour la période 2012-2020",
+    "num_resources": 1,
+    "num_tags": 5,
+    "organization": {
+      "id": "527665bf-9a17-415e-bacd-fa8aca68116a",
+      "name": "ministere-du-tourisme",
+      "title": "MTAESS",
+      "type": "organization",
+      "description": "Données ouvertes du Ministère du Tourisme, de l’Artisanat, et de l’Economie Sociale et Solidaire.",
+      "image_url": "20140426-110611.789312armoiriemaroc.png",
+      "created": "2014-04-25T20:10:24.283393",
+      "is_organization": true,
+      "approval_status": "approved",
+      "state": "active",
+      "title_translated": {
+        "fr": "MTAESS",
+        "ar": "وزارة السياحة والصناعة التقليدية والاقتصاد الاجتماعي و التضامني"
+      },
+      "description_translated": {
+        "fr": "Données ouvertes du Ministère du Tourisme, de l’Artisanat, et de l’Economie Sociale et Solidaire.",
+        "ar": "معطيات مفتوحة خاصة بوزارة السياحة والصناعة التقليدية والاقتصاد الاجتماعي و التضامني"
+      }
+    },
+    "owner_org": "527665bf-9a17-415e-bacd-fa8aca68116a",
+    "private": false,
+    "state": "active",
+    "title": "Evolution par point d'entrée des arrivées des touristes aux postes frontières 2012-2020",
+    "title_ar": "تطور السياح الوافدين على المراكز الحدودية حسب نقاط الوصول 2012-2020",
+    "title_fr": "Evolution par point d'entrée des arrivées des touristes aux postes frontières 2012-2020",
+    "type": "dataset",
+    "url": "",
+    "version": "",
+    "groups": [
+      {
+        "description": "Données ouvertes dans le domaine du tourisme.",
+        "display_name": "Tourisme",
+        "id": "b3f20a32-bf7d-4de7-bb4e-cfa5e2bd4a1c",
+        "image_display_url": "https://data.gov.ma/data/uploads/group/2021-12-13-093232.207143tourisme1.png",
+        "name": "tourisme",
+        "title": "Tourisme"
+      }
+    ],
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "created": "2022-04-14T14:20:24.320247",
+        "datastore_active": false,
+        "description": "",
+        "format": "XLSX",
+        "hash": "",
+        "id": "ade9f432-18e2-46a1-9455-3862e8af6343",
+        "last_modified": "2022-04-14T14:20:24.294208",
+        "metadata_modified": "2022-04-14T14:20:24.597401",
+        "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "mimetype_inner": null,
+        "name": "Evolution par point d'entrée des arrivées des touristes aux postes frontières.xlsx",
+        "package_id": "ab52f94b-629d-4d71-bdb7-4fec22d8ef5d",
+        "position": 0,
+        "resource_type": null,
+        "size": 10241,
+        "state": "active",
+        "url": "https://data.gov.ma/data/fr/dataset/ab52f94b-629d-4d71-bdb7-4fec22d8ef5d/resource/ade9f432-18e2-46a1-9455-3862e8af6343/download/evolution-par-point-dentree-des-arrivees-des-touristes-aux-postes-frontieres.xlsx",
+        "url_type": "upload"
+      }
+    ],
+    "tags": [
+      {
+        "display_name": "entrée",
+        "id": "a293e730-29a4-4028-bf46-fea5219bd245",
+        "name": "entrée",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "frontière",
+        "id": "ddf3edcf-7a11-4b1a-ac38-8301e2b9cf40",
+        "name": "frontière",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "point",
+        "id": "e4c722ad-4509-435a-a77e-26efb8c02741",
+        "name": "point",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "tourisme",
+        "id": "68ce3085-2e9a-41e3-b2f1-9b6d39905f01",
+        "name": "tourisme",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "touriste",
+        "id": "a78e899a-fade-4b10-9a3b-5f9f55252000",
+        "name": "touriste",
+        "state": "active",
+        "vocabulary_id": null
+      }
+    ],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "title_translated": {
+      "fr": "Evolution par point d'entrée des arrivées des touristes aux postes frontières 2012-2020",
+      "ar": "تطور السياح الوافدين على المراكز الحدودية حسب نقاط الوصول 2012-2020"
+    },
+    "notes_translated": {
+      "fr": "Ce fichier présente l’évolution par point d'entrée des arrivées des touristes aux postes frontières pour la période 2012-2020",
+      "ar": "يقدم هذا الملف تطور السياح الوافدين على المراكز الحدودية حسب نقاط الوصول للفترة ما بين 2012-2020"
+    }
+  },
+  {
+    "author": "",
+    "author_email": "",
+    "creator_user_id": "41d99e66-e547-4850-b70b-e268d6ee37a6",
+    "id": "7bc67303-7f28-4515-a087-91464edb6510",
+    "isopen": true,
+    "license_id": "odc-odbl",
+    "license_title": "Open Data Commons Open Database License (ODbL)",
+    "license_url": "http://www.opendefinition.org/licenses/odc-odbl",
+    "maintainer": "",
+    "maintainer_email": "",
+    "metadata_created": "2022-04-14T14:19:01.695602",
+    "metadata_modified": "2022-04-14T14:19:08.381146",
+    "name": "evolution-par-nationalite-des-arrivees-des-touristes-aux-postes-frontieres-2012-2020",
+    "notes": "Ce fichier présente l’évolution par nationalité des arrivées des touristes aux postes frontières pour la période 2012-2020",
+    "notes_ar": "يقدم هذا الملف تطور السياح الوافدين على المراكز الحدودية حسب الجنسية للفترة ما بين 2012-2020",
+    "notes_fr": "Ce fichier présente l’évolution par nationalité des arrivées des touristes aux postes frontières pour la période 2012-2020",
+    "num_resources": 1,
+    "num_tags": 4,
+    "organization": {
+      "id": "527665bf-9a17-415e-bacd-fa8aca68116a",
+      "name": "ministere-du-tourisme",
+      "title": "MTAESS",
+      "type": "organization",
+      "description": "Données ouvertes du Ministère du Tourisme, de l’Artisanat, et de l’Economie Sociale et Solidaire.",
+      "image_url": "20140426-110611.789312armoiriemaroc.png",
+      "created": "2014-04-25T20:10:24.283393",
+      "is_organization": true,
+      "approval_status": "approved",
+      "state": "active",
+      "title_translated": {
+        "fr": "MTAESS",
+        "ar": "وزارة السياحة والصناعة التقليدية والاقتصاد الاجتماعي و التضامني"
+      },
+      "description_translated": {
+        "fr": "Données ouvertes du Ministère du Tourisme, de l’Artisanat, et de l’Economie Sociale et Solidaire.",
+        "ar": "معطيات مفتوحة خاصة بوزارة السياحة والصناعة التقليدية والاقتصاد الاجتماعي و التضامني"
+      }
+    },
+    "owner_org": "527665bf-9a17-415e-bacd-fa8aca68116a",
+    "private": false,
+    "state": "active",
+    "title": "Evolution par nationalité des arrivées des touristes aux postes frontières 2012-2020",
+    "title_ar": "تطور السياح الوافدين على المراكز الحدودية حسب الجنسية 2012-2020",
+    "title_fr": "Evolution par nationalité des arrivées des touristes aux postes frontières 2012-2020",
+    "type": "dataset",
+    "url": "",
+    "version": "",
+    "groups": [
+      {
+        "description": "Données ouvertes dans le domaine du tourisme.",
+        "display_name": "Tourisme",
+        "id": "b3f20a32-bf7d-4de7-bb4e-cfa5e2bd4a1c",
+        "image_display_url": "https://data.gov.ma/data/uploads/group/2021-12-13-093232.207143tourisme1.png",
+        "name": "tourisme",
+        "title": "Tourisme"
+      }
+    ],
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "created": "2022-04-14T14:19:08.118762",
+        "datastore_active": false,
+        "description": "",
+        "format": "XLSX",
+        "hash": "",
+        "id": "9b63ec1b-e72e-418b-a4f2-b7a2f854d316",
+        "last_modified": "2022-04-14T14:19:08.096825",
+        "metadata_modified": "2022-04-14T14:19:08.384617",
+        "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "mimetype_inner": null,
+        "name": "Evolution par nationalité des arrivées des touristes aux postes frontières.xlsx",
+        "package_id": "7bc67303-7f28-4515-a087-91464edb6510",
+        "position": 0,
+        "resource_type": null,
+        "size": 9721,
+        "state": "active",
+        "url": "https://data.gov.ma/data/fr/dataset/7bc67303-7f28-4515-a087-91464edb6510/resource/9b63ec1b-e72e-418b-a4f2-b7a2f854d316/download/evolution-par-nationalite-des-arrivees-des-touristes-aux-postes-frontieres.xlsx",
+        "url_type": "upload"
+      }
+    ],
+    "tags": [
+      {
+        "display_name": "frontière",
+        "id": "ddf3edcf-7a11-4b1a-ac38-8301e2b9cf40",
+        "name": "frontière",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "nationalité",
+        "id": "a5603c32-cfb5-454d-a2fd-e785d4436740",
+        "name": "nationalité",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "tourisme",
+        "id": "68ce3085-2e9a-41e3-b2f1-9b6d39905f01",
+        "name": "tourisme",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "touriste",
+        "id": "a78e899a-fade-4b10-9a3b-5f9f55252000",
+        "name": "touriste",
+        "state": "active",
+        "vocabulary_id": null
+      }
+    ],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "title_translated": {
+      "fr": "Evolution par nationalité des arrivées des touristes aux postes frontières 2012-2020",
+      "ar": "تطور السياح الوافدين على المراكز الحدودية حسب الجنسية 2012-2020"
+    },
+    "notes_translated": {
+      "fr": "Ce fichier présente l’évolution par nationalité des arrivées des touristes aux postes frontières pour la période 2012-2020",
+      "ar": "يقدم هذا الملف تطور السياح الوافدين على المراكز الحدودية حسب الجنسية للفترة ما بين 2012-2020"
+    }
+  },
+  {
+    "author": "",
+    "author_email": "",
+    "creator_user_id": "41d99e66-e547-4850-b70b-e268d6ee37a6",
+    "id": "e683644d-149e-4fa5-b0ca-37ad20761d88",
+    "isopen": true,
+    "license_id": "odc-odbl",
+    "license_title": "Open Data Commons Open Database License (ODbL)",
+    "license_url": "http://www.opendefinition.org/licenses/odc-odbl",
+    "maintainer": "",
+    "maintainer_email": "",
+    "metadata_created": "2022-04-14T14:17:54.474599",
+    "metadata_modified": "2022-04-14T14:18:03.058353",
+    "name": "evolution-par-marche-des-nuitees-realisees-etablissements-d-hebergement-touristique-2012-2020",
+    "notes": "Ce fichier présente l’évolution par marché des nuitées réalisées dans les établissements d'hébergement touristique pour la période 2012-2020",
+    "notes_ar": "يقدم هذا الملف تطور ليالي المبيت في مؤسسات الإيواء السياحي حسب مصادر السياح للفترة ما بين 2012-2020",
+    "notes_fr": "Ce fichier présente l’évolution par marché des nuitées réalisées dans les établissements d'hébergement touristique pour la période 2012-2020",
+    "num_resources": 1,
+    "num_tags": 6,
+    "organization": {
+      "id": "527665bf-9a17-415e-bacd-fa8aca68116a",
+      "name": "ministere-du-tourisme",
+      "title": "MTAESS",
+      "type": "organization",
+      "description": "Données ouvertes du Ministère du Tourisme, de l’Artisanat, et de l’Economie Sociale et Solidaire.",
+      "image_url": "20140426-110611.789312armoiriemaroc.png",
+      "created": "2014-04-25T20:10:24.283393",
+      "is_organization": true,
+      "approval_status": "approved",
+      "state": "active",
+      "title_translated": {
+        "fr": "MTAESS",
+        "ar": "وزارة السياحة والصناعة التقليدية والاقتصاد الاجتماعي و التضامني"
+      },
+      "description_translated": {
+        "fr": "Données ouvertes du Ministère du Tourisme, de l’Artisanat, et de l’Economie Sociale et Solidaire.",
+        "ar": "معطيات مفتوحة خاصة بوزارة السياحة والصناعة التقليدية والاقتصاد الاجتماعي و التضامني"
+      }
+    },
+    "owner_org": "527665bf-9a17-415e-bacd-fa8aca68116a",
+    "private": false,
+    "state": "active",
+    "title": "Evolution par marché des nuitées réalisées-établissements d'hébergement touristique 2012-2020",
+    "title_ar": "تطور ليالي المبيت في مؤسسات الإيواء السياحي حسب مصادر السياح 2012-2020",
+    "title_fr": "Evolution par marché des nuitées réalisées-établissements d'hébergement touristique 2012-2020",
+    "type": "dataset",
+    "url": "",
+    "version": "",
+    "groups": [
+      {
+        "description": "Données ouvertes dans le domaine du tourisme.",
+        "display_name": "Tourisme",
+        "id": "b3f20a32-bf7d-4de7-bb4e-cfa5e2bd4a1c",
+        "image_display_url": "https://data.gov.ma/data/uploads/group/2021-12-13-093232.207143tourisme1.png",
+        "name": "tourisme",
+        "title": "Tourisme"
+      }
+    ],
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "created": "2022-04-14T14:18:02.774267",
+        "datastore_active": false,
+        "description": "",
+        "format": "XLSX",
+        "hash": "",
+        "id": "a249f19c-d068-479c-911c-ac4829db06b3",
+        "last_modified": "2022-04-14T14:18:02.746363",
+        "metadata_modified": "2022-04-14T14:18:03.062735",
+        "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "mimetype_inner": null,
+        "name": "Evolution par marché nuitées réalisées établissements hébergement touristique.xlsx",
+        "package_id": "e683644d-149e-4fa5-b0ca-37ad20761d88",
+        "position": 0,
+        "resource_type": null,
+        "size": 9753,
+        "state": "active",
+        "url": "https://data.gov.ma/data/fr/dataset/e683644d-149e-4fa5-b0ca-37ad20761d88/resource/a249f19c-d068-479c-911c-ac4829db06b3/download/evolution-par-marche-nuitees-realisees-etablissements-hebergement-touristique.xlsx",
+        "url_type": "upload"
+      }
+    ],
+    "tags": [
+      {
+        "display_name": "nuitée",
+        "id": "3b0c7e23-8024-48c0-be59-f69202a6551d",
+        "name": "nuitée",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "provenance",
+        "id": "3fef4a1f-b331-46f5-90be-901d854e9fd0",
+        "name": "provenance",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "tourisme",
+        "id": "68ce3085-2e9a-41e3-b2f1-9b6d39905f01",
+        "name": "tourisme",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "touriste",
+        "id": "a78e899a-fade-4b10-9a3b-5f9f55252000",
+        "name": "touriste",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "touristique",
+        "id": "a8990ab6-f01a-40d9-867b-37a84059e809",
+        "name": "touristique",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "établissement",
+        "id": "c4bf5f4b-593b-4e2d-9930-26053b6e408e",
+        "name": "établissement",
+        "state": "active",
+        "vocabulary_id": null
+      }
+    ],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "title_translated": {
+      "fr": "Evolution par marché des nuitées réalisées-établissements d'hébergement touristique 2012-2020",
+      "ar": "تطور ليالي المبيت في مؤسسات الإيواء السياحي حسب مصادر السياح 2012-2020"
+    },
+    "notes_translated": {
+      "fr": "Ce fichier présente l’évolution par marché des nuitées réalisées dans les établissements d'hébergement touristique pour la période 2012-2020",
+      "ar": "يقدم هذا الملف تطور ليالي المبيت في مؤسسات الإيواء السياحي حسب مصادر السياح للفترة ما بين 2012-2020"
+    }
+  },
+  {
+    "author": "",
+    "author_email": "",
+    "creator_user_id": "41d99e66-e547-4850-b70b-e268d6ee37a6",
+    "id": "4ffbba37-c1d6-4f4e-9892-6bc829c04e1a",
+    "isopen": true,
+    "license_id": "odc-odbl",
+    "license_title": "Open Data Commons Open Database License (ODbL)",
+    "license_url": "http://www.opendefinition.org/licenses/odc-odbl",
+    "maintainer": "",
+    "maintainer_email": "",
+    "metadata_created": "2022-04-14T14:14:53.217228",
+    "metadata_modified": "2022-04-14T14:15:00.832831",
+    "name": "evolution-par-categorie-de-la-capacite-hoteliere-classee-en-lits-2012-2020",
+    "notes": "Ce fichier présente l’évolution par catégorie de la capacité hôtelière classée en lits pour la période 2012-2020",
+    "notes_ar": "يقدم هذا الملف تطور الطاقة الاستيعابية للفنادق من حيث عدد الأسرة حسب الفئة للفترة ما بين 2012-2020",
+    "notes_fr": "Ce fichier présente l’évolution par catégorie de la capacité hôtelière classée en lits pour la période 2012-2020",
+    "num_resources": 1,
+    "num_tags": 5,
+    "organization": {
+      "id": "527665bf-9a17-415e-bacd-fa8aca68116a",
+      "name": "ministere-du-tourisme",
+      "title": "MTAESS",
+      "type": "organization",
+      "description": "Données ouvertes du Ministère du Tourisme, de l’Artisanat, et de l’Economie Sociale et Solidaire.",
+      "image_url": "20140426-110611.789312armoiriemaroc.png",
+      "created": "2014-04-25T20:10:24.283393",
+      "is_organization": true,
+      "approval_status": "approved",
+      "state": "active",
+      "title_translated": {
+        "fr": "MTAESS",
+        "ar": "وزارة السياحة والصناعة التقليدية والاقتصاد الاجتماعي و التضامني"
+      },
+      "description_translated": {
+        "fr": "Données ouvertes du Ministère du Tourisme, de l’Artisanat, et de l’Economie Sociale et Solidaire.",
+        "ar": "معطيات مفتوحة خاصة بوزارة السياحة والصناعة التقليدية والاقتصاد الاجتماعي و التضامني"
+      }
+    },
+    "owner_org": "527665bf-9a17-415e-bacd-fa8aca68116a",
+    "private": false,
+    "state": "active",
+    "title": "Évolution par catégorie de la capacité hôtelière classée en lits 2012-2020",
+    "title_ar": "تطور الطاقة الاستيعابية للفنادق من حيث عدد الأسرة حسب الفئة 2012-2020",
+    "title_fr": "Évolution par catégorie de la capacité hôtelière classée en lits 2012-2020",
+    "type": "dataset",
+    "url": "",
+    "version": "",
+    "groups": [
+      {
+        "description": "Données ouvertes dans le domaine du tourisme.",
+        "display_name": "Tourisme",
+        "id": "b3f20a32-bf7d-4de7-bb4e-cfa5e2bd4a1c",
+        "image_display_url": "https://data.gov.ma/data/uploads/group/2021-12-13-093232.207143tourisme1.png",
+        "name": "tourisme",
+        "title": "Tourisme"
+      }
+    ],
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "created": "2022-04-14T14:15:00.561815",
+        "datastore_active": false,
+        "description": "",
+        "format": "XLSX",
+        "hash": "",
+        "id": "aa1ea7ba-e17a-4028-9a3c-afe168ff3074",
+        "last_modified": "2022-04-14T14:15:00.538134",
+        "metadata_modified": "2022-04-14T14:15:00.836795",
+        "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "mimetype_inner": null,
+        "name": "Évolution par catégorie de la capacité hôtelière classée en lits.xlsx",
+        "package_id": "4ffbba37-c1d6-4f4e-9892-6bc829c04e1a",
+        "position": 0,
+        "resource_type": null,
+        "size": 9334,
+        "state": "active",
+        "url": "https://data.gov.ma/data/fr/dataset/4ffbba37-c1d6-4f4e-9892-6bc829c04e1a/resource/aa1ea7ba-e17a-4028-9a3c-afe168ff3074/download/evolution-par-categorie-de-la-capacite-hoteliere-classee-en-lits.xlsx",
+        "url_type": "upload"
+      }
+    ],
+    "tags": [
+      {
+        "display_name": "capacité",
+        "id": "b82c77b2-cc61-40f7-bba1-433afd02a329",
+        "name": "capacité",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "catégorie",
+        "id": "c66be225-988e-47b3-9e3c-eae54611249f",
+        "name": "catégorie",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "hotel",
+        "id": "94191cb1-da26-4da1-8ef8-fd91072b1cc2",
+        "name": "hotel",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "lit",
+        "id": "ba3d329c-4d10-4a83-8002-addc1c9f43f1",
+        "name": "lit",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "tourisme",
+        "id": "68ce3085-2e9a-41e3-b2f1-9b6d39905f01",
+        "name": "tourisme",
+        "state": "active",
+        "vocabulary_id": null
+      }
+    ],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "title_translated": {
+      "fr": "Évolution par catégorie de la capacité hôtelière classée en lits 2012-2020",
+      "ar": "تطور الطاقة الاستيعابية للفنادق من حيث عدد الأسرة حسب الفئة 2012-2020"
+    },
+    "notes_translated": {
+      "fr": "Ce fichier présente l’évolution par catégorie de la capacité hôtelière classée en lits pour la période 2012-2020",
+      "ar": "يقدم هذا الملف تطور الطاقة الاستيعابية للفنادق من حيث عدد الأسرة حسب الفئة للفترة ما بين 2012-2020"
+    }
+  },
+  {
+    "author": "",
+    "author_email": "",
+    "creator_user_id": "41d99e66-e547-4850-b70b-e268d6ee37a6",
+    "id": "d9ed90a8-96d3-44fe-b2e0-b78fe92344b5",
+    "isopen": true,
+    "license_id": "odc-odbl",
+    "license_title": "Open Data Commons Open Database License (ODbL)",
+    "license_url": "http://www.opendefinition.org/licenses/odc-odbl",
+    "maintainer": "",
+    "maintainer_email": "",
+    "metadata_created": "2022-04-14T14:05:00.941965",
+    "metadata_modified": "2022-04-14T14:05:30.490172",
+    "name": "evolution-nuitees-realisees-etablissements-d-hebergement-touristique-par-destination-2012-2020",
+    "notes": "Ce fichier présente l’évolution des nuitées réalisées dans les établissements d'hébergement touristique par destination pour la période 2012-2020",
+    "notes_ar": "يقدم هذا الملف تطور ليالي المبيت في مؤسسات الإيواء السياحي حسب الوجهة للفترة ما بين 2012-2020",
+    "notes_fr": "Ce fichier présente l’évolution des nuitées réalisées dans les établissements d'hébergement touristique par destination pour la période 2012-2020",
+    "num_resources": 1,
+    "num_tags": 5,
+    "organization": {
+      "id": "527665bf-9a17-415e-bacd-fa8aca68116a",
+      "name": "ministere-du-tourisme",
+      "title": "MTAESS",
+      "type": "organization",
+      "description": "Données ouvertes du Ministère du Tourisme, de l’Artisanat, et de l’Economie Sociale et Solidaire.",
+      "image_url": "20140426-110611.789312armoiriemaroc.png",
+      "created": "2014-04-25T20:10:24.283393",
+      "is_organization": true,
+      "approval_status": "approved",
+      "state": "active",
+      "title_translated": {
+        "fr": "MTAESS",
+        "ar": "وزارة السياحة والصناعة التقليدية والاقتصاد الاجتماعي و التضامني"
+      },
+      "description_translated": {
+        "fr": "Données ouvertes du Ministère du Tourisme, de l’Artisanat, et de l’Economie Sociale et Solidaire.",
+        "ar": "معطيات مفتوحة خاصة بوزارة السياحة والصناعة التقليدية والاقتصاد الاجتماعي و التضامني"
+      }
+    },
+    "owner_org": "527665bf-9a17-415e-bacd-fa8aca68116a",
+    "private": false,
+    "state": "active",
+    "title": "Evolution nuitées réalisées- établissements d'hébergement touristique par destination 2012-2020",
+    "title_ar": "تطور ليالي المبيت في مؤسسات الإيواء السياحي حسب الوجهة 2012-2020",
+    "title_fr": "Evolution nuitées réalisées- établissements d'hébergement touristique par destination 2012-2020",
+    "type": "dataset",
+    "url": "",
+    "version": "",
+    "groups": [
+      {
+        "description": "Données ouvertes dans le domaine du tourisme.",
+        "display_name": "Tourisme",
+        "id": "b3f20a32-bf7d-4de7-bb4e-cfa5e2bd4a1c",
+        "image_display_url": "https://data.gov.ma/data/uploads/group/2021-12-13-093232.207143tourisme1.png",
+        "name": "tourisme",
+        "title": "Tourisme"
+      }
+    ],
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "created": "2022-04-14T14:05:30.202580",
+        "datastore_active": false,
+        "description": "",
+        "format": "XLSX",
+        "hash": "",
+        "id": "82b24c1a-df0c-49b2-9ce9-34e03833e3f9",
+        "last_modified": "2022-04-14T14:05:30.175054",
+        "metadata_modified": "2022-04-14T14:05:30.494297",
+        "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "mimetype_inner": null,
+        "name": "Evolution nuitées réalisées établissements hébergement touristique par destination.xlsx",
+        "package_id": "d9ed90a8-96d3-44fe-b2e0-b78fe92344b5",
+        "position": 0,
+        "resource_type": null,
+        "size": 9681,
+        "state": "active",
+        "url": "https://data.gov.ma/data/fr/dataset/d9ed90a8-96d3-44fe-b2e0-b78fe92344b5/resource/82b24c1a-df0c-49b2-9ce9-34e03833e3f9/download/evolution-nuitees-realisees-etablissements-hebergement-touristique-par-destination.xlsx",
+        "url_type": "upload"
+      }
+    ],
+    "tags": [
+      {
+        "display_name": "destination",
+        "id": "922fa749-1b2b-4f6f-9c01-0f3c1038e3c6",
+        "name": "destination",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "nuitée",
+        "id": "3b0c7e23-8024-48c0-be59-f69202a6551d",
+        "name": "nuitée",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "tourisme",
+        "id": "68ce3085-2e9a-41e3-b2f1-9b6d39905f01",
+        "name": "tourisme",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "touristique",
+        "id": "a8990ab6-f01a-40d9-867b-37a84059e809",
+        "name": "touristique",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "établissement",
+        "id": "c4bf5f4b-593b-4e2d-9930-26053b6e408e",
+        "name": "établissement",
+        "state": "active",
+        "vocabulary_id": null
+      }
+    ],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "title_translated": {
+      "fr": "Evolution nuitées réalisées- établissements d'hébergement touristique par destination 2012-2020",
+      "ar": "تطور ليالي المبيت في مؤسسات الإيواء السياحي حسب الوجهة 2012-2020"
+    },
+    "notes_translated": {
+      "fr": "Ce fichier présente l’évolution des nuitées réalisées dans les établissements d'hébergement touristique par destination pour la période 2012-2020",
+      "ar": "يقدم هذا الملف تطور ليالي المبيت في مؤسسات الإيواء السياحي حسب الوجهة للفترة ما بين 2012-2020"
+    }
+  },
+  {
+    "author": "",
+    "author_email": "",
+    "creator_user_id": "41d99e66-e547-4850-b70b-e268d6ee37a6",
+    "id": "165bad3e-1f4a-4ef8-872e-645efc204330",
+    "isopen": true,
+    "license_id": "odc-odbl",
+    "license_title": "Open Data Commons Open Database License (ODbL)",
+    "license_url": "http://www.opendefinition.org/licenses/odc-odbl",
+    "maintainer": "",
+    "maintainer_email": "",
+    "metadata_created": "2024-01-10T08:24:14.533312",
+    "metadata_modified": "2024-01-10T08:24:50.236725",
+    "name": "panorama-de-la-region-marrakech-safii",
+    "notes": "Ce fichier présente un portrait économique de la région Marrakech-Safi (richesse des paysages, capital humain, infrastructures) ainsi que les secteurs phares de la région, à savoir: le commerce, l'industrie, le tourisme, l'évenementiel, l'agriculture, l'artisanat, et la pêche maritime",
+    "notes_ar": "يقدم هذا الملف موجز عن الجانب الاقتصادي لجهة مراكش آسفي (المناظر الطبيعية والرأس المال البشري والبنية التحتية) بالإضافة إلى القطاعات الرئيسية في المنطقة: التجارة والصناعة والسياحة وتنظيم التظاهرات  والفلاحة والصناعة التقليدية والصيد البحري",
+    "notes_fr": "Ce fichier présente un portrait économique de la région Marrakech-Safi (richesse des paysages, capital humain, infrastructures) ainsi que les secteurs phares de la région, à savoir: le commerce, l'industrie, le tourisme, l'évenementiel, l'agriculture, l'artisanat, et la pêche maritime",
+    "num_resources": 1,
+    "num_tags": 10,
+    "organization": {
+      "id": "b35b4dda-6d13-4df6-923e-840f2955bb92",
+      "name": "chambre-de-commerce-d-industrie-et-de-services-de-la-region-marrakech-safi-ccisrms",
+      "title": "Chambre de Commerce, d’Industrie et de Services de la Région Marrakech – Safi (CCISRMS)",
+      "type": "organization",
+      "description": "Données ouvertes de la Chambre de Commerce, d’Industrie et de Services de la Région Marrakech – Safi (CCISRMS)",
+      "image_url": "2024-01-09-143539.306088LogoCCISMS.PNG",
+      "created": "2024-01-09T14:35:39.316070",
+      "is_organization": true,
+      "approval_status": "approved",
+      "state": "active",
+      "title_translated": {
+        "fr": "Chambre de Commerce, d’Industrie et de Services de la Région Marrakech – Safi (CCISRMS)",
+        "ar": "غرفة التجارة و الصناعة و الخدمات لجهة مراكش-آسفي"
+      },
+      "description_translated": {
+        "fr": "Données ouvertes de la Chambre de Commerce, d’Industrie et de Services de la Région Marrakech – Safi (CCISRMS)",
+        "ar": " معطيات مفتوحة خاصة بغرفة التجارة و الصناعة و الخدمات لجهة مراكش-آسفي"
+      }
+    },
+    "owner_org": "b35b4dda-6d13-4df6-923e-840f2955bb92",
+    "private": false,
+    "state": "active",
+    "title": "Panorama de la Région Marrakech Safi",
+    "title_ar": "بانوراما جهة مراكش آسفي",
+    "title_fr": "Panorama de la Région Marrakech Safi ",
+    "type": "dataset",
+    "url": "",
+    "version": "",
+    "groups": [
+      {
+        "description": "Données ouvertes dans le domaine de la culture",
+        "display_name": "Culture",
+        "id": "d4e28445-2da3-4d82-900b-2b9eb678e5c6",
+        "image_display_url": "https://data.gov.ma/data/uploads/group/2023-10-27-143428.683434culture2.png",
+        "name": "culture",
+        "title": "Culture"
+      },
+      {
+        "description": "Données ouvertes dans le domaine du tourisme.",
+        "display_name": "Tourisme",
+        "id": "b3f20a32-bf7d-4de7-bb4e-cfa5e2bd4a1c",
+        "image_display_url": "https://data.gov.ma/data/uploads/group/2021-12-13-093232.207143tourisme1.png",
+        "name": "tourisme",
+        "title": "Tourisme"
+      }
+    ],
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "created": "2024-01-10T08:24:49.951081",
+        "datastore_active": false,
+        "description": "",
+        "format": "PDF",
+        "hash": "",
+        "id": "a072485a-45bf-4e77-b891-afe6707af1f3",
+        "last_modified": "2024-01-10T08:24:49.911996",
+        "metadata_modified": "2024-01-10T08:24:50.242781",
+        "mimetype": "application/pdf",
+        "mimetype_inner": null,
+        "name": "Panorama Région Marrakech Safi.pdf",
+        "package_id": "165bad3e-1f4a-4ef8-872e-645efc204330",
+        "position": 0,
+        "resource_type": null,
+        "size": 24203952,
+        "state": "active",
+        "url": "https://data.gov.ma/data/fr/dataset/165bad3e-1f4a-4ef8-872e-645efc204330/resource/a072485a-45bf-4e77-b891-afe6707af1f3/download/panorama-region-marrakech-safi.pdf",
+        "url_type": "upload"
+      }
+    ],
+    "tags": [
+      {
+        "display_name": "Commerce",
+        "id": "f6ef0c94-295b-4ef0-bf9e-58ae9c176c95",
+        "name": "Commerce",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "Pêche maritime",
+        "id": "45f4b444-a30f-4be6-a012-b5b4fc9d6f92",
+        "name": "Pêche maritime",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "agriculture",
+        "id": "83767c11-3a8b-46b1-93b9-41fb297a62a8",
+        "name": "agriculture",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "artisanat",
+        "id": "2a1ea9c8-1c85-43bb-bae5-f724eeeffe5f",
+        "name": "artisanat",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "industrie",
+        "id": "b1a15559-7ba4-455a-9f0c-9338c2e427bc",
+        "name": "industrie",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "marrakech",
+        "id": "61ac8bc2-4b57-47b5-be1c-489185e0a442",
+        "name": "marrakech",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "panorama",
+        "id": "5fe0dc38-c525-45f3-ada1-b13dc0cf345b",
+        "name": "panorama",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "région",
+        "id": "272b748b-d67d-4d5d-a626-04195b3a80cd",
+        "name": "région",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "safi",
+        "id": "2cca28f5-594f-4004-b23d-229b7315df6b",
+        "name": "safi",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "tourisme",
+        "id": "68ce3085-2e9a-41e3-b2f1-9b6d39905f01",
+        "name": "tourisme",
+        "state": "active",
+        "vocabulary_id": null
+      }
+    ],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "title_translated": {
+      "fr": "Panorama de la Région Marrakech Safi ",
+      "ar": "بانوراما جهة مراكش آسفي"
+    },
+    "notes_translated": {
+      "fr": "Ce fichier présente un portrait économique de la région Marrakech-Safi (richesse des paysages, capital humain, infrastructures) ainsi que les secteurs phares de la région, à savoir: le commerce, l'industrie, le tourisme, l'évenementiel, l'agriculture, l'artisanat, et la pêche maritime",
+      "ar": "يقدم هذا الملف موجز عن الجانب الاقتصادي لجهة مراكش آسفي (المناظر الطبيعية والرأس المال البشري والبنية التحتية) بالإضافة إلى القطاعات الرئيسية في المنطقة: التجارة والصناعة والسياحة وتنظيم التظاهرات  والفلاحة والصناعة التقليدية والصيد البحري"
+    }
+  },
+  {
+    "author": "",
+    "author_email": "",
+    "creator_user_id": null,
+    "id": "c9cda5a7-ba5f-4533-a485-3b4f7dcfda9a",
+    "isopen": true,
+    "license_id": "odc-odbl",
+    "license_title": "ترخيص قاعدة البيانات المفتوح التابع لمشاع البيانات المفتوحة (ODbL)",
+    "license_url": "http://www.opendefinition.org/licenses/odc-odbl",
+    "maintainer": "",
+    "maintainer_email": "",
+    "metadata_created": "2013-09-23T09:57:34.766277",
+    "metadata_modified": "2021-12-11T13:03:03.185802",
+    "name": "liste-des-etablissements-d-hebergement-touristique",
+    "notes": "Liste des établissements d'hébergement touristique (Nom, classe, adresse, mail, numéro de téléphone, numéro de fax) Ministère du Tourisme",
+    "notes_ar": "قائمة مؤسسات الإيواء السياحي (الإسم، التصنيف، العنوان، البريد الإلكتروني، رقم الهاتف، رقم الفاكس)",
+    "notes_fr": "Liste des établissements d'hébergement touristique (Nom, classe, adresse, mail, numéro de téléphone, numéro de fax) Ministère du Tourisme",
+    "num_resources": 1,
+    "num_tags": 1,
+    "organization": {
+      "id": "527665bf-9a17-415e-bacd-fa8aca68116a",
+      "name": "ministere-du-tourisme",
+      "title": "Ministère du Tourisme, de l’Artisanat, et de l’Economie Sociale et Solidaire",
+      "type": "organization",
+      "description": "Données ouvertes du Ministère du Tourisme, de l’Artisanat, et de l’Economie Sociale et Solidaire.",
+      "image_url": "20140426-110611.789312armoiriemaroc.png",
+      "created": "2014-04-25T20:10:24.283393",
+      "is_organization": true,
+      "approval_status": "approved",
+      "state": "active",
+      "title_translated": {
+        "fr": "Ministère du Tourisme, de l’Artisanat, et de l’Economie Sociale et Solidaire",
+        "ar": "وزارة السياحة والصناعة التقليدية والاقتصاد الاجتماعي و التضامني"
+      },
+      "description_translated": {
+        "fr": "Données ouvertes du Ministère du Tourisme, de l’Artisanat, et de l’Economie Sociale et Solidaire.",
+        "ar": "معطيات مفتوحة خاصة بوزارة السياحة والصناعة التقليدية والاقتصاد الاجتماعي و التضامني"
+      }
+    },
+    "owner_org": "527665bf-9a17-415e-bacd-fa8aca68116a",
+    "private": false,
+    "state": "active",
+    "title": "Liste des établissements d'hébergement touristique",
+    "title_ar": "قائمة مؤسسات الإيواء السياحي",
+    "title_fr": "Liste des établissements d'hébergement touristique",
+    "type": "dataset",
+    "url": "",
+    "version": "",
+    "groups": [
+      {
+        "description": "Données ouvertes dans le domaine du tourisme.",
+        "display_name": "Tourisme",
+        "id": "b3f20a32-bf7d-4de7-bb4e-cfa5e2bd4a1c",
+        "image_display_url": "",
+        "name": "tourisme",
+        "title": "Tourisme"
+      }
+    ],
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "created": "2017-12-18T21:06:31.966339",
+        "datastore_active": false,
+        "description": "Liste des établissements d'hébergement touristique (Nom, classe, adresse, mail, numéro de téléphone, numéro de fax)",
+        "format": "XLS",
+        "hash": "",
+        "id": "93d15f0b-671a-4007-9054-0bab4cde32c9",
+        "last_modified": "2017-12-18T21:06:31.949982",
+        "metadata_modified": "2017-12-18T21:06:31.960383",
+        "mimetype": "application/vnd.ms-excel",
+        "mimetype_inner": null,
+        "name": "Etablissements d'hébergement touristique 2010",
+        "package_id": "c9cda5a7-ba5f-4533-a485-3b4f7dcfda9a",
+        "position": 0,
+        "resource_type": null,
+        "size": 425984,
+        "state": "active",
+        "url": "https://data.gov.ma/data/ar/dataset/c9cda5a7-ba5f-4533-a485-3b4f7dcfda9a/resource/93d15f0b-671a-4007-9054-0bab4cde32c9/download/liste-des-etablissements-hebergement-touristique-mt-2010.xls",
+        "url_type": "upload"
+      }
+    ],
+    "tags": [
+      {
+        "display_name": "Tourisme",
+        "id": "98851717-bc0d-490b-9dd4-aaa45c834813",
+        "name": "Tourisme",
+        "state": "active",
+        "vocabulary_id": null
+      }
+    ],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "title_translated": {
+      "fr": "Liste des établissements d'hébergement touristique",
+      "ar": "قائمة مؤسسات الإيواء السياحي"
+    },
+    "notes_translated": {
+      "fr": "Liste des établissements d'hébergement touristique (Nom, classe, adresse, mail, numéro de téléphone, numéro de fax) Ministère du Tourisme",
+      "ar": "قائمة مؤسسات الإيواء السياحي (الإسم، التصنيف، العنوان، البريد الإلكتروني، رقم الهاتف، رقم الفاكس)"
+    }
+  },
+  {
+    "author": "",
+    "author_email": "",
+    "creator_user_id": "41d99e66-e547-4850-b70b-e268d6ee37a6",
+    "id": "7e936358-4257-4caa-bf0d-e93964b552b3",
+    "isopen": true,
+    "license_id": "odc-odbl",
+    "license_title": "Open Data Commons Open Database License (ODbL)",
+    "license_url": "http://www.opendefinition.org/licenses/odc-odbl",
+    "maintainer": "",
+    "maintainer_email": "",
+    "metadata_created": "2022-04-14T14:16:01.197839",
+    "metadata_modified": "2022-04-14T14:16:11.772862",
+    "name": "evolution-par-destination-de-la-capacite-hoteliere-classee-en-lits-2012-2020",
+    "notes": "Ce fichier présente l’évolution par destination de la capacité hôtelière classée en lits pour la période 2012-2020",
+    "notes_ar": "يقدم هذا الملف تطور الطاقة الاستيعابية للفنادق من حيث عدد الأسرة حسب الوجهة للفترة ما بين 2012-2020",
+    "notes_fr": "Ce fichier présente l’évolution par destination de la capacité hôtelière classée en lits pour la période 2012-2020",
+    "num_resources": 1,
+    "num_tags": 5,
+    "organization": {
+      "id": "527665bf-9a17-415e-bacd-fa8aca68116a",
+      "name": "ministere-du-tourisme",
+      "title": "MTAESS",
+      "type": "organization",
+      "description": "Données ouvertes du Ministère du Tourisme, de l’Artisanat, et de l’Economie Sociale et Solidaire.",
+      "image_url": "20140426-110611.789312armoiriemaroc.png",
+      "created": "2014-04-25T20:10:24.283393",
+      "is_organization": true,
+      "approval_status": "approved",
+      "state": "active",
+      "title_translated": {
+        "fr": "MTAESS",
+        "ar": "وزارة السياحة والصناعة التقليدية والاقتصاد الاجتماعي و التضامني"
+      },
+      "description_translated": {
+        "fr": "Données ouvertes du Ministère du Tourisme, de l’Artisanat, et de l’Economie Sociale et Solidaire.",
+        "ar": "معطيات مفتوحة خاصة بوزارة السياحة والصناعة التقليدية والاقتصاد الاجتماعي و التضامني"
+      }
+    },
+    "owner_org": "527665bf-9a17-415e-bacd-fa8aca68116a",
+    "private": false,
+    "state": "active",
+    "title": "Évolution par destination de la capacité hôtelière classée en lits 2012-2020",
+    "title_ar": "تطور الطاقة الاستيعابية للفنادق من حيث عدد الأسرة حسب الوجهة 2012-2020",
+    "title_fr": "Évolution par destination de la capacité hôtelière classée en lits 2012-2020",
+    "type": "dataset",
+    "url": "",
+    "version": "",
+    "groups": [
+      {
+        "description": "Données ouvertes dans le domaine du tourisme.",
+        "display_name": "Tourisme",
+        "id": "b3f20a32-bf7d-4de7-bb4e-cfa5e2bd4a1c",
+        "image_display_url": "https://data.gov.ma/data/uploads/group/2021-12-13-093232.207143tourisme1.png",
+        "name": "tourisme",
+        "title": "Tourisme"
+      }
+    ],
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "created": "2022-04-14T14:16:11.486517",
+        "datastore_active": false,
+        "description": "",
+        "format": "XLSX",
+        "hash": "",
+        "id": "3bdf7ec3-61de-41e1-877b-d23f658054c5",
+        "last_modified": "2022-04-14T14:16:11.459759",
+        "metadata_modified": "2022-04-14T14:16:11.777475",
+        "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "mimetype_inner": null,
+        "name": "Évolution par destination de la capacité hôtelière classée en lits.xlsx",
+        "package_id": "7e936358-4257-4caa-bf0d-e93964b552b3",
+        "position": 0,
+        "resource_type": null,
+        "size": 9508,
+        "state": "active",
+        "url": "https://data.gov.ma/data/fr/dataset/7e936358-4257-4caa-bf0d-e93964b552b3/resource/3bdf7ec3-61de-41e1-877b-d23f658054c5/download/evolution-par-destination-de-la-capacite-hoteliere-classee-en-lits.xlsx",
+        "url_type": "upload"
+      }
+    ],
+    "tags": [
+      {
+        "display_name": "accessibilité",
+        "id": "9f2a1468-d901-4945-b0dd-32b8a68dd64f",
+        "name": "accessibilité",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "capacité",
+        "id": "b82c77b2-cc61-40f7-bba1-433afd02a329",
+        "name": "capacité",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "destination",
+        "id": "922fa749-1b2b-4f6f-9c01-0f3c1038e3c6",
+        "name": "destination",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "hôtel",
+        "id": "ab4adb32-fd70-4ba2-8e0e-c05646597594",
+        "name": "hôtel",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "maroc",
+        "id": "04e122f8-1277-4958-a09b-cfe8f37cd8e3",
+        "name": "maroc",
+        "state": "active",
+        "vocabulary_id": null
+      }
+    ],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "title_translated": {
+      "fr": "Évolution par destination de la capacité hôtelière classée en lits 2012-2020",
+      "ar": "تطور الطاقة الاستيعابية للفنادق من حيث عدد الأسرة حسب الوجهة 2012-2020"
+    },
+    "notes_translated": {
+      "fr": "Ce fichier présente l’évolution par destination de la capacité hôtelière classée en lits pour la période 2012-2020",
+      "ar": "يقدم هذا الملف تطور الطاقة الاستيعابية للفنادق من حيث عدد الأسرة حسب الوجهة للفترة ما بين 2012-2020"
+    }
+  },
+  {
+    "author": "",
+    "author_email": "",
+    "creator_user_id": "41d99e66-e547-4850-b70b-e268d6ee37a6",
+    "id": "79d59880-4d92-45f1-92b5-760c079fe0ce",
+    "isopen": true,
+    "license_id": "odc-odbl",
+    "license_title": "Open Data Commons Open Database License (ODbL)",
+    "license_url": "http://www.opendefinition.org/licenses/odc-odbl",
+    "maintainer": "",
+    "maintainer_email": "",
+    "metadata_created": "2024-01-10T08:27:06.446621",
+    "metadata_modified": "2024-01-10T08:27:23.412827",
+    "name": "guide-du-ressortissant",
+    "notes": "Ce fichier concerne un guide détaillant les principales missions et services assurés par la Chambre de Commerce, d’Industrie et de Services de la Région Marrakech-Safi (CCISRMS)",
+    "notes_ar": "يقدم هذا الملف تفاصيل دليل المنتسب المتعلق بالمهام والخدمات الأساسية التي تقدمها غرفة التجارة والصناعة والخدمات بجهة مراكش آسفي",
+    "notes_fr": "Ce fichier concerne un guide détaillant les principales missions et services assurés par la Chambre de Commerce, d’Industrie et de Services de la Région Marrakech-Safi (CCISRMS)",
+    "num_resources": 1,
+    "num_tags": 5,
+    "organization": {
+      "id": "b35b4dda-6d13-4df6-923e-840f2955bb92",
+      "name": "chambre-de-commerce-d-industrie-et-de-services-de-la-region-marrakech-safi-ccisrms",
+      "title": "Chambre de Commerce, d’Industrie et de Services de la Région Marrakech – Safi (CCISRMS)",
+      "type": "organization",
+      "description": "Données ouvertes de la Chambre de Commerce, d’Industrie et de Services de la Région Marrakech – Safi (CCISRMS)",
+      "image_url": "2024-01-09-143539.306088LogoCCISMS.PNG",
+      "created": "2024-01-09T14:35:39.316070",
+      "is_organization": true,
+      "approval_status": "approved",
+      "state": "active",
+      "title_translated": {
+        "fr": "Chambre de Commerce, d’Industrie et de Services de la Région Marrakech – Safi (CCISRMS)",
+        "ar": "غرفة التجارة و الصناعة و الخدمات لجهة مراكش-آسفي"
+      },
+      "description_translated": {
+        "fr": "Données ouvertes de la Chambre de Commerce, d’Industrie et de Services de la Région Marrakech – Safi (CCISRMS)",
+        "ar": " معطيات مفتوحة خاصة بغرفة التجارة و الصناعة و الخدمات لجهة مراكش-آسفي"
+      }
+    },
+    "owner_org": "b35b4dda-6d13-4df6-923e-840f2955bb92",
+    "private": false,
+    "state": "active",
+    "title": "Guide du ressortissant",
+    "title_ar": "دليل المنتسب",
+    "title_fr": "Guide du ressortissant",
+    "type": "dataset",
+    "url": "",
+    "version": "",
+    "groups": [
+      {
+        "description": "Données ouvertes dans le domaine de la culture",
+        "display_name": "Culture",
+        "id": "d4e28445-2da3-4d82-900b-2b9eb678e5c6",
+        "image_display_url": "https://data.gov.ma/data/uploads/group/2023-10-27-143428.683434culture2.png",
+        "name": "culture",
+        "title": "Culture"
+      },
+      {
+        "description": "Données ouvertes dans le domaine du tourisme.",
+        "display_name": "Tourisme",
+        "id": "b3f20a32-bf7d-4de7-bb4e-cfa5e2bd4a1c",
+        "image_display_url": "https://data.gov.ma/data/uploads/group/2021-12-13-093232.207143tourisme1.png",
+        "name": "tourisme",
+        "title": "Tourisme"
+      }
+    ],
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "created": "2024-01-10T08:27:23.161487",
+        "datastore_active": false,
+        "description": "",
+        "format": "PDF",
+        "hash": "",
+        "id": "7f2433ae-36d7-4abf-8d02-e0fcb69de3cf",
+        "last_modified": "2024-01-10T08:27:23.137434",
+        "metadata_modified": "2024-01-10T08:27:23.418572",
+        "mimetype": "application/pdf",
+        "mimetype_inner": null,
+        "name": "GUIDE DU RESSORTISSANT.pdf",
+        "package_id": "79d59880-4d92-45f1-92b5-760c079fe0ce",
+        "position": 0,
+        "resource_type": null,
+        "size": 10211402,
+        "state": "active",
+        "url": "https://data.gov.ma/data/fr/dataset/79d59880-4d92-45f1-92b5-760c079fe0ce/resource/7f2433ae-36d7-4abf-8d02-e0fcb69de3cf/download/guide-du-ressortissant.pdf",
+        "url_type": "upload"
+      }
+    ],
+    "tags": [
+      {
+        "display_name": "marrakech",
+        "id": "61ac8bc2-4b57-47b5-be1c-489185e0a442",
+        "name": "marrakech",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "mission",
+        "id": "21114dcb-a3e1-4b5f-9981-ceb70bb85d21",
+        "name": "mission",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "région",
+        "id": "272b748b-d67d-4d5d-a626-04195b3a80cd",
+        "name": "région",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "safi",
+        "id": "2cca28f5-594f-4004-b23d-229b7315df6b",
+        "name": "safi",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "service",
+        "id": "3b54953c-6704-42d8-a95d-fea981475fed",
+        "name": "service",
+        "state": "active",
+        "vocabulary_id": null
+      }
+    ],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "title_translated": {
+      "fr": "Guide du ressortissant",
+      "ar": "دليل المنتسب"
+    },
+    "notes_translated": {
+      "fr": "Ce fichier concerne un guide détaillant les principales missions et services assurés par la Chambre de Commerce, d’Industrie et de Services de la Région Marrakech-Safi (CCISRMS)",
+      "ar": "يقدم هذا الملف تفاصيل دليل المنتسب المتعلق بالمهام والخدمات الأساسية التي تقدمها غرفة التجارة والصناعة والخدمات بجهة مراكش آسفي"
+    }
+  },
+  {
+    "author": "",
+    "author_email": "",
+    "creator_user_id": "41d99e66-e547-4850-b70b-e268d6ee37a6",
+    "id": "4515412f-5724-4f91-8bbb-ce976bcbdba0",
+    "isopen": true,
+    "license_id": "odc-odbl",
+    "license_title": "Open Data Commons Open Database License (ODbL)",
+    "license_url": "https://opendefinition.org/licenses/odc-odbl",
+    "maintainer": "",
+    "maintainer_email": "",
+    "metadata_created": "2024-10-08T10:47:09.134236",
+    "metadata_modified": "2024-10-08T10:47:25.441555",
+    "name": "monographie-socio-economique-de-marrakech-safi",
+    "notes": "Ce fichier présente la monographie socio-économique de la région Marrakech-Safi (présentation générale, atouts stratégiques, infrastructures de base, secteurs sociaux, performances économiques et culturelles de la région), accompagnée de chiffres et de statistiques.",
+    "notes_ar": "يقدم هذا الملف المونوغرافيا الاجتماعية والاقتصادية لجهة مراكش آسفي (عرض عام، المزايا الاستراتيجية، البنية التحتية الأساسية، القطاعات الاجتماعية، الأداءات الاقتصادية والثقافية للجهة)، مصحوبة بالأرقام والإحصائيات.",
+    "notes_fr": "Ce fichier présente la monographie socio-économique de la région Marrakech-Safi (présentation générale, atouts stratégiques, infrastructures de base, secteurs sociaux, performances économiques et culturelles de la région), accompagnée de chiffres et de statistiques.",
+    "num_resources": 1,
+    "num_tags": 5,
+    "organization": {
+      "id": "b35b4dda-6d13-4df6-923e-840f2955bb92",
+      "name": "chambre-de-commerce-d-industrie-et-de-services-de-la-region-marrakech-safi-ccisrms",
+      "title": "Chambre de Commerce, d’Industrie et de Services de la Région Marrakech – Safi (CCISRMS)",
+      "type": "organization",
+      "description": "Données ouvertes de la Chambre de Commerce, d’Industrie et de Services de la Région Marrakech – Safi (CCISRMS)",
+      "image_url": "2024-01-09-143539.306088LogoCCISMS.PNG",
+      "created": "2024-01-09T14:35:39.316070",
+      "is_organization": true,
+      "approval_status": "approved",
+      "state": "active",
+      "title_translated": {
+        "fr": "Chambre de Commerce, d’Industrie et de Services de la Région Marrakech – Safi (CCISRMS)",
+        "ar": "غرفة التجارة و الصناعة و الخدمات لجهة مراكش-آسفي"
+      },
+      "description_translated": {
+        "fr": "Données ouvertes de la Chambre de Commerce, d’Industrie et de Services de la Région Marrakech – Safi (CCISRMS)",
+        "ar": " معطيات مفتوحة خاصة بغرفة التجارة و الصناعة و الخدمات لجهة مراكش-آسفي"
+      }
+    },
+    "owner_org": "b35b4dda-6d13-4df6-923e-840f2955bb92",
+    "private": false,
+    "state": "active",
+    "title": "Monographie socio-économique de la région Marrakech Safi",
+    "title_ar": "المونوغرافيا الاجتماعية والاقتصادية لجهة مراكش آسفي",
+    "title_fr": "Monographie socio-économique de la région Marrakech Safi",
+    "type": "dataset",
+    "url": "",
+    "version": "",
+    "groups": [
+      {
+        "description": "Données ouvertes dans le domaine de la culture",
+        "display_name": "Culture",
+        "id": "d4e28445-2da3-4d82-900b-2b9eb678e5c6",
+        "image_display_url": "https://data.gov.ma/data/uploads/group/2023-10-27-143428.683434culture2.png",
+        "name": "culture",
+        "title": "Culture"
+      },
+      {
+        "description": "Données ouvertes dans le domaine du tourisme.",
+        "display_name": "Tourisme",
+        "id": "b3f20a32-bf7d-4de7-bb4e-cfa5e2bd4a1c",
+        "image_display_url": "https://data.gov.ma/data/uploads/group/2021-12-13-093232.207143tourisme1.png",
+        "name": "tourisme",
+        "title": "Tourisme"
+      }
+    ],
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "created": "2024-10-08T10:47:25.091447",
+        "datastore_active": false,
+        "description": "",
+        "format": "PDF",
+        "hash": "",
+        "id": "89f90dde-6484-4b19-a7ca-b0b03b11cea5",
+        "last_modified": "2024-10-08T10:47:25.057726",
+        "metadata_modified": "2024-10-08T10:47:25.448425",
+        "mimetype": "application/pdf",
+        "mimetype_inner": null,
+        "name": "Monographie _Région_Marrakech_Safi.pdf",
+        "package_id": "4515412f-5724-4f91-8bbb-ce976bcbdba0",
+        "position": 0,
+        "resource_type": null,
+        "size": 18303305,
+        "state": "active",
+        "url": "https://data.gov.ma/data/ar/dataset/4515412f-5724-4f91-8bbb-ce976bcbdba0/resource/89f90dde-6484-4b19-a7ca-b0b03b11cea5/download/monographie-_region_marrakech_safi.pdf",
+        "url_type": "upload"
+      }
+    ],
+    "tags": [
+      {
+        "display_name": "marrakech",
+        "id": "61ac8bc2-4b57-47b5-be1c-489185e0a442",
+        "name": "marrakech",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "monographie",
+        "id": "8bedced3-4817-49e2-a36c-5353c9623294",
+        "name": "monographie",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "région",
+        "id": "272b748b-d67d-4d5d-a626-04195b3a80cd",
+        "name": "région",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "safi",
+        "id": "2cca28f5-594f-4004-b23d-229b7315df6b",
+        "name": "safi",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "soci-économique",
+        "id": "29a68233-212e-4671-a55d-6c8a33941a37",
+        "name": "soci-économique",
+        "state": "active",
+        "vocabulary_id": null
+      }
+    ],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "title_translated": {
+      "fr": "Monographie socio-économique de la région Marrakech Safi",
+      "ar": "المونوغرافيا الاجتماعية والاقتصادية لجهة مراكش آسفي"
+    },
+    "notes_translated": {
+      "fr": "Ce fichier présente la monographie socio-économique de la région Marrakech-Safi (présentation générale, atouts stratégiques, infrastructures de base, secteurs sociaux, performances économiques et culturelles de la région), accompagnée de chiffres et de statistiques.",
+      "ar": "يقدم هذا الملف المونوغرافيا الاجتماعية والاقتصادية لجهة مراكش آسفي (عرض عام، المزايا الاستراتيجية، البنية التحتية الأساسية، القطاعات الاجتماعية، الأداءات الاقتصادية والثقافية للجهة)، مصحوبة بالأرقام والإحصائيات."
+    }
+  },
+  {
+    "author": "",
+    "author_email": "",
+    "available_languages": "[\"fr\", \"ar\"]",
+    "collection_frequency": "annuel",
+    "creator_user_id": "41d99e66-e547-4850-b70b-e268d6ee37a6",
+    "disaggregation_level": "National",
+    "geographic_coverage": "Nationale",
+    "id": "2e75db6d-6a56-4652-8541-fe43ff32e854",
+    "is_active": "actif",
+    "isopen": true,
+    "license_id": "odc-odbl",
+    "license_title": "Open Data Commons Open Database License (ODbL)",
+    "license_url": "https://opendefinition.org/licenses/odc-odbl",
+    "maintainer": "",
+    "maintainer_email": "",
+    "metadata_created": "2023-10-27T15:09:11.719396",
+    "metadata_modified": "2026-06-23T09:25:46.347098",
+    "name": "indicateurs-sectoriels-2012-2022",
+    "notes": "Ce fichier présente les indicateurs sectoriels (Agriculture et pêche maritime, Mines, Énergie, Eau, etc.).\r\n- Moyenne des précipitations nationales (En mm)\r\n\r\n-Superficie cultivée selon les principales cultures agricoles (En milliers ha)\r\n\r\n-Production des principales cultures (En milliers de qx)\r\n\r\n-Rendement des principales cultures (En qx/ha)\r\n\r\n-Effectif du cheptel (passage mars-avril) (En milliers de têtes)\r\n\r\n-Poids de la viande des abattages contrôlés (En milliers de tonnes)\r\n\r\n-Etat de la flotte de la pêche nationale \r\n\r\n-Production halieutique nationale \r\n\r\n-Production et utilisation des phosphates (En milliers de tonnes)\r\n\r\n-Production et exportation de l'acide phosphorique (Chiffre d'affaires à l'exportation du groupe OCP (En millions de dh))\r\n\r\n-Taux de croissance de l'indice de la production minière (%)\r\n\r\n-Bilan du secteur énergétique (En milliers de TEP)\r\n\r\n-Exploitation de l'eau potable en milieu urbain\r\n\r\n-Industries de transformation\r\n\r\n-Production effective totale des Industries de transformation (En millions de dh)\r\n\r\n-Valeur ajoutée des industries de transformation  (En millions de dh)\r\n\r\n-Exportation des industries de transformation (En millions de dh)\r\n\r\n-FBCF des industries de transformation : (En millions de dh)\r\n\r\n-Activité de l'industrie sucrière (En Milliers de tonnes)\r\n\r\n-Activité des minoteries industrielles (En milliers de qx)\r\n\r\n-Activité de l'industrie oléicole (En milliers de tonnes)\r\n\r\n-Activité de l'industrie laitière\r\n\r\n-Activité des cimenteries \r\n\r\n-Réseau routier revêtu (En milliers de Km)\r\n\r\n-Longueur des autoroutes (En Km)\r\n\r\n-Parc des véhicules (En milliers)\r\n\r\n-Trafic routier en millions de véhicules.Km/jour\r\n\r\n-Trafic de voyageurs  (En milliers)\r\n\r\n-Trafic de marchandises (En milliers de tonnes)\r\n\r\n-Accidents de la circulation (En nombre)\r\n\r\n-Part des accidents mortels (En %)\r\n\r\n-Nombre de victimes\r\n\r\n-Capacité hôtelière (En lits)\r\n\r\n-Taux d'occupation (En %)\r\n\r\n-Arrivées (hors MRE) (En milliers)\r\n\r\n-Structure selon les principaux pays (En %)\r\n\r\n-Entrées de voyageurs contrôlés aux frontières (En milliers)\r\n\r\n-Nuitées touristiques dans les hôtels classés (En milliers)\r\n\r\n-Recettes touristiques (En millions de dh)\r\n\r\n-Nombre d'abonnés (fixe + mobile) (En milliers)\r\n\r\n-Densité du téléphone (fixe + mobile) (En %)\r\n\r\n-Nombre d'abonnés Intenet (En milliers)\r\n\r\n-Chiffre d'affaires des sociétés d'assurances (En millions dh)\r\n\r\n",
+    "notes_ar": "يقدم هذا الملف  المؤشرات القطاعية (الفلاحة والصيد البحري، المعادن، الطاقة، الماء، إلخ)\r\n- معدل التساقطات على الصعيد الوطني (مم)\r\n \r\nالمساحات المزروعة حسب أهم الزراعات (آلاف الهكتارات)-\r\n\r\nإنتاج أهم المزروعات \r\nمردود أهم الزراعات (قنطار في الهكتار)\r\n\r\n\r\nعدد رؤوس الماشية (بالألف) (دورة مارس-أبريل)\r\n\r\nالذبائح المراقبة (ألف طن)\r\n\r\nإنتاج الصيد البحري الوطني \r\n\r\nإنتاج واستعمال الفوسفاط ( بألف طن)\r\n\r\nإنتاج وتصدير الحامض الفسفوري\r\n\r\nرقم المعاملات عند التصديرلمجموعة المكتب الشريف للفوسفاط  (بمليون درهم)\r\n     معدل نمو الرقم الإستدلالي للإنتاج المعدني (%)\r\nنشاط  قطاع الطاقة (بألف طن مقابل بترول)\r\n\r\nاستغلال المياه الصالحة للشرب بالوسط القروي\r\n\r\nالإنتاج الفعلي الإجمالي للصنـاعات التحـويلية(بمليون درهم)\r\n\r\nالقيمة المضافة  للصنـاعات التحـويلية(بمليون درهم)\r\n\r\nالصادرات للصنـاعات التحـويلية(بمليون درهم)\r\n\r\nالتكوين الخام للرأسمال الثابت (بمليون درهم) \r\n\r\n\"تغير الرقم الإستدلالي للإنتاج الصناعي حسب قطاعات النشاط\r\n الإقتصادي (%)\"\r\n\r\nنشاط صناعة السكر (بألف طن)\r\n\r\nنشاط المطاحن الصناعية (بألف قنطار)\r\n\r\nنشاط الصناعة الزيتية (بألف طن)\r\n\r\nنشاط صناعة الحليب \r\n\r\nنشاط صناعة الإسمنت \r\n\r\nمبيعات الإسمنت الإجمالية (بألف طن)\r\n\r\nانتاج الوحدات السكنية (بالآلاف)\r\n\r\nشبكة الطرق المعبدة (بمليون كم)\r\n\r\nطول الطرق السيارة (كم)\r\n\r\nعدد السيارات المتنقلة (بالآلاف)\r\n\r\nالرواج الطرقي (مليون عربة.كلم/يوم)\r\n\r\nنقل المسافرين  (باللألف)\r\n\r\nنقل البضائع  (بألف طن)\r\n\r\nعدد حوادث السير\r\n\r\nعدد الضحايا\r\n\r\nالطاقة الإيوائية للفنادق (بعدد الاسرة)\r\n\r\nنسبة التوافد على الفنادق (%)\r\n\r\nالوافدون من السياح الأجانب غير المغاربة ( بالآلاف)\r\n\r\nالمسافرون العابرون للحدود المغربية  ( بالآلاف)\r\n\r\nالليالي السياحية في الفنادق المصنفة ( بالآلاف)\r\n\r\nالمداخيل السياحية ( بمليون درهم)\r\n\r\nعدد المنخرطين في الهاتف  (الثابت و المحمول )(بالألف)\r\n\r\nكثافة الهاتف المحمول والثابت (%)\r\n\r\nعدد المنخرطين في الأنترنيت (بالألف)\r\n\r\nرقم معاملات شركات التأمين (بمليون درهم)\r\n\r\n",
+    "num_resources": 4,
+    "num_tags": 66,
+    "organization": {
+      "id": "b428a1d6-2c1b-409a-a7e6-46272f2cf4c9",
+      "name": "ministere-de-l-economie-et-des-finances",
+      "title": "MEF",
+      "type": "organization",
+      "description": "Données ouvertes du Ministère de l'Economie et des Finances.",
+      "image_url": "2021-11-13-185149.251169MEF.jpg",
+      "created": "2013-09-23T11:33:49.318114",
+      "is_organization": true,
+      "approval_status": "approved",
+      "state": "active",
+      "title_translated": {
+        "fr": "MEF",
+        "ar": "وزارة الاقتصاد والمالية"
+      },
+      "description_translated": {
+        "fr": "Données ouvertes du Ministère de l'Economie et des Finances.",
+        "ar": "معطيات مفتوحة خاصة بوزارة الاقتصاد والمالية"
+      }
+    },
+    "owner_org": "b428a1d6-2c1b-409a-a7e6-46272f2cf4c9",
+    "private": false,
+    "state": "active",
+    "storage_format": "Excel",
+    "tag_string_ar": "تساقط,المساحة المزروعة,المحاصيل الزراعية,الإنتاج الزراعي,العائد الزراعي,الثروة الحيوانية,تربية,اللحوم المذبوحة,أسطول الصيد,إنتاج مصايد الأسماك,الموارد السمكية,توازن الطاقة,مياه الشرب,شبكات المياه,الصناعات التحويلية,القيمة المضافة الصناعية,الصادرات الصناعية,الإنتاج الصناعي,صناعة السكر,صناعة الزيتون,صناعة الألبان,أعمال الأسمنت,شبكة الطرق,الطرق السريعة,أسطول المركبات,حركة المرور على الطرق,المركبات,حركة الركاب,حركة الشحن,حوادث الطرق,الحوادث المميتة,الإصابات,سعة الفندق,الوافدون السياح,الإقامة لليلة واحدة,إيرادات السياحة,مشتركي الهاتف,مشتركي الإنترنت,كثافة الهاتف,الهاتفأ الثابت,الهاتف المحمول,شركات التأمين,مبيعات التأمين",
+    "temporal_coverage_end": "2024-12-31",
+    "temporal_coverage_start": "2013-01-01",
+    "title": "Indicateurs sectoriels",
+    "title_ar": "  المؤشرات القطاعية ",
+    "type": "dataset",
+    "url": "",
+    "version": "",
+    "groups": [
+      {
+        "description": "Données ouvertes dans le domaine de l'économie et des finances.",
+        "display_name": "Economie et Finance",
+        "id": "5026f7a6-0fbd-40a3-8463-9f5a10348e68",
+        "image_display_url": "https://data.gov.ma/data/uploads/group/2021-09-26-222616.237312finance.png",
+        "name": "finance",
+        "title": "Economie et Finance"
+      }
+    ],
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "created": "2023-10-27T15:09:33.568701",
+        "datastore_active": false,
+        "description": "",
+        "format": "XLSX",
+        "hash": "",
+        "id": "febeb4b2-c45b-4143-8e00-c9573996aaa4",
+        "language": "",
+        "last_modified": "2023-10-27T15:09:33.545823",
+        "metadata_modified": "2026-03-09T13:51:46.450227",
+        "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "mimetype_inner": null,
+        "name": "Indicateurs sectoriels_FR.xlsx",
+        "package_id": "2e75db6d-6a56-4652-8541-fe43ff32e854",
+        "position": 0,
+        "resource_type": null,
+        "size": 142546,
+        "state": "active",
+        "url": "https://data.gov.ma/data/fr/dataset/2e75db6d-6a56-4652-8541-fe43ff32e854/resource/febeb4b2-c45b-4143-8e00-c9573996aaa4/download/indicateurs-sectoriels_fr.xlsx",
+        "url_type": "upload"
+      },
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "created": "2023-10-27T15:10:25.102310",
+        "datastore_active": false,
+        "description": "",
+        "format": "XLSX",
+        "hash": "",
+        "id": "fc3c168f-5b67-4d05-92e5-22abe56854de",
+        "language": "",
+        "last_modified": "2023-10-27T15:10:25.080280",
+        "metadata_modified": "2026-03-09T13:51:46.450439",
+        "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "mimetype_inner": null,
+        "name": "Indicateurs sectoriels_AR.xlsx",
+        "package_id": "2e75db6d-6a56-4652-8541-fe43ff32e854",
+        "position": 1,
+        "resource_type": null,
+        "size": 100085,
+        "state": "active",
+        "url": "https://data.gov.ma/data/fr/dataset/2e75db6d-6a56-4652-8541-fe43ff32e854/resource/fc3c168f-5b67-4d05-92e5-22abe56854de/download/indicateurs-sectoriels_ar.xlsx",
+        "url_type": "upload"
+      },
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "created": "2026-03-09T13:51:46.802814",
+        "datastore_active": false,
+        "description": "",
+        "format": "XLSX",
+        "hash": "",
+        "id": "e4aa6bd8-ebe5-4bde-8de0-5ff5efd1243a",
+        "language": "ar",
+        "last_modified": "2026-03-09T13:51:46.384088",
+        "metadata_modified": "2026-03-09T13:52:01.161113",
+        "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "mimetype_inner": null,
+        "name": "Indicateurs sectoriels_AR_2025.xlsx",
+        "package_id": "2e75db6d-6a56-4652-8541-fe43ff32e854",
+        "position": 2,
+        "resource_type": null,
+        "size": 77423,
+        "state": "active",
+        "url": "https://data.gov.ma/data/fr/dataset/2e75db6d-6a56-4652-8541-fe43ff32e854/resource/e4aa6bd8-ebe5-4bde-8de0-5ff5efd1243a/download/indicateurs-sectoriels_ar_2025.xlsx",
+        "url_type": "upload",
+        "validation_status": "",
+        "validation_timestamp": ""
+      },
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "created": "2026-03-09T13:52:01.351550",
+        "datastore_active": false,
+        "description": "",
+        "format": "XLSX",
+        "hash": "",
+        "id": "22abbf92-d09a-4612-948e-7e48471f9643",
+        "language": "fr",
+        "last_modified": "2026-03-09T13:52:01.115281",
+        "metadata_modified": "2026-03-09T13:52:01.161451",
+        "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "mimetype_inner": null,
+        "name": "Indicateurs sectoriels_FR_2025.xlsx",
+        "package_id": "2e75db6d-6a56-4652-8541-fe43ff32e854",
+        "position": 3,
+        "resource_type": null,
+        "size": 74719,
+        "state": "active",
+        "url": "https://data.gov.ma/data/fr/dataset/2e75db6d-6a56-4652-8541-fe43ff32e854/resource/22abbf92-d09a-4612-948e-7e48471f9643/download/indicateurs-sectoriels_fr_2025.xlsx",
+        "url_type": "upload",
+        "validation_status": "",
+        "validation_timestamp": ""
+      }
+    ],
+    "tags": [
+      {
+        "display_name": "Abonnés Internet",
+        "id": "38851c10-d0e1-4870-ba3d-3341cd6d6aed",
+        "name": "Abonnés Internet",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "Abonnés téléphoniques",
+        "id": "9063048b-9b82-4098-8174-08743de323c2",
+        "name": "Abonnés téléphoniques",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "Accidents de la route",
+        "id": "dc450f74-df7a-4002-824e-aeaf4cdca7b1",
+        "name": "Accidents de la route",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "Accidents mortels",
+        "id": "2de42ef0-f508-44f0-b845-7b928ea81a7c",
+        "name": "Accidents mortels",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "Arrivées touristiques",
+        "id": "0482ce37-099e-4b9c-87f6-661758289930",
+        "name": "Arrivées touristiques",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "Autoroutes",
+        "id": "cee37784-5b47-4c69-a9b0-895c4a94f448",
+        "name": "Autoroutes",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "Capacité hôtelière",
+        "id": "bae39c75-309d-4b15-a859-9d993f07fba7",
+        "name": "Capacité hôtelière",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "Densité du téléphone",
+        "id": "d276bf13-9faa-4ceb-9023-f72386436ef2",
+        "name": "Densité du téléphone",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "Frontières",
+        "id": "610affce-2038-4737-8fca-a11c3211e2b1",
+        "name": "Frontières",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "MRE",
+        "id": "5c7463ba-961e-44dc-813d-88b230ef189c",
+        "name": "MRE",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "Nuitées",
+        "id": "ca595d31-14af-4a09-83d5-219b2803668d",
+        "name": "Nuitées",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "Parc automobile",
+        "id": "00de95d7-b374-426e-8893-fcb75e9b26de",
+        "name": "Parc automobile",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "Recettes touristiques",
+        "id": "bde0f0bc-e49e-46cb-9d8a-90a18c6eeea6",
+        "name": "Recettes touristiques",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "Réseau routier",
+        "id": "02e5db57-3f88-4393-8f79-957350df5aca",
+        "name": "Réseau routier",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "Trafic de marchandises",
+        "id": "4c58e1bb-211b-4a79-bdc3-3a4bc21c0319",
+        "name": "Trafic de marchandises",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "Trafic routier",
+        "id": "d6f81cd2-f723-4198-a3ea-5cd5c913955c",
+        "name": "Trafic routier",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "Téléphonie fixe",
+        "id": "7ba827f9-b74b-44e6-8466-be733dcce49f",
+        "name": "Téléphonie fixe",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "Téléphonie mobile",
+        "id": "773abb4a-1222-4c0d-8fd6-8694d3257999",
+        "name": "Téléphonie mobile",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "Victimes",
+        "id": "4c8af975-145d-47d5-8452-0ee301afd536",
+        "name": "Victimes",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "Véhicules Trafic de voyageurs",
+        "id": "dda561b1-7c73-4830-bada-fe3a33868988",
+        "name": "Véhicules Trafic de voyageurs",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "chiffre affaires assurances",
+        "id": "b4d95089-6410-42eb-877b-a044f71a81ed",
+        "name": "chiffre affaires assurances",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "société assurance",
+        "id": "7e9643b6-b886-460b-b46b-0bcf7fa76731",
+        "name": "société assurance",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "taux occupation",
+        "id": "ae8c6874-b070-4108-b498-0ed14d44ee71",
+        "name": "taux occupation",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "أسطول الصيد",
+        "id": "d47a69c5-54f7-4a3c-ac00-58dfe690818b",
+        "name": "أسطول الصيد",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "أسطول المركبات",
+        "id": "9d778698-c72a-4616-90d7-b5c6a8086ccc",
+        "name": "أسطول المركبات",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "أعمال الأسمنت",
+        "id": "08ae1c55-7cdd-4213-b743-8d5f5ae68ef7",
+        "name": "أعمال الأسمنت",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "إنتاج مصايد الأسماك",
+        "id": "06fe3fd8-72e0-4c12-993a-0de4c6fdd17b",
+        "name": "إنتاج مصايد الأسماك",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "إيرادات السياحة",
+        "id": "de250f50-a407-468a-b353-214bf1ae73ef",
+        "name": "إيرادات السياحة",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "الإصابات",
+        "id": "001fbebc-7a79-49d8-b5c1-d10e59268231",
+        "name": "الإصابات",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "الإقامة لليلة واحدة",
+        "id": "5a7413e8-6d18-4965-a999-a830af1f440e",
+        "name": "الإقامة لليلة واحدة",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "الإنتاج الزراعي",
+        "id": "064922d5-5307-4635-9858-6dc257f5a15b",
+        "name": "الإنتاج الزراعي",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "الإنتاج الصناعي",
+        "id": "545cdf34-ad5a-45dc-845d-c0f5a4d09399",
+        "name": "الإنتاج الصناعي",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "الثروة الحيوانية",
+        "id": "0deeff71-7ddf-48f5-8476-b94f8fe1b908",
+        "name": "الثروة الحيوانية",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "الحوادث المميتة",
+        "id": "0d74ccab-ed37-4e9b-911c-230fccc4606f",
+        "name": "الحوادث المميتة",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "الصادرات الصناعية",
+        "id": "aeab7ab0-d439-4c82-96cf-bf880153b9e1",
+        "name": "الصادرات الصناعية",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "الصناعات التحويلية",
+        "id": "15a8be07-0ba9-4fb1-9852-821ffecf9c46",
+        "name": "الصناعات التحويلية",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "الطرق السريعة",
+        "id": "422acf4b-fa4e-4a3a-a16e-0bc72882064f",
+        "name": "الطرق السريعة",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "العائد الزراعي",
+        "id": "8ce1fde3-b7aa-4fe8-91de-93c9d6dd4727",
+        "name": "العائد الزراعي",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "القيمة المضافة الصناعية",
+        "id": "de037b9f-335e-45b1-8c24-e6f1ac4d5ad8",
+        "name": "القيمة المضافة الصناعية",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "اللحوم المذبوحة",
+        "id": "e1e383db-2ae1-413d-a972-4e27473f198b",
+        "name": "اللحوم المذبوحة",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "المحاصيل الزراعية",
+        "id": "654beab0-eb61-42a3-acab-ce00ba3087d7",
+        "name": "المحاصيل الزراعية",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "المركبات",
+        "id": "f3efcf99-5d50-4a27-bba1-44ceae1d9a43",
+        "name": "المركبات",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "المساحة المزروعة",
+        "id": "debd83c2-4d3f-4242-94f3-25b37e41b108",
+        "name": "المساحة المزروعة",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "الموارد السمكية",
+        "id": "cdcf8a3c-da96-465a-886a-afffd37433d5",
+        "name": "الموارد السمكية",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "الهاتف المحمول",
+        "id": "60fcc20f-fdeb-4ca8-a3d9-bbb8c1937dcb",
+        "name": "الهاتف المحمول",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "الهاتفأ الثابت",
+        "id": "cb375092-73c5-4226-905d-9efbf66e533a",
+        "name": "الهاتفأ الثابت",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "الوافدون السياح",
+        "id": "4f5df36a-83f2-49bb-8985-12c0d658e40f",
+        "name": "الوافدون السياح",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "تربية",
+        "id": "ff43ff10-3d59-447a-b3cd-85a359386b01",
+        "name": "تربية",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "تساقط",
+        "id": "1283e2ba-80d5-4eaf-a23e-e060c1e37389",
+        "name": "تساقط",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "توازن الطاقة",
+        "id": "8586f531-82a1-4095-a462-4f35cb859fe3",
+        "name": "توازن الطاقة",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "حركة الركاب",
+        "id": "75da3954-a2e7-432c-92dd-eaf872fd7bdf",
+        "name": "حركة الركاب",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "حركة الشحن",
+        "id": "7b74657b-fd6c-4fca-b790-81e8e3b32995",
+        "name": "حركة الشحن",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "حركة المرور على الطرق",
+        "id": "0b2866df-12e3-43b5-a004-830e95158844",
+        "name": "حركة المرور على الطرق",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "حوادث الطرق",
+        "id": "b4838dd7-d7ac-4e70-a69d-07a2f4d3b059",
+        "name": "حوادث الطرق",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "سعة الفندق",
+        "id": "b94cc3fa-01bf-454a-b119-24afa2dda02f",
+        "name": "سعة الفندق",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "شبكات المياه",
+        "id": "b05a502c-2d85-47fd-9a0a-db720297a7b4",
+        "name": "شبكات المياه",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "شبكة الطرق",
+        "id": "597560ba-b419-40a3-a36e-f5aab87de925",
+        "name": "شبكة الطرق",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "شركات التأمين",
+        "id": "a2bcc6ef-bd37-45e2-8302-5ac0c5bd6a28",
+        "name": "شركات التأمين",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "صناعة الألبان",
+        "id": "be9d12b9-8929-4ac1-a3d8-978a5d48960c",
+        "name": "صناعة الألبان",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "صناعة الزيتون",
+        "id": "9accc5ad-7b30-4e7c-a90c-56051f973f2f",
+        "name": "صناعة الزيتون",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "صناعة السكر",
+        "id": "9de5700e-25b1-4806-bb75-849c59928ae4",
+        "name": "صناعة السكر",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "كثافة الهاتف",
+        "id": "fa849d72-9587-41f5-aa11-68dcf7d1b82b",
+        "name": "كثافة الهاتف",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "مبيعات التأمين",
+        "id": "3cc8a449-96fe-4ef7-a366-0cab5c33960b",
+        "name": "مبيعات التأمين",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "مشتركي الإنترنت",
+        "id": "3a600a17-3d40-49a9-ad1a-414de8304202",
+        "name": "مشتركي الإنترنت",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "مشتركي الهاتف",
+        "id": "091030ba-a34b-48df-b94c-e27a8d29dd58",
+        "name": "مشتركي الهاتف",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "مياه الشرب",
+        "id": "316b048b-c7ff-4108-a3e9-ff8c42afa537",
+        "name": "مياه الشرب",
+        "state": "active",
+        "vocabulary_id": null
+      }
+    ],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "title_translated": {
+      "fr": "Indicateurs sectoriels",
+      "ar": "  المؤشرات القطاعية "
+    },
+    "notes_translated": {
+      "fr": "Ce fichier présente les indicateurs sectoriels (Agriculture et pêche maritime, Mines, Énergie, Eau, etc.).\r\n- Moyenne des précipitations nationales (En mm)\r\n\r\n-Superficie cultivée selon les principales cultures agricoles (En milliers ha)\r\n\r\n-Production des principales cultures (En milliers de qx)\r\n\r\n-Rendement des principales cultures (En qx/ha)\r\n\r\n-Effectif du cheptel (passage mars-avril) (En milliers de têtes)\r\n\r\n-Poids de la viande des abattages contrôlés (En milliers de tonnes)\r\n\r\n-Etat de la flotte de la pêche nationale \r\n\r\n-Production halieutique nationale \r\n\r\n-Production et utilisation des phosphates (En milliers de tonnes)\r\n\r\n-Production et exportation de l'acide phosphorique (Chiffre d'affaires à l'exportation du groupe OCP (En millions de dh))\r\n\r\n-Taux de croissance de l'indice de la production minière (%)\r\n\r\n-Bilan du secteur énergétique (En milliers de TEP)\r\n\r\n-Exploitation de l'eau potable en milieu urbain\r\n\r\n-Industries de transformation\r\n\r\n-Production effective totale des Industries de transformation (En millions de dh)\r\n\r\n-Valeur ajoutée des industries de transformation  (En millions de dh)\r\n\r\n-Exportation des industries de transformation (En millions de dh)\r\n\r\n-FBCF des industries de transformation : (En millions de dh)\r\n\r\n-Activité de l'industrie sucrière (En Milliers de tonnes)\r\n\r\n-Activité des minoteries industrielles (En milliers de qx)\r\n\r\n-Activité de l'industrie oléicole (En milliers de tonnes)\r\n\r\n-Activité de l'industrie laitière\r\n\r\n-Activité des cimenteries \r\n\r\n-Réseau routier revêtu (En milliers de Km)\r\n\r\n-Longueur des autoroutes (En Km)\r\n\r\n-Parc des véhicules (En milliers)\r\n\r\n-Trafic routier en millions de véhicules.Km/jour\r\n\r\n-Trafic de voyageurs  (En milliers)\r\n\r\n-Trafic de marchandises (En milliers de tonnes)\r\n\r\n-Accidents de la circulation (En nombre)\r\n\r\n-Part des accidents mortels (En %)\r\n\r\n-Nombre de victimes\r\n\r\n-Capacité hôtelière (En lits)\r\n\r\n-Taux d'occupation (En %)\r\n\r\n-Arrivées (hors MRE) (En milliers)\r\n\r\n-Structure selon les principaux pays (En %)\r\n\r\n-Entrées de voyageurs contrôlés aux frontières (En milliers)\r\n\r\n-Nuitées touristiques dans les hôtels classés (En milliers)\r\n\r\n-Recettes touristiques (En millions de dh)\r\n\r\n-Nombre d'abonnés (fixe + mobile) (En milliers)\r\n\r\n-Densité du téléphone (fixe + mobile) (En %)\r\n\r\n-Nombre d'abonnés Intenet (En milliers)\r\n\r\n-Chiffre d'affaires des sociétés d'assurances (En millions dh)\r\n\r\n",
+      "ar": "يقدم هذا الملف  المؤشرات القطاعية (الفلاحة والصيد البحري، المعادن، الطاقة، الماء، إلخ)\r\n- معدل التساقطات على الصعيد الوطني (مم)\r\n \r\nالمساحات المزروعة حسب أهم الزراعات (آلاف الهكتارات)-\r\n\r\nإنتاج أهم المزروعات \r\nمردود أهم الزراعات (قنطار في الهكتار)\r\n\r\n\r\nعدد رؤوس الماشية (بالألف) (دورة مارس-أبريل)\r\n\r\nالذبائح المراقبة (ألف طن)\r\n\r\nإنتاج الصيد البحري الوطني \r\n\r\nإنتاج واستعمال الفوسفاط ( بألف طن)\r\n\r\nإنتاج وتصدير الحامض الفسفوري\r\n\r\nرقم المعاملات عند التصديرلمجموعة المكتب الشريف للفوسفاط  (بمليون درهم)\r\n     معدل نمو الرقم الإستدلالي للإنتاج المعدني (%)\r\nنشاط  قطاع الطاقة (بألف طن مقابل بترول)\r\n\r\nاستغلال المياه الصالحة للشرب بالوسط القروي\r\n\r\nالإنتاج الفعلي الإجمالي للصنـاعات التحـويلية(بمليون درهم)\r\n\r\nالقيمة المضافة  للصنـاعات التحـويلية(بمليون درهم)\r\n\r\nالصادرات للصنـاعات التحـويلية(بمليون درهم)\r\n\r\nالتكوين الخام للرأسمال الثابت (بمليون درهم) \r\n\r\n\"تغير الرقم الإستدلالي للإنتاج الصناعي حسب قطاعات النشاط\r\n الإقتصادي (%)\"\r\n\r\nنشاط صناعة السكر (بألف طن)\r\n\r\nنشاط المطاحن الصناعية (بألف قنطار)\r\n\r\nنشاط الصناعة الزيتية (بألف طن)\r\n\r\nنشاط صناعة الحليب \r\n\r\nنشاط صناعة الإسمنت \r\n\r\nمبيعات الإسمنت الإجمالية (بألف طن)\r\n\r\nانتاج الوحدات السكنية (بالآلاف)\r\n\r\nشبكة الطرق المعبدة (بمليون كم)\r\n\r\nطول الطرق السيارة (كم)\r\n\r\nعدد السيارات المتنقلة (بالآلاف)\r\n\r\nالرواج الطرقي (مليون عربة.كلم/يوم)\r\n\r\nنقل المسافرين  (باللألف)\r\n\r\nنقل البضائع  (بألف طن)\r\n\r\nعدد حوادث السير\r\n\r\nعدد الضحايا\r\n\r\nالطاقة الإيوائية للفنادق (بعدد الاسرة)\r\n\r\nنسبة التوافد على الفنادق (%)\r\n\r\nالوافدون من السياح الأجانب غير المغاربة ( بالآلاف)\r\n\r\nالمسافرون العابرون للحدود المغربية  ( بالآلاف)\r\n\r\nالليالي السياحية في الفنادق المصنفة ( بالآلاف)\r\n\r\nالمداخيل السياحية ( بمليون درهم)\r\n\r\nعدد المنخرطين في الهاتف  (الثابت و المحمول )(بالألف)\r\n\r\nكثافة الهاتف المحمول والثابت (%)\r\n\r\nعدد المنخرطين في الأنترنيت (بالألف)\r\n\r\nرقم معاملات شركات التأمين (بمليون درهم)\r\n\r\n"
+    }
+  }
+]
